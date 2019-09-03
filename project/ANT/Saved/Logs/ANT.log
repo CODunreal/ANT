@@ -657,3 +657,264 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.09.03-13.12.06:900][ 33]LogPlayLevel: Display: Destroying online subsystem :Context_10
 [2019.09.03-13.49.09:663][304]LogSlate: Window 'widget_base01' being destroyed
 [2019.09.03-13.49.09:668][304]LogSlate: Window 'widget_base01' being destroyed
+[2019.09.03-14.40.51:938][840]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/widget_base01.widget_base01
+[2019.09.03-14.41.14:768][566]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\nemon\Desktop\NEMONOM\P\COD ANT\ANT\SY\UI_PLAY00.png)
+[2019.09.03-14.41.14:935][566]LogTexture: Display: Building textures: UI_PLAY00 (AutoDXT, 200X100)
+[2019.09.03-14.41.15:362][566]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\nemon\Desktop\NEMONOM\P\COD ANT\ANT\SY\UI_PLAY01.png)
+[2019.09.03-14.41.15:367][566]LogTexture: Display: Building textures: UI_PLAY01 (AutoDXT, 200X100)
+[2019.09.03-14.42.11:532][511]BlueprintLog: New page: Compile widget_base01
+[2019.09.03-14.42.12:840][511]LogUObjectHash: Compacting FUObjectHashTables data took   7.83ms
+[2019.09.03-14.42.14:827][577]LogTemp: Repeating last play command: Selected Viewport
+[2019.09.03-14.42.14:851][577]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/lobby.lobby:PersistentLevel' has LevelScriptBlueprint '/Game/lobby.lobby:PersistentLevel.lobby' with GeneratedClass '/Game/lobby.lobby_C' with ClassGeneratedBy '/Game/lobby.lobby:PersistentLevel.lobby'
+[2019.09.03-14.42.14:851][577]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.09.03-14.42.14:851][577]PIE: New page: PIE session: lobby (2019. 9. 4. 오전 8:42:14)
+[2019.09.03-14.42.14:852][577]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_lobby
+[2019.09.03-14.42.14:858][577]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006101s)
+[2019.09.03-14.42.14:860][577]LogAIModule: Creating AISystem for world lobby
+[2019.09.03-14.42.14:861][577]LogPlayLevel: PIE: World Init took: (0.002527s)
+[2019.09.03-14.42.14:861][577]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/lobby.lobby to /Game/UEDPIE_0_lobby.lobby (0.008926s)
+[2019.09.03-14.42.14:975][577]LogUObjectHash: Compacting FUObjectHashTables data took   6.89ms
+[2019.09.03-14.42.14:992][577]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.09.03-14.42.15:045][577]LogInit: FAudioDevice initialized.
+[2019.09.03-14.42.15:087][577]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.09.03-14.42.15:089][577]LogWorld: Bringing World /Game/UEDPIE_0_lobby.lobby up for play (max tick rate 60) at 2019.09.03-23.42.15
+[2019.09.03-14.42.15:089][577]LogWorld: Bringing up level for play took: 0.001065
+[2019.09.03-14.42.15:107][577]PIE: Play in editor start time for /Game/UEDPIE_0_lobby 0.821
+[2019.09.03-14.42.15:108][577]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/lobby.lobby:PersistentLevel' has LevelScriptBlueprint '/Game/lobby.lobby:PersistentLevel.lobby' with GeneratedClass '/Game/lobby.lobby_C' with ClassGeneratedBy '/Game/lobby.lobby:PersistentLevel.lobby'
+[2019.09.03-14.42.24:004][ 68]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/lobby.lobby:PersistentLevel' has LevelScriptBlueprint '/Game/lobby.lobby:PersistentLevel.lobby' with GeneratedClass '/Game/lobby.lobby_C' with ClassGeneratedBy '/Game/lobby.lobby:PersistentLevel.lobby'
+[2019.09.03-14.42.24:004][ 68]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.03-14.42.24:077][ 68]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.09.03-14.42.24:077][ 68]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/lobby.lobby:PersistentLevel' has LevelScriptBlueprint '/Game/lobby.lobby:PersistentLevel.lobby' with GeneratedClass '/Game/lobby.lobby_C' with ClassGeneratedBy '/Game/lobby.lobby:PersistentLevel.lobby'
+[2019.09.03-14.42.24:122][ 68]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.03-14.42.24:127][ 68]LogUObjectHash: Compacting FUObjectHashTables data took   3.09ms
+[2019.09.03-14.42.24:151][ 69]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2019.09.03-14.42.52:743][375]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2019.09.03-14.42.52:743][375]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/lobby' took 0.043
+[2019.09.03-14.42.52:755][375]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/widget_base01] ([1] browsable assets)...
+[2019.09.03-14.42.52:756][375]OBJ SavePackage: Finished generating thumbnails for package [/Game/widget_base01]
+[2019.09.03-14.42.52:781][375]LogSavePackage: Moving '../../../../../../Users/nemon/Desktop/NEMONOM/P/COD ANT/ANT/project/ANT/Saved/widget_base01_Auto1A5F9C7754B28B24EF3F3C9B7226DE5DF.tmp' to '../../../../../../Users/nemon/Desktop/NEMONOM/P/COD ANT/ANT/project/ANT/Saved/Autosaves/Game/widget_base01_Auto1.uasset'
+[2019.09.03-14.42.52:783][375]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/UI_PLAY00] ([1] browsable assets)...
+[2019.09.03-14.42.52:822][375]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/UI_PLAY00.UI_PLAY00]
+[2019.09.03-14.42.52:823][375]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI_PLAY00]
+[2019.09.03-14.42.52:823][375]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI_PLAY00" FILE="../../../../../../Users/nemon/Desktop/NEMONOM/P/COD ANT/ANT/project/ANT/Saved/Autosaves/Game/UI_PLAY00_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2019.09.03-14.42.52:870][375]LogSavePackage: Moving '../../../../../../Users/nemon/Desktop/NEMONOM/P/COD ANT/ANT/project/ANT/Saved/UI_PLAY00_Auto10B4C0CF249939D96DD2237B17E0A29AA.tmp' to '../../../../../../Users/nemon/Desktop/NEMONOM/P/COD ANT/ANT/project/ANT/Saved/Autosaves/Game/UI_PLAY00_Auto1.uasset'
+[2019.09.03-14.42.52:872][375]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/UI_PLAY01] ([1] browsable assets)...
+[2019.09.03-14.42.52:875][375]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/UI_PLAY01.UI_PLAY01]
+[2019.09.03-14.42.52:875][375]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI_PLAY01]
+[2019.09.03-14.42.52:875][375]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI_PLAY01" FILE="../../../../../../Users/nemon/Desktop/NEMONOM/P/COD ANT/ANT/project/ANT/Saved/Autosaves/Game/UI_PLAY01_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2019.09.03-14.42.52:879][375]LogSavePackage: Moving '../../../../../../Users/nemon/Desktop/NEMONOM/P/COD ANT/ANT/project/ANT/Saved/UI_PLAY01_Auto14CF2BA3C4548EE47752F1A854F7432F2.tmp' to '../../../../../../Users/nemon/Desktop/NEMONOM/P/COD ANT/ANT/project/ANT/Saved/Autosaves/Game/UI_PLAY01_Auto1.uasset'
+[2019.09.03-14.42.52:881][375]LogFileHelpers: Auto-saving content packages took 0.137
+[2019.09.03-14.44.15:044][532]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\nemon\Desktop\NEMONOM\P\COD ANT\ANT\SY\UI_EXIT01.png)
+[2019.09.03-14.44.15:051][532]LogTexture: Display: Building textures: UI_EXIT01 (AutoDXT, 200X100)
+[2019.09.03-14.44.15:065][532]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\nemon\Desktop\NEMONOM\P\COD ANT\ANT\SY\UI_EXIT00.png)
+[2019.09.03-14.44.15:069][532]LogTexture: Display: Building textures: UI_EXIT00 (AutoDXT, 200X100)
+[2019.09.03-14.44.45:893][138]BlueprintLog: New page: Compile widget_base01
+[2019.09.03-14.44.45:943][138]LogUObjectHash: Compacting FUObjectHashTables data took   4.93ms
+[2019.09.03-14.44.48:337][234]LogTemp: Repeating last play command: Selected Viewport
+[2019.09.03-14.44.48:347][234]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/lobby.lobby:PersistentLevel' has LevelScriptBlueprint '/Game/lobby.lobby:PersistentLevel.lobby' with GeneratedClass '/Game/lobby.lobby_C' with ClassGeneratedBy '/Game/lobby.lobby:PersistentLevel.lobby'
+[2019.09.03-14.44.48:347][234]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.09.03-14.44.48:347][234]PIE: New page: PIE session: lobby (2019. 9. 4. 오전 8:44:48)
+[2019.09.03-14.44.48:347][234]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_lobby
+[2019.09.03-14.44.48:349][234]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002323s)
+[2019.09.03-14.44.48:350][234]LogAIModule: Creating AISystem for world lobby
+[2019.09.03-14.44.48:350][234]LogPlayLevel: PIE: World Init took: (0.000836s)
+[2019.09.03-14.44.48:350][234]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/lobby.lobby to /Game/UEDPIE_0_lobby.lobby (0.003292s)
+[2019.09.03-14.44.48:388][234]LogUObjectHash: Compacting FUObjectHashTables data took   3.99ms
+[2019.09.03-14.44.48:405][234]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.09.03-14.44.48:453][234]LogInit: FAudioDevice initialized.
+[2019.09.03-14.44.48:486][234]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.09.03-14.44.48:488][234]LogWorld: Bringing World /Game/UEDPIE_0_lobby.lobby up for play (max tick rate 60) at 2019.09.03-23.44.48
+[2019.09.03-14.44.48:488][234]LogWorld: Bringing up level for play took: 0.000703
+[2019.09.03-14.44.48:502][234]PIE: Play in editor start time for /Game/UEDPIE_0_lobby 0.217
+[2019.09.03-14.44.48:503][234]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/lobby.lobby:PersistentLevel' has LevelScriptBlueprint '/Game/lobby.lobby:PersistentLevel.lobby' with GeneratedClass '/Game/lobby.lobby_C' with ClassGeneratedBy '/Game/lobby.lobby:PersistentLevel.lobby'
+[2019.09.03-14.44.54:209][540]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/lobby.lobby:PersistentLevel' has LevelScriptBlueprint '/Game/lobby.lobby:PersistentLevel.lobby' with GeneratedClass '/Game/lobby.lobby_C' with ClassGeneratedBy '/Game/lobby.lobby:PersistentLevel.lobby'
+[2019.09.03-14.44.54:209][540]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.03-14.44.54:240][540]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.09.03-14.44.54:240][540]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/lobby.lobby:PersistentLevel' has LevelScriptBlueprint '/Game/lobby.lobby:PersistentLevel.lobby' with GeneratedClass '/Game/lobby.lobby_C' with ClassGeneratedBy '/Game/lobby.lobby:PersistentLevel.lobby'
+[2019.09.03-14.44.54:283][540]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.03-14.44.54:286][540]LogUObjectHash: Compacting FUObjectHashTables data took   2.27ms
+[2019.09.03-14.44.54:309][541]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2019.09.03-14.45.38:525][798]BlueprintLog: New page: Compile widget_base01
+[2019.09.03-14.45.38:571][798]LogUObjectHash: Compacting FUObjectHashTables data took   5.03ms
+[2019.09.03-14.45.41:118][888]LogTemp: Repeating last play command: Selected Viewport
+[2019.09.03-14.45.41:130][888]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/lobby.lobby:PersistentLevel' has LevelScriptBlueprint '/Game/lobby.lobby:PersistentLevel.lobby' with GeneratedClass '/Game/lobby.lobby_C' with ClassGeneratedBy '/Game/lobby.lobby:PersistentLevel.lobby'
+[2019.09.03-14.45.41:130][888]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.09.03-14.45.41:131][888]PIE: New page: PIE session: lobby (2019. 9. 4. 오전 8:45:41)
+[2019.09.03-14.45.41:131][888]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_lobby
+[2019.09.03-14.45.41:135][888]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004302s)
+[2019.09.03-14.45.41:136][888]LogAIModule: Creating AISystem for world lobby
+[2019.09.03-14.45.41:137][888]LogPlayLevel: PIE: World Init took: (0.001681s)
+[2019.09.03-14.45.41:137][888]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/lobby.lobby to /Game/UEDPIE_0_lobby.lobby (0.006304s)
+[2019.09.03-14.45.41:182][888]LogUObjectHash: Compacting FUObjectHashTables data took   5.73ms
+[2019.09.03-14.45.41:197][888]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.09.03-14.45.41:249][888]LogInit: FAudioDevice initialized.
+[2019.09.03-14.45.41:282][888]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.09.03-14.45.41:284][888]LogWorld: Bringing World /Game/UEDPIE_0_lobby.lobby up for play (max tick rate 60) at 2019.09.03-23.45.41
+[2019.09.03-14.45.41:284][888]LogWorld: Bringing up level for play took: 0.000536
+[2019.09.03-14.45.41:299][888]PIE: Play in editor start time for /Game/UEDPIE_0_lobby 1.013
+[2019.09.03-14.45.41:299][888]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/lobby.lobby:PersistentLevel' has LevelScriptBlueprint '/Game/lobby.lobby:PersistentLevel.lobby' with GeneratedClass '/Game/lobby.lobby_C' with ClassGeneratedBy '/Game/lobby.lobby:PersistentLevel.lobby'
+[2019.09.03-14.45.45:742][125]LogNet: Browse: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap
+[2019.09.03-14.45.45:742][125]LogLoad: LoadMap: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap
+[2019.09.03-14.45.45:780][125]LogUObjectHash: Compacting FUObjectHashTables data took   2.79ms
+[2019.09.03-14.45.45:785][125]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData'
+[2019.09.03-14.45.45:785][125]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData' while loading NULL.
+[2019.09.03-14.45.45:789][125]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData'
+[2019.09.03-14.45.45:789][125]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData' while loading NULL.
+[2019.09.03-14.45.45:792][125]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData'
+[2019.09.03-14.45.45:792][125]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData' while loading NULL.
+[2019.09.03-14.45.45:792][125]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData'
+[2019.09.03-14.45.45:793][125]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData' while loading NULL.
+[2019.09.03-14.45.45:803][125]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData'
+[2019.09.03-14.45.45:843][125]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData' while loading NULL.
+[2019.09.03-14.45.45:858][125]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.09.03-14.45.45:858][125]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.09.03-14.45.45:877][125]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2019.09.03-23.45.45
+[2019.09.03-14.45.45:877][125]LogWorld: Bringing up level for play took: 0.018171
+[2019.09.03-14.45.45:878][125]LogLoad: Took 0.137402 seconds to LoadMap(/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap)
+[2019.09.03-14.45.47:196][203]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/lobby.lobby:PersistentLevel' has LevelScriptBlueprint '/Game/lobby.lobby:PersistentLevel.lobby' with GeneratedClass '/Game/lobby.lobby_C' with ClassGeneratedBy '/Game/lobby.lobby:PersistentLevel.lobby'
+[2019.09.03-14.45.47:196][203]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.03-14.45.47:225][203]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.09.03-14.45.47:225][203]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/lobby.lobby:PersistentLevel' has LevelScriptBlueprint '/Game/lobby.lobby:PersistentLevel.lobby' with GeneratedClass '/Game/lobby.lobby_C' with ClassGeneratedBy '/Game/lobby.lobby:PersistentLevel.lobby'
+[2019.09.03-14.45.47:265][203]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.03-14.45.47:270][203]LogUObjectHash: Compacting FUObjectHashTables data took   2.08ms
+[2019.09.03-14.45.47:302][205]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2019.09.03-14.45.48:769][293]LogTemp: Repeating last play command: Selected Viewport
+[2019.09.03-14.45.48:780][293]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/lobby.lobby:PersistentLevel' has LevelScriptBlueprint '/Game/lobby.lobby:PersistentLevel.lobby' with GeneratedClass '/Game/lobby.lobby_C' with ClassGeneratedBy '/Game/lobby.lobby:PersistentLevel.lobby'
+[2019.09.03-14.45.48:780][293]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.09.03-14.45.48:780][293]PIE: New page: PIE session: lobby (2019. 9. 4. 오전 8:45:48)
+[2019.09.03-14.45.48:780][293]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_lobby
+[2019.09.03-14.45.48:785][293]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004404s)
+[2019.09.03-14.45.48:786][293]LogAIModule: Creating AISystem for world lobby
+[2019.09.03-14.45.48:786][293]LogPlayLevel: PIE: World Init took: (0.001018s)
+[2019.09.03-14.45.48:786][293]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/lobby.lobby to /Game/UEDPIE_0_lobby.lobby (0.005655s)
+[2019.09.03-14.45.48:820][293]LogUObjectHash: Compacting FUObjectHashTables data took   2.04ms
+[2019.09.03-14.45.48:832][293]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.09.03-14.45.48:876][293]LogInit: FAudioDevice initialized.
+[2019.09.03-14.45.48:908][293]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.09.03-14.45.48:909][293]LogWorld: Bringing World /Game/UEDPIE_0_lobby.lobby up for play (max tick rate 60) at 2019.09.03-23.45.48
+[2019.09.03-14.45.48:910][293]LogWorld: Bringing up level for play took: 0.000479
+[2019.09.03-14.45.48:924][293]PIE: Play in editor start time for /Game/UEDPIE_0_lobby 0.639
+[2019.09.03-14.45.48:924][293]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/lobby.lobby:PersistentLevel' has LevelScriptBlueprint '/Game/lobby.lobby:PersistentLevel.lobby' with GeneratedClass '/Game/lobby.lobby_C' with ClassGeneratedBy '/Game/lobby.lobby:PersistentLevel.lobby'
+[2019.09.03-14.46.14:894][550]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/lobby.lobby:PersistentLevel' has LevelScriptBlueprint '/Game/lobby.lobby:PersistentLevel.lobby' with GeneratedClass '/Game/lobby.lobby_C' with ClassGeneratedBy '/Game/lobby.lobby:PersistentLevel.lobby'
+[2019.09.03-14.46.14:894][550]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.03-14.46.14:926][550]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.09.03-14.46.14:926][550]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/lobby.lobby:PersistentLevel' has LevelScriptBlueprint '/Game/lobby.lobby:PersistentLevel.lobby' with GeneratedClass '/Game/lobby.lobby_C' with ClassGeneratedBy '/Game/lobby.lobby:PersistentLevel.lobby'
+[2019.09.03-14.46.14:964][550]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.03-14.46.14:968][550]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2019.09.03-14.46.15:000][552]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2019.09.03-14.47.22:277][465]BlueprintLog: New page: Compile widget_base01
+[2019.09.03-14.47.22:322][465]LogUObjectHash: Compacting FUObjectHashTables data took   3.99ms
+[2019.09.03-14.47.24:169][541]LogTemp: Repeating last play command: Selected Viewport
+[2019.09.03-14.47.24:180][541]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/lobby.lobby:PersistentLevel' has LevelScriptBlueprint '/Game/lobby.lobby:PersistentLevel.lobby' with GeneratedClass '/Game/lobby.lobby_C' with ClassGeneratedBy '/Game/lobby.lobby:PersistentLevel.lobby'
+[2019.09.03-14.47.24:180][541]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.09.03-14.47.24:180][541]PIE: New page: PIE session: lobby (2019. 9. 4. 오전 8:47:24)
+[2019.09.03-14.47.24:180][541]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_lobby
+[2019.09.03-14.47.24:184][541]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003309s)
+[2019.09.03-14.47.24:185][541]LogAIModule: Creating AISystem for world lobby
+[2019.09.03-14.47.24:185][541]LogPlayLevel: PIE: World Init took: (0.001335s)
+[2019.09.03-14.47.24:185][541]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/lobby.lobby to /Game/UEDPIE_0_lobby.lobby (0.004869s)
+[2019.09.03-14.47.24:223][541]LogUObjectHash: Compacting FUObjectHashTables data took   3.99ms
+[2019.09.03-14.47.24:236][541]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.09.03-14.47.24:284][541]LogInit: FAudioDevice initialized.
+[2019.09.03-14.47.24:313][541]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.09.03-14.47.24:315][541]LogWorld: Bringing World /Game/UEDPIE_0_lobby.lobby up for play (max tick rate 60) at 2019.09.03-23.47.24
+[2019.09.03-14.47.24:315][541]LogWorld: Bringing up level for play took: 0.000540
+[2019.09.03-14.47.24:331][541]PIE: Play in editor start time for /Game/UEDPIE_0_lobby 0.045
+[2019.09.03-14.47.24:331][541]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/lobby.lobby:PersistentLevel' has LevelScriptBlueprint '/Game/lobby.lobby:PersistentLevel.lobby' with GeneratedClass '/Game/lobby.lobby_C' with ClassGeneratedBy '/Game/lobby.lobby:PersistentLevel.lobby'
+[2019.09.03-14.47.25:842][619]LogNet: Browse: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap
+[2019.09.03-14.47.25:842][619]LogLoad: LoadMap: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap
+[2019.09.03-14.47.25:881][619]LogUObjectHash: Compacting FUObjectHashTables data took   3.55ms
+[2019.09.03-14.47.25:885][619]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData'
+[2019.09.03-14.47.25:886][619]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData' while loading NULL.
+[2019.09.03-14.47.25:889][619]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData'
+[2019.09.03-14.47.25:889][619]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData' while loading NULL.
+[2019.09.03-14.47.25:892][619]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData'
+[2019.09.03-14.47.25:892][619]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData' while loading NULL.
+[2019.09.03-14.47.25:892][619]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData'
+[2019.09.03-14.47.25:892][619]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData' while loading NULL.
+[2019.09.03-14.47.25:903][619]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData'
+[2019.09.03-14.47.25:903][619]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData' while loading NULL.
+[2019.09.03-14.47.25:913][619]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.09.03-14.47.25:914][619]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.09.03-14.47.25:940][619]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2019.09.03-23.47.25
+[2019.09.03-14.47.25:941][619]LogWorld: Bringing up level for play took: 0.025614
+[2019.09.03-14.47.25:942][619]LogLoad: Took 0.099769 seconds to LoadMap(/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap)
+[2019.09.03-14.47.27:401][706]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/lobby.lobby:PersistentLevel' has LevelScriptBlueprint '/Game/lobby.lobby:PersistentLevel.lobby' with GeneratedClass '/Game/lobby.lobby_C' with ClassGeneratedBy '/Game/lobby.lobby:PersistentLevel.lobby'
+[2019.09.03-14.47.27:401][706]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.03-14.47.27:431][706]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.09.03-14.47.27:431][706]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/lobby.lobby:PersistentLevel' has LevelScriptBlueprint '/Game/lobby.lobby:PersistentLevel.lobby' with GeneratedClass '/Game/lobby.lobby_C' with ClassGeneratedBy '/Game/lobby.lobby:PersistentLevel.lobby'
+[2019.09.03-14.47.27:476][706]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.03-14.47.27:481][706]LogUObjectHash: Compacting FUObjectHashTables data took   2.12ms
+[2019.09.03-14.47.27:505][707]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2019.09.03-14.48.55:061][934]BlueprintLog: New page: Compile widget_base01
+[2019.09.03-14.48.55:108][934]LogUObjectHash: Compacting FUObjectHashTables data took   3.92ms
+[2019.09.03-14.49.10:765][856]LogBlueprint: Warning: [Compiler ] Leak Detected!  Button_551 ( Button ) still has living Slate widgets, it or the parent CanvasPanel_52 ( Canvas Panel ) is keeping them in memory.  Release all Slate resources in ReleaseSlateResources().
+[2019.09.03-14.49.32:794][160]LogSelectionDetails: Warning: NavigateToFunctionSource:  Unable to find symbols for 'UGameplayStatics::OpenLevel' [요소가 없습니다.]
+[2019.09.03-14.49.32:794][160]LogSelectionDetails: Warning: NavigateToFunctionSource:  Unable to find symbols for 'UGameplayStatics::OpenLevel' [요소가 없습니다.]
+[2019.09.03-14.50.29:348][508]LogEditorTransaction: Undo Create Pin Link
+[2019.09.03-14.51.14:969][193]BlueprintLog: New page: Compile widget_base01
+[2019.09.03-14.51.15:019][193]LogUObjectHash: Compacting FUObjectHashTables data took   5.07ms
+[2019.09.03-14.51.17:087][280]LogTemp: Repeating last play command: Selected Viewport
+[2019.09.03-14.51.17:102][280]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/lobby.lobby:PersistentLevel' has LevelScriptBlueprint '/Game/lobby.lobby:PersistentLevel.lobby' with GeneratedClass '/Game/lobby.lobby_C' with ClassGeneratedBy '/Game/lobby.lobby:PersistentLevel.lobby'
+[2019.09.03-14.51.17:102][280]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.09.03-14.51.17:102][280]PIE: New page: PIE session: lobby (2019. 9. 4. 오전 8:51:17)
+[2019.09.03-14.51.17:102][280]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_lobby
+[2019.09.03-14.51.17:105][280]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002535s)
+[2019.09.03-14.51.17:106][280]LogAIModule: Creating AISystem for world lobby
+[2019.09.03-14.51.17:106][280]LogPlayLevel: PIE: World Init took: (0.001310s)
+[2019.09.03-14.51.17:106][280]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/lobby.lobby to /Game/UEDPIE_0_lobby.lobby (0.004016s)
+[2019.09.03-14.51.17:142][280]LogUObjectHash: Compacting FUObjectHashTables data took   3.24ms
+[2019.09.03-14.51.17:155][280]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.09.03-14.51.17:203][280]LogInit: FAudioDevice initialized.
+[2019.09.03-14.51.17:231][280]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.09.03-14.51.17:233][280]LogWorld: Bringing World /Game/UEDPIE_0_lobby.lobby up for play (max tick rate 60) at 2019.09.03-23.51.17
+[2019.09.03-14.51.17:234][280]LogWorld: Bringing up level for play took: 0.000681
+[2019.09.03-14.51.17:249][280]PIE: Play in editor start time for /Game/UEDPIE_0_lobby 0.963
+[2019.09.03-14.51.17:249][280]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/lobby.lobby:PersistentLevel' has LevelScriptBlueprint '/Game/lobby.lobby:PersistentLevel.lobby' with GeneratedClass '/Game/lobby.lobby_C' with ClassGeneratedBy '/Game/lobby.lobby:PersistentLevel.lobby'
+[2019.09.03-14.51.18:467][350]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.03-14.51.18:467][350]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/lobby.lobby:PersistentLevel' has LevelScriptBlueprint '/Game/lobby.lobby:PersistentLevel.lobby' with GeneratedClass '/Game/lobby.lobby_C' with ClassGeneratedBy '/Game/lobby.lobby:PersistentLevel.lobby'
+[2019.09.03-14.51.18:495][350]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.09.03-14.51.18:495][350]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/lobby.lobby:PersistentLevel' has LevelScriptBlueprint '/Game/lobby.lobby:PersistentLevel.lobby' with GeneratedClass '/Game/lobby.lobby_C' with ClassGeneratedBy '/Game/lobby.lobby:PersistentLevel.lobby'
+[2019.09.03-14.51.18:535][350]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.03-14.51.18:539][350]LogUObjectHash: Compacting FUObjectHashTables data took   2.11ms
+[2019.09.03-14.51.18:568][351]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2019.09.03-14.51.30:493][910]LogTemp: Repeating last play command: Selected Viewport
+[2019.09.03-14.51.30:505][910]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/lobby.lobby:PersistentLevel' has LevelScriptBlueprint '/Game/lobby.lobby:PersistentLevel.lobby' with GeneratedClass '/Game/lobby.lobby_C' with ClassGeneratedBy '/Game/lobby.lobby:PersistentLevel.lobby'
+[2019.09.03-14.51.30:505][910]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.09.03-14.51.30:505][910]PIE: New page: PIE session: lobby (2019. 9. 4. 오전 8:51:30)
+[2019.09.03-14.51.30:505][910]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_lobby
+[2019.09.03-14.51.30:509][910]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003311s)
+[2019.09.03-14.51.30:510][910]LogAIModule: Creating AISystem for world lobby
+[2019.09.03-14.51.30:510][910]LogPlayLevel: PIE: World Init took: (0.001263s)
+[2019.09.03-14.51.30:510][910]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/lobby.lobby to /Game/UEDPIE_0_lobby.lobby (0.004824s)
+[2019.09.03-14.51.30:547][910]LogUObjectHash: Compacting FUObjectHashTables data took   2.45ms
+[2019.09.03-14.51.30:562][910]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.09.03-14.51.30:610][910]LogInit: FAudioDevice initialized.
+[2019.09.03-14.51.30:640][910]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.09.03-14.51.30:642][910]LogWorld: Bringing World /Game/UEDPIE_0_lobby.lobby up for play (max tick rate 60) at 2019.09.03-23.51.30
+[2019.09.03-14.51.30:642][910]LogWorld: Bringing up level for play took: 0.000513
+[2019.09.03-14.51.30:656][910]PIE: Play in editor start time for /Game/UEDPIE_0_lobby 0.371
+[2019.09.03-14.51.30:656][910]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/lobby.lobby:PersistentLevel' has LevelScriptBlueprint '/Game/lobby.lobby:PersistentLevel.lobby' with GeneratedClass '/Game/lobby.lobby_C' with ClassGeneratedBy '/Game/lobby.lobby:PersistentLevel.lobby'
+[2019.09.03-14.51.33:885][104]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/lobby.lobby:PersistentLevel' has LevelScriptBlueprint '/Game/lobby.lobby:PersistentLevel.lobby' with GeneratedClass '/Game/lobby.lobby_C' with ClassGeneratedBy '/Game/lobby.lobby:PersistentLevel.lobby'
+[2019.09.03-14.51.33:886][104]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.03-14.51.33:916][104]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.09.03-14.51.33:916][104]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/lobby.lobby:PersistentLevel' has LevelScriptBlueprint '/Game/lobby.lobby:PersistentLevel.lobby' with GeneratedClass '/Game/lobby.lobby_C' with ClassGeneratedBy '/Game/lobby.lobby:PersistentLevel.lobby'
+[2019.09.03-14.51.33:962][104]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.03-14.51.33:967][104]LogUObjectHash: Compacting FUObjectHashTables data took   2.18ms
+[2019.09.03-14.51.33:996][106]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2019.09.03-14.53.39:199][614]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2019.09.03-14.53.39:199][614]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/lobby' took 0.044
+[2019.09.03-14.53.39:200][614]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/widget_base01] ([1] browsable assets)...
+[2019.09.03-14.53.39:201][614]OBJ SavePackage: Finished generating thumbnails for package [/Game/widget_base01]
+[2019.09.03-14.53.39:253][614]LogSavePackage: Moving '../../../../../../Users/nemon/Desktop/NEMONOM/P/COD ANT/ANT/project/ANT/Saved/widget_base01_Auto2912C073147177323246C3C93DE054A89.tmp' to '../../../../../../Users/nemon/Desktop/NEMONOM/P/COD ANT/ANT/project/ANT/Saved/Autosaves/Game/widget_base01_Auto2.uasset'
+[2019.09.03-14.53.39:256][614]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/UI_EXIT01] ([1] browsable assets)...
+[2019.09.03-14.53.39:259][614]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/UI_EXIT01.UI_EXIT01]
+[2019.09.03-14.53.39:259][614]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI_EXIT01]
+[2019.09.03-14.53.39:259][614]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI_EXIT01" FILE="../../../../../../Users/nemon/Desktop/NEMONOM/P/COD ANT/ANT/project/ANT/Saved/Autosaves/Game/UI_EXIT01_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2019.09.03-14.53.39:265][614]LogSavePackage: Moving '../../../../../../Users/nemon/Desktop/NEMONOM/P/COD ANT/ANT/project/ANT/Saved/UI_EXIT01_Auto286ED48B94F0DB2B739161CB35A7ADDCD.tmp' to '../../../../../../Users/nemon/Desktop/NEMONOM/P/COD ANT/ANT/project/ANT/Saved/Autosaves/Game/UI_EXIT01_Auto2.uasset'
+[2019.09.03-14.53.39:267][614]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/UI_EXIT00] ([1] browsable assets)...
+[2019.09.03-14.53.39:270][614]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/UI_EXIT00.UI_EXIT00]
+[2019.09.03-14.53.39:270][614]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI_EXIT00]
+[2019.09.03-14.53.39:270][614]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI_EXIT00" FILE="../../../../../../Users/nemon/Desktop/NEMONOM/P/COD ANT/ANT/project/ANT/Saved/Autosaves/Game/UI_EXIT00_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2019.09.03-14.53.39:275][614]LogSavePackage: Moving '../../../../../../Users/nemon/Desktop/NEMONOM/P/COD ANT/ANT/project/ANT/Saved/UI_EXIT00_Auto24FBE58594AB2F9FFCDD7A39B3E46E88A.tmp' to '../../../../../../Users/nemon/Desktop/NEMONOM/P/COD ANT/ANT/project/ANT/Saved/Autosaves/Game/UI_EXIT00_Auto2.uasset'
+[2019.09.03-14.53.39:277][614]LogFileHelpers: Auto-saving content packages took 0.077
