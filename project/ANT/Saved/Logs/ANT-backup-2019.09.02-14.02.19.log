@@ -1,0 +1,1657 @@
+﻿Log file open, 09/02/19 22:35:47
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: ANT
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 11 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.218326
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +9:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.22-CL-7053642
+LogInit: Engine Version: 4.22.3-7053642+++UE4+Release-4.22
+LogInit: Compatible Engine Version: 4.22.0-5660361+++UE4+Release-4.22
+LogInit: Net CL: 5660361
+LogInit: OS: Windows 10 (Release 1809) (), CPU: Intel(R) Core(TM) i7-6500U CPU @ 2.50GHz, GPU: Intel(R) HD Graphics 520
+LogInit: Compiled (64-bit): Jun 18 2019 03:09:11
+LogInit: Compiled with Visual C++: 19.16.27025.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.22
+LogInit: Command Line:  -EpicPortal -epicusername=CURUMC -epicuserid=22a5a264262946e184f363cea0519102 -epiclocale=ko-KR
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.22/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 30
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 28
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 25
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 2
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.09.02-13.35.48:075][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.09.02-13.35.48:075][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.09.02-13.35.48:075][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/ant/ANT/project/ANT/Saved/Config/Windows/Engine.ini]
+[2019.09.02-13.35.48:075][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.09.02-13.35.48:075][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/ant/ANT/project/ANT/Saved/Config/Windows/Engine.ini]
+[2019.09.02-13.35.48:075][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/ant/ANT/project/ANT/Saved/Config/Windows/Engine.ini]
+[2019.09.02-13.35.48:076][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.09.02-13.35.48:076][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.09.02-13.35.48:076][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.09.02-13.35.48:076][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.09.02-13.35.48:076][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.09.02-13.35.48:076][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.09.02-13.35.48:076][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.09.02-13.35.48:076][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.09.02-13.35.48:076][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.09.02-13.35.48:076][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.09.02-13.35.48:076][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.09.02-13.35.48:076][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.09.02-13.35.48:076][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.09.02-13.35.48:076][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/ant/ANT/project/ANT/Saved/Config/Windows/Engine.ini]
+[2019.09.02-13.35.48:077][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.09.02-13.35.48:077][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.09.02-13.35.48:077][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.09.02-13.35.48:077][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.09.02-13.35.48:077][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.09.02-13.35.48:077][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.09.02-13.35.48:077][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2019.09.02-13.35.48:077][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.09.02-13.35.48:077][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.09.02-13.35.48:077][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.09.02-13.35.48:077][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.09.02-13.35.48:077][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.09.02-13.35.48:077][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.09.02-13.35.48:077][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/ant/ANT/project/ANT/Saved/Config/Windows/Engine.ini]
+[2019.09.02-13.35.48:077][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/ant/ANT/project/ANT/Saved/Config/Windows/Engine.ini]
+[2019.09.02-13.35.48:087][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/ant/ANT/project/ANT/Saved/Config/Windows/Scalability.ini]
+[2019.09.02-13.35.48:087][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.09.02-13.35.48:087][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.09.02-13.35.48:087][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/ant/ANT/project/ANT/Saved/Config/Windows/Scalability.ini]
+[2019.09.02-13.35.48:087][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.09.02-13.35.48:087][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/ant/ANT/project/ANT/Saved/Config/Windows/Scalability.ini]
+[2019.09.02-13.35.48:087][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.09.02-13.35.48:087][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.09.02-13.35.48:087][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.09.02-13.35.48:087][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.09.02-13.35.48:087][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.09.02-13.35.48:087][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.09.02-13.35.48:087][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.09.02-13.35.48:087][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.09.02-13.35.48:087][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.09.02-13.35.48:087][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.09.02-13.35.48:087][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.09.02-13.35.48:087][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.09.02-13.35.48:087][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.09.02-13.35.48:087][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.09.02-13.35.48:087][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.09.02-13.35.48:087][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.09.02-13.35.48:087][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.09.02-13.35.48:087][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.09.02-13.35.48:087][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/ant/ANT/project/ANT/Saved/Config/Windows/Scalability.ini]
+[2019.09.02-13.35.48:087][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.09.02-13.35.48:087][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.09.02-13.35.48:087][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.09.02-13.35.48:087][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.09.02-13.35.48:087][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.09.02-13.35.48:088][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.09.02-13.35.48:088][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.09.02-13.35.48:088][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.09.02-13.35.48:088][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.09.02-13.35.48:088][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.09.02-13.35.48:088][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.09.02-13.35.48:088][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.09.02-13.35.48:088][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.09.02-13.35.48:088][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.09.02-13.35.48:088][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.09.02-13.35.48:088][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.09.02-13.35.48:088][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.09.02-13.35.48:088][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.09.02-13.35.48:088][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.09.02-13.35.48:088][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.09.02-13.35.48:088][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.09.02-13.35.48:088][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.09.02-13.35.48:088][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.09.02-13.35.48:088][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.09.02-13.35.48:088][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.09.02-13.35.48:088][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.09.02-13.35.48:088][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.09.02-13.35.48:088][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.09.02-13.35.48:088][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.09.02-13.35.48:088][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.09.02-13.35.48:088][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/ant/ANT/project/ANT/Saved/Config/Windows/Scalability.ini]
+[2019.09.02-13.35.48:088][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.09.02-13.35.48:088][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.09.02-13.35.48:088][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.09.02-13.35.48:088][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.09.02-13.35.48:089][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.09.02-13.35.48:089][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.09.02-13.35.48:089][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.09.02-13.35.48:089][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.09.02-13.35.48:089][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/ant/ANT/project/ANT/Saved/Config/Windows/Scalability.ini]
+[2019.09.02-13.35.48:089][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.09.02-13.35.48:089][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.09.02-13.35.48:089][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.09.02-13.35.48:089][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.09.02-13.35.48:089][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.09.02-13.35.48:089][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.09.02-13.35.48:089][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.09.02-13.35.48:089][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.09.02-13.35.48:089][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.09.02-13.35.48:089][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.09.02-13.35.48:089][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.09.02-13.35.48:089][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.09.02-13.35.48:089][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.09.02-13.35.48:089][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/ant/ANT/project/ANT/Saved/Config/Windows/Scalability.ini]
+[2019.09.02-13.35.48:089][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.09.02-13.35.48:089][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.09.02-13.35.48:089][  0]LogInit: Selected Device Profile: [Windows]
+[2019.09.02-13.35.48:090][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.09.02-13.35.48:111][  0]LogHAL: Display: Platform has ~ 8 GB [8503840768 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.09.02-13.35.48:111][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:0		; Required until we fix HLR fall-out]]
+[2019.09.02-13.35.48:111][  0]LogInit: Going up to parent DeviceProfile []
+[2019.09.02-13.35.48:111][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/ant/ANT/project/ANT/Saved/Config/Windows/Scalability.ini]
+[2019.09.02-13.35.48:111][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.09.02-13.35.48:111][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.09.02-13.35.48:111][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/ant/ANT/project/ANT/Saved/Config/Windows/Scalability.ini]
+[2019.09.02-13.35.48:111][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.09.02-13.35.48:111][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/ant/ANT/project/ANT/Saved/Config/Windows/Scalability.ini]
+[2019.09.02-13.35.48:111][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.09.02-13.35.48:111][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.09.02-13.35.48:111][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.09.02-13.35.48:111][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.09.02-13.35.48:111][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.09.02-13.35.48:111][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.09.02-13.35.48:111][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.09.02-13.35.48:111][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.09.02-13.35.48:111][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.09.02-13.35.48:111][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.09.02-13.35.48:111][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.09.02-13.35.48:111][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.09.02-13.35.48:111][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.09.02-13.35.48:111][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.09.02-13.35.48:111][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.09.02-13.35.48:112][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.09.02-13.35.48:112][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.09.02-13.35.48:112][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.09.02-13.35.48:112][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/ant/ANT/project/ANT/Saved/Config/Windows/Scalability.ini]
+[2019.09.02-13.35.48:112][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.09.02-13.35.48:112][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.09.02-13.35.48:112][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.09.02-13.35.48:112][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.09.02-13.35.48:112][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.09.02-13.35.48:112][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.09.02-13.35.48:112][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.09.02-13.35.48:112][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.09.02-13.35.48:112][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.09.02-13.35.48:112][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.09.02-13.35.48:112][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.09.02-13.35.48:112][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.09.02-13.35.48:112][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.09.02-13.35.48:112][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.09.02-13.35.48:112][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.09.02-13.35.48:112][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.09.02-13.35.48:112][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.09.02-13.35.48:112][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.09.02-13.35.48:112][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.09.02-13.35.48:112][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.09.02-13.35.48:112][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.09.02-13.35.48:112][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.09.02-13.35.48:112][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.09.02-13.35.48:112][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.09.02-13.35.48:112][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.09.02-13.35.48:112][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.09.02-13.35.48:112][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.09.02-13.35.48:112][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.09.02-13.35.48:112][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.09.02-13.35.48:112][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.09.02-13.35.48:112][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/ant/ANT/project/ANT/Saved/Config/Windows/Scalability.ini]
+[2019.09.02-13.35.48:112][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.09.02-13.35.48:112][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.09.02-13.35.48:112][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.09.02-13.35.48:112][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.09.02-13.35.48:113][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.09.02-13.35.48:113][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.09.02-13.35.48:113][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.09.02-13.35.48:113][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.09.02-13.35.48:113][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/ant/ANT/project/ANT/Saved/Config/Windows/Scalability.ini]
+[2019.09.02-13.35.48:113][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.09.02-13.35.48:113][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.09.02-13.35.48:113][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.09.02-13.35.48:113][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.09.02-13.35.48:113][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.09.02-13.35.48:113][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.09.02-13.35.48:113][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.09.02-13.35.48:113][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.09.02-13.35.48:113][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.09.02-13.35.48:113][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.09.02-13.35.48:113][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.09.02-13.35.48:113][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.09.02-13.35.48:113][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.09.02-13.35.48:113][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/ant/ANT/project/ANT/Saved/Config/Windows/Scalability.ini]
+[2019.09.02-13.35.48:113][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.09.02-13.35.48:113][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.09.02-13.35.48:113][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.09.02-13.35.48:113][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.09.02-13.35.48:113][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2019.09.02-13.35.48:114][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/ant/ANT/project/ANT/Saved/Config/Windows/Engine.ini]
+[2019.09.02-13.35.48:114][  0]LogInit: Computer: DESKTOP-3OF38UC
+[2019.09.02-13.35.48:114][  0]LogInit: User: thdwn
+[2019.09.02-13.35.48:114][  0]LogInit: CPU Page size=4096, Cores=2
+[2019.09.02-13.35.48:114][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2019.09.02-13.35.48:114][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2019.09.02-13.35.48:114][  0]LogMemory: Platform Memory Stats for Windows
+[2019.09.02-13.35.48:114][  0]LogMemory: Process Physical Memory: 96.29 MB used, 96.30 MB peak
+[2019.09.02-13.35.48:114][  0]LogMemory: Process Virtual Memory: 83.73 MB used, 83.73 MB peak
+[2019.09.02-13.35.48:114][  0]LogMemory: Physical Memory: 5691.58 MB used,  2418.31 MB free, 8109.89 MB total
+[2019.09.02-13.35.48:114][  0]LogMemory: Virtual Memory: 4635.26 MB used,  134213096.00 MB free, 134217728.00 MB total
+[2019.09.02-13.35.48:164][  0]LogInit: Using OS detected language (ko-KR).
+[2019.09.02-13.35.48:164][  0]LogInit: Using OS detected locale (ko-KR).
+[2019.09.02-13.35.48:165][  0]LogTextLocalizationManager: No specific localization for 'ko-KR' exists, so the 'ko' localization will be used.
+[2019.09.02-13.35.48:308][  0]LogInit: Setting process to per monitor DPI aware
+[2019.09.02-13.35.48:402][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.09.02-13.35.48:402][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.09.02-13.35.48:746][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.09.02-13.35.48:746][  0]LogD3D11RHI: D3D11 adapters:
+[2019.09.02-13.35.48:830][  0]LogD3D11RHI:    0. 'NVIDIA GeForce 940MX' (Feature Level 11_0)
+[2019.09.02-13.35.48:830][  0]LogD3D11RHI:       2010/0/4054 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2019.09.02-13.35.48:840][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 520' (Feature Level 11_0)
+[2019.09.02-13.35.48:840][  0]LogD3D11RHI:       128/0/4054 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2019.09.02-13.35.48:844][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.09.02-13.35.48:844][  0]LogD3D11RHI:       0/0/4054 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.09.02-13.35.48:844][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.09.02-13.35.48:895][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.09.02-13.35.48:895][  0]LogD3D11RHI:     GPU DeviceId: 0x134d (for the marketing name, search the web for "GPU Device Id")
+[2019.09.02-13.35.48:895][  0]LogWindows: EnumDisplayDevices:
+[2019.09.02-13.35.48:896][  0]LogWindows:    0. 'Intel(R) HD Graphics 520' (P:1 D:1)
+[2019.09.02-13.35.48:897][  0]LogWindows:    1. 'Intel(R) HD Graphics 520' (P:0 D:0)
+[2019.09.02-13.35.48:898][  0]LogWindows:    2. 'Intel(R) HD Graphics 520' (P:0 D:0)
+[2019.09.02-13.35.48:898][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2019.09.02-13.35.48:898][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce 940MX
+[2019.09.02-13.35.48:898][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2019.09.02-13.35.48:898][  0]LogD3D11RHI:      Driver Date: Unknown
+[2019.09.02-13.35.48:899][  0]LogRHI: Texture pool is 1407 MB (70% of 2010 MB)
+[2019.09.02-13.35.48:951][  0]LogD3D11RHI: Async texture creation enabled
+[2019.09.02-13.35.48:957][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.09.02-13.35.48:958][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.09.02-13.35.48:958][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.09.02-13.35.48:968][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2019.09.02-13.35.49:689][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2019.09.02-13.35.49:713][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2019.09.02-13.35.49:731][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2019.09.02-13.35.49:752][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2019.09.02-13.35.49:772][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2019.09.02-13.35.49:797][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2019.09.02-13.35.49:817][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2019.09.02-13.35.49:835][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2019.09.02-13.35.49:844][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2019.09.02-13.35.49:944][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2019.09.02-13.35.49:944][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2019.09.02-13.35.49:944][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2019.09.02-13.35.49:944][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2019.09.02-13.35.49:944][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2019.09.02-13.35.49:944][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2019.09.02-13.35.49:944][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2019.09.02-13.35.49:944][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2019.09.02-13.35.49:944][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2019.09.02-13.35.49:944][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2019.09.02-13.35.49:944][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2019.09.02-13.35.49:944][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2019.09.02-13.35.49:944][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2019.09.02-13.35.49:944][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2019.09.02-13.35.49:944][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2019.09.02-13.35.49:944][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2019.09.02-13.35.49:944][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2019.09.02-13.35.49:944][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2019.09.02-13.35.49:947][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2019.09.02-13.35.50:012][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2019.09.02-13.35.50:013][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2019.09.02-13.35.50:043][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2019.09.02-13.35.50:043][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2019.09.02-13.35.50:059][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2019.09.02-13.35.50:075][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2019.09.02-13.35.50:090][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2019.09.02-13.35.50:107][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2019.09.02-13.35.50:183][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2019.09.02-13.35.50:183][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2019.09.02-13.35.50:183][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.09.02-13.35.50:202][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2019.09.02-13.35.50:284][  0]LogShaderCompilers: Guid format shader working directory is 24 characters bigger than the processId version (D:/ant/ANT/project/ANT/Intermediate/Shaders/WorkingDirectory/4492/).
+[2019.09.02-13.35.50:284][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/thdwn/AppData/Local/Temp/UnrealShaderWorkingDir/37DBA16148950FA2060C38B815AF0ED1/'.
+[2019.09.02-13.35.50:287][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.09.02-13.35.50:288][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.09.02-13.35.50:288][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.09.02-13.35.51:067][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.09.02-13.35.51:126][  0]LogDerivedDataCache: Loaded boot cache 0.06s 71MB C:/Users/thdwn/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2019.09.02-13.35.51:127][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/thdwn/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc
+[2019.09.02-13.35.51:127][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file D:/ant/ANT/project/ANT/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.09.02-13.35.51:127][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.09.02-13.35.51:127][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file D:/ant/ANT/project/ANT/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.09.02-13.35.51:127][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.09.02-13.35.51:145][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.09.02-13.35.51:145][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.09.02-13.35.51:145][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.09.02-13.35.51:158][  0]LogDerivedDataCache: Using Local data cache path C:/Users/thdwn/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.09.02-13.35.51:158][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.09.02-13.35.51:158][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.09.02-13.35.51:192][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.09.02-13.35.51:194][  0]LogSlate: Using FreeType 2.6.0
+[2019.09.02-13.35.51:195][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.09.02-13.35.51:303][  0]LogAssetRegistry: FAssetRegistry took 0.0383 seconds to start up
+[2019.09.02-13.35.51:810][  0]LogInit: Selected Device Profile: [Windows]
+[2019.09.02-13.35.52:006][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.09.02-13.35.52:006][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2019.09.02-13.35.52:006][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.09.02-13.35.52:006][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2019.09.02-13.35.52:006][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2019.09.02-13.35.52:022][  0]LogNetVersion: ANT 1.0.0, NetCL: 5660361, EngineNetVer: 10, GameNetVer: 0 (Checksum: 2384083993)
+[2019.09.02-13.35.52:618][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 1 prioritized culture(s) in 0.056318 seconds
+[2019.09.02-13.35.52:629][  0]LogUObjectArray: 42205 objects as part of root set at end of initial load.
+[2019.09.02-13.35.52:629][  0]LogUObjectAllocator: 7325032 out of 0 bytes used by permanent object pool.
+[2019.09.02-13.35.52:629][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.09.02-13.35.53:814][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.09.02-13.35.53:835][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.09.02-13.35.53:970][  0]SourceControl: 소스 컨트롤이 꺼져 있습니다.
+[2019.09.02-13.35.53:970][  0]SourceControl: 소스 컨트롤이 꺼져 있습니다.
+[2019.09.02-13.35.53:972][  0]SourceControl: 소스 컨트롤이 꺼져 있습니다.
+[2019.09.02-13.35.53:974][  0]SourceControl: 소스 컨트롤이 꺼져 있습니다.
+[2019.09.02-13.35.54:100][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.09.02-13.35.54:275][  0]LogOcInput: OculusInput pre-init called
+[2019.09.02-13.35.55:186][  0]LogEngine: Initializing Engine...
+[2019.09.02-13.35.55:188][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.09.02-13.35.55:190][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2019.09.02-13.35.55:488][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.09.02-13.35.55:507][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.09.02-13.35.55:552][  0]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.09.02-13.35.55:604][  0]LogInit: FAudioDevice initialized.
+[2019.09.02-13.35.55:604][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.09.02-13.35.55:808][  0]LogDerivedDataCache: Saved boot cache 0.20s 71MB C:/Users/thdwn/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2019.09.02-13.35.55:828][  0]LogInit: Texture streaming: Enabled
+[2019.09.02-13.35.55:858][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.09.02-13.35.55:906][  0]LogInit: Transaction tracking system initialized
+[2019.09.02-13.35.55:943][  0]BlueprintLog: New page: 에디터 로드
+[2019.09.02-13.35.56:068][  0]LocalizationService: 현지화 서비스가 비활성화되었습니다.
+[2019.09.02-13.35.56:536][  0]LogFileCache: Scanning file cache for directory 'D:/ant/ANT/project/ANT/Content/' took 0.01s
+[2019.09.02-13.35.56:536][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.09.02-13.35.56:536][  0]LogCook: Display: Mobile HDR setting 1
+[2019.09.02-13.35.56:843][  0]SourceControl: 소스 컨트롤이 꺼져 있습니다.
+[2019.09.02-13.35.56:844][  0]Cmd: MAP LOAD FILE="D:/ant/ANT/project/ANT/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.09.02-13.35.56:844][  0]LightingResults: New page: 라이팅 빌드
+[2019.09.02-13.35.56:848][  0]MapCheck: New page: 맵 체크
+[2019.09.02-13.35.56:848][  0]LightingResults: New page: 라이팅 빌드
+[2019.09.02-13.35.56:874][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.12ms
+[2019.09.02-13.35.58:331][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.09.02-13.35.58:358][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.09.02-13.35.58:388][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.41ms
+[2019.09.02-13.35.58:389][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.09.02-13.35.58:389][  0]MapCheck: 맵 체크 완료: 오류 0 회, 경고 0 회, 소요 시간 0.105ms.
+[2019.09.02-13.35.58:389][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 1.545
+[2019.09.02-13.35.58:554][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.02-13.35.58:566][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.02-13.35.58:578][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.02-13.35.58:588][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.02-13.35.58:609][  0]LogCollectionManager: Loaded 0 collections in 0.003601 seconds
+[2019.09.02-13.35.58:632][  0]LogFileCache: Scanning file cache for directory 'D:/ant/ANT/project/ANT/Saved/Collections/' took 0.01s
+[2019.09.02-13.35.58:632][  0]LogFileCache: Scanning file cache for directory 'D:/ant/ANT/project/ANT/Content/Developers/thdwn/Collections/' took 0.00s
+[2019.09.02-13.35.58:632][  0]LogFileCache: Scanning file cache for directory 'D:/ant/ANT/project/ANT/Content/Collections/' took 0.00s
+[2019.09.02-13.35.58:632][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000002 seconds
+[2019.09.02-13.35.58:649][  0]LogContentBrowser: Native class hierarchy populated in 0.0167 seconds. Added 2732 classes and 659 folders.
+[2019.09.02-13.35.58:665][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2019.09.02-13.35.58:678][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.02-13.35.58:687][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.02-13.35.58:706][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.02-13.35.58:714][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.02-13.35.58:722][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.02-13.35.58:729][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.02-13.35.58:736][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.02-13.35.58:743][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.02-13.35.58:751][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.02-13.35.58:760][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.02-13.35.58:767][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.02-13.35.58:774][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.02-13.35.58:782][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.02-13.35.58:790][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.02-13.35.58:797][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.02-13.35.58:804][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.02-13.35.58:846][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.02-13.35.58:853][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.02-13.35.58:860][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.02-13.35.58:868][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.02-13.35.58:876][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.02-13.35.58:885][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.02-13.35.58:893][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.02-13.35.58:901][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.02-13.35.58:910][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.02-13.35.58:919][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.02-13.35.59:158][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2019.09.02-13.35.59:174][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2019.09.02-13.35.59:294][  0]LogSlate: Took 0.000407 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.09.02-13.35.59:298][  0]LogSlate: Took 0.002265 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/NanumGothic.ttf' (4243K)
+[2019.09.02-13.35.59:301][  0]LogSlate: Took 0.002014 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/NanumGothicBold.ttf' (4188K)
+[2019.09.02-13.35.59:301][  0]LogSlate: Took 0.000199 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.09.02-13.35.59:321][  0]LogSlate: Took 0.010375 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.09.02-13.35.59:536][  0]LogRenderer: Reallocating scene render targets to support 796x436 Format 10 NumSamples 1 (Frame:1).
+[2019.09.02-13.35.59:764][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2019.09.02-13.35.59:764][  0]LogLoad: (Engine Initialization) Total time: 14.34 seconds
+[2019.09.02-13.35.59:764][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.09.02-13.35.59:821][  0]LogAssetRegistry: Asset discovery search completed in 8.5405 seconds
+[2019.09.02-13.35.59:825][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2019.09.02-13.35.59:825][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000081 seconds (updated 0 objects)
+[2019.09.02-13.35.59:826][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.09.02-13.35.59:881][  0]LogSlate: Took 0.008536 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.09.02-13.36.11:796][733]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.02-13.38.15:996][611]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.02-13.38.16:805][621]LogTexture: Display: 텍스처 빌드: Texture2D_2 (G8, 128X128)
+[2019.09.02-13.38.53:598][613]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.02-13.39.55:611][  3]Cmd: TRANSACTION UNDO
+[2019.09.02-13.39.55:611][  3]LogEditorTransaction: Undo 액터 이동
+[2019.09.02-13.39.55:682][  3]LogSlate: Took 0.000350 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.09.02-13.40.00:356][243]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.09.02-13.40.03:342][416]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.02-13.40.29:599][871]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.02-13.40.41:059][509]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.02-13.40.58:489][444]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.02-13.41.01:716][580]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2019.09.02-13.41.02:456][610]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (CubeMesh)
+[2019.09.02-13.41.05:470][772]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.02-13.41.31:090][158]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.02-13.41.41:579][742]Cmd: POLY SELECT MEMORY UNION
+[2019.09.02-13.42.47:345][101]LogSlate: FSceneViewport::OnFocusLost() reason 1
+[2019.09.02-13.43.03:919][  1]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.02-13.45.48:066][967]LogTexture: Display: 텍스처 빌드: Texture2D_0 (BGRA8, 256X128)
+[2019.09.02-13.45.48:076][967]LogMaterial: Display: Missing cached shader map for material WorldGridMaterial, compiling. Is special engine material.
+[2019.09.02-13.46.18:314][967]LogShaderCompilers: Display: Shaders left to compile 110
+[2019.09.02-13.46.18:315][967]LogShaderCompilers: Display: Shaders left to compile 100
+[2019.09.02-13.46.18:315][967]LogShaderCompilers: Display: Shaders left to compile 90
+[2019.09.02-13.46.18:315][967]LogShaderCompilers: Display: Shaders left to compile 80
+[2019.09.02-13.46.18:315][967]LogShaderCompilers: Display: Shaders left to compile 70
+[2019.09.02-13.46.18:315][967]LogShaderCompilers: Display: Shaders left to compile 60
+[2019.09.02-13.46.18:315][967]LogShaderCompilers: Display: Shaders left to compile 50
+[2019.09.02-13.46.18:315][967]LogShaderCompilers: Display: Shaders left to compile 40
+[2019.09.02-13.46.18:315][967]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.09.02-13.46.18:315][967]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.09.02-13.46.18:315][967]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.09.02-13.46.18:507][968]LogSlate: Warning: Legacy localized fallback font '../../../Engine/Content/Slate/Fonts/../../Editor/Slate/Fonts/NanumGothic.ttf' was requested. Font: '/Engine/EngineFonts/Faces/RobotoRegular.RobotoRegular', Character: '라 (U+b77c)'
+Legacy localized fallback fonts were deprecated in 4.22 and will be removed in a future version!
+Please update your composite fonts to use localized sub-font families: https://docs.unrealengine.com/en-US/Engine/UMG/UserGuide/Fonts/Overview
+[2019.09.02-13.46.18:510][968]LogSlate: Took 0.002876 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/../../Editor/Slate/Fonts/NanumGothic.ttf' (4243K)
+[2019.09.02-13.46.46:478][ 72]Cmd: TRANSACTION UNDO
+[2019.09.02-13.46.46:478][ 72]LogEditorTransaction: Undo 랜드스케이프 편집중: 조각
+[2019.09.02-13.46.46:853][ 72]LogTexture: Display: 텍스처 빌드: Texture2D_0 (BGRA8, 256X128)
+[2019.09.02-13.46.46:869][ 72]Cmd: TRANSACTION UNDO
+[2019.09.02-13.46.46:869][ 72]LogEditorTransaction: Undo 랜드스케이프 편집중: 조각
+[2019.09.02-13.46.52:223][265]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.09.02-13.46.59:790][704]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (41.288 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.09.02-13.47.23:890][786]Cmd: TRANSACTION UNDO
+[2019.09.02-13.47.23:891][786]LogEditorTransaction: Undo 랜드스케이프 편집중: 조각
+[2019.09.02-13.47.25:219][821]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.09.02-13.47.25:293][821]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2019.09.02-13.47.26:244][821]LogSavePackage: Moving 'D:/ant/ANT/project/ANT/Saved/ThirdPersonExampleMapFAE1717E4A09B5F243DFED9369F081FB.tmp' to 'D:/ant/ANT/project/ANT/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2019.09.02-13.47.26:288][821]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData" FILE="D:/ant/ANT/project/ANT/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset" SILENT=true
+[2019.09.02-13.47.26:989][821]LogSavePackage: Moving 'D:/ant/ANT/project/ANT/Saved/ThirdPersonExampleMap_BuiltDataBD48F5D841B8B63F9CD13FB78F239458.tmp' to 'D:/ant/ANT/project/ANT/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2019.09.02-13.47.28:163][863]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.09.02-13.47.38:378][353]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.09.02-13.47.39:499][407]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.09.02-13.47.45:718][743]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.09.02-13.47.54:859][250]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.02-13.48.10:562][100]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.02-13.48.22:041][739]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.02-13.48.31:894][294]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.02-13.48.53:201][465]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.02-13.49.17:964][874]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.09.02-13.49.22:445][ 75]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.09.02-13.49.39:796][836]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.09.02-13.50.04:708][934]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.02-13.50.08:654][122]Cmd: TRANSACTION UNDO
+[2019.09.02-13.50.08:654][122]LogEditorTransaction: Undo 랜드스케이프 편집중: 스무드
+[2019.09.02-13.50.08:818][122]LogTexture: Display: 텍스처 빌드: Texture2D_0 (BGRA8, 256X128)
+[2019.09.02-13.50.10:161][169]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.02-13.50.23:556][764]LogEditorViewport: Clicking on Actor (double click): Landscape (Landscape)
+[2019.09.02-13.50.25:987][857]LogEditorViewport: Clicking on Actor (double click): Landscape (Landscape)
+[2019.09.02-13.50.26:309][870]LogEditorViewport: Clicking on Actor (double click): Landscape (Landscape)
+[2019.09.02-13.50.37:504][379]LogEditorViewport: Clicking on Actor (double click): Landscape (Landscape)
+[2019.09.02-13.50.37:812][391]LogEditorViewport: Clicking on Actor (double click): Landscape (Landscape)
+[2019.09.02-13.50.38:414][416]LogEditorViewport: Clicking on Actor (double click): Landscape (Landscape)
+[2019.09.02-13.50.38:759][429]LogEditorViewport: Clicking on Actor (double click): Landscape (Landscape)
+[2019.09.02-13.50.40:465][497]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.09.02-13.50.56:155][255]Cmd: SELECT NONE
+[2019.09.02-13.50.56:756][281]Cmd: SELECT NONE
+[2019.09.02-13.50.57:496][310]Cmd: TRANSACTION UNDO
+[2019.09.02-13.50.57:496][310]LogEditorTransaction: Undo 선택 않음
+[2019.09.02-13.50.59:324][378]Cmd: TRANSACTION UNDO
+[2019.09.02-13.50.59:324][378]LogEditorTransaction: Undo 선택 않음
+[2019.09.02-13.51.01:850][469]Cmd: SELECT NONE
+[2019.09.02-13.51.02:304][483]Cmd: SELECT NONE
+[2019.09.02-13.51.04:079][552]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.09.02-13.51.15:308][ 68]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2019.09.02-13.51.15:763][ 83]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2019.09.02-13.51.19:434][231]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.02-13.51.28:329][618]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.02-13.52.12:778][961]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.09.02-13.52.22:905][395]Cmd: TRANSACTION UNDO
+[2019.09.02-13.52.22:905][395]LogEditorTransaction: Undo 랜드스케이프 편집중: 수성 침식
+[2019.09.02-13.52.23:034][395]LogTexture: Display: 텍스처 빌드: Texture2D_0 (BGRA8, 256X128)
+[2019.09.02-13.52.28:259][582]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.02-13.52.37:404][965]LogEditorViewport: Clicking on Actor (double click): Landscape (Landscape)
+[2019.09.02-13.52.58:336][740]Cmd: TRANSACTION UNDO
+[2019.09.02-13.52.58:336][740]LogEditorTransaction: Undo 랜드스케이프 편집중: 수성 침식
+[2019.09.02-13.52.58:835][740]LogTexture: Display: 텍스처 빌드: Texture2D_0 (BGRA8, 256X128)
+[2019.09.02-13.53.00:216][789]Cmd: TRANSACTION UNDO
+[2019.09.02-13.53.00:216][789]LogEditorTransaction: Undo 액터 클릭 (더블클릭)
+[2019.09.02-13.53.00:900][813]Cmd: TRANSACTION UNDO
+[2019.09.02-13.53.00:900][813]LogEditorTransaction: Undo 랜드스케이프 편집중: 수성 침식
+[2019.09.02-13.53.01:012][813]LogTexture: Display: 텍스처 빌드: Texture2D_0 (BGRA8, 256X128)
+[2019.09.02-13.53.01:422][827]Cmd: TRANSACTION UNDO
+[2019.09.02-13.53.01:422][827]LogEditorTransaction: Undo 랜드스케이프 편집중: 수성 침식
+[2019.09.02-13.53.01:851][840]Cmd: TRANSACTION UNDO
+[2019.09.02-13.53.01:851][840]LogEditorTransaction: Undo Brush Size 편집
+[2019.09.02-13.53.02:307][857]Cmd: TRANSACTION UNDO
+[2019.09.02-13.53.02:307][857]LogEditorTransaction: Undo 랜드스케이프 편집중: 조각
+[2019.09.02-13.53.02:406][857]LogTexture: Display: 텍스처 빌드: Texture2D_0 (BGRA8, 256X128)
+[2019.09.02-13.53.02:827][874]Cmd: TRANSACTION UNDO
+[2019.09.02-13.53.02:827][874]LogEditorTransaction: Undo 랜드스케이프 편집중: 조각
+[2019.09.02-13.53.02:933][874]LogTexture: Display: 텍스처 빌드: Texture2D_0 (BGRA8, 256X128)
+[2019.09.02-13.53.03:330][885]Cmd: TRANSACTION UNDO
+[2019.09.02-13.53.03:330][885]LogEditorTransaction: Undo 랜드스케이프 편집중: 조각
+[2019.09.02-13.53.03:394][885]LogTexture: Display: 텍스처 빌드: Texture2D_0 (BGRA8, 256X128)
+[2019.09.02-13.53.04:372][917]Cmd: TRANSACTION UNDO
+[2019.09.02-13.53.04:372][917]LogEditorTransaction: Undo 랜드스케이프 편집중: 조각
+[2019.09.02-13.53.04:500][917]LogTexture: Display: 텍스처 빌드: Texture2D_0 (BGRA8, 256X128)
+[2019.09.02-13.53.06:599][988]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.09.02-13.53.17:150][450]Cmd: TRANSACTION UNDO
+[2019.09.02-13.53.17:150][450]LogEditorTransaction: Undo 랜드스케이프 편집중: 조각
+[2019.09.02-13.53.22:977][707]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.02-13.53.30:732][ 84]Cmd: TRANSACTION UNDO
+[2019.09.02-13.53.30:732][ 84]LogEditorTransaction: Undo 랜드스케이프 편집중: 조각
+[2019.09.02-13.53.36:249][289]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.09.02-13.53.54:449][131]Cmd: TRANSACTION UNDO
+[2019.09.02-13.53.54:449][131]LogEditorTransaction: Undo 랜드스케이프 편집중: 조각
+[2019.09.02-13.53.58:756][273]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.09.02-13.54.06:173][645]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.09.02-13.54.28:787][886]Cmd: TRANSACTION UNDO
+[2019.09.02-13.54.28:787][886]LogEditorTransaction: Undo 랜드스케이프 편집중: 컴포넌트 선택
+[2019.09.02-13.54.28:999][895]Cmd: TRANSACTION UNDO
+[2019.09.02-13.54.29:000][895]LogEditorTransaction: Undo 랜드스케이프 편집중: 컴포넌트 선택
+[2019.09.02-13.54.29:231][902]Cmd: TRANSACTION UNDO
+[2019.09.02-13.54.29:231][902]LogEditorTransaction: Undo 랜드스케이프 편집중: 컴포넌트 선택
+[2019.09.02-13.54.29:517][914]Cmd: TRANSACTION UNDO
+[2019.09.02-13.54.29:517][914]LogEditorTransaction: Undo 랜드스케이프 편집중: 컴포넌트 선택
+[2019.09.02-13.54.29:763][925]Cmd: TRANSACTION UNDO
+[2019.09.02-13.54.29:763][925]LogEditorTransaction: Undo 랜드스케이프 편집중: 컴포넌트 선택
+[2019.09.02-13.54.30:170][947]Cmd: TRANSACTION UNDO
+[2019.09.02-13.54.30:170][947]LogEditorTransaction: Undo 랜드스케이프 편집중: 컴포넌트 선택
+[2019.09.02-13.54.30:411][959]Cmd: TRANSACTION UNDO
+[2019.09.02-13.54.30:411][959]LogEditorTransaction: Undo 랜드스케이프 편집중: 컴포넌트 선택
+[2019.09.02-13.54.30:682][971]Cmd: TRANSACTION UNDO
+[2019.09.02-13.54.30:682][971]LogEditorTransaction: Undo 랜드스케이프 편집중: 컴포넌트 선택
+[2019.09.02-13.54.30:927][981]Cmd: TRANSACTION UNDO
+[2019.09.02-13.54.30:927][981]LogEditorTransaction: Undo 랜드스케이프 편집중: 컴포넌트 선택
+[2019.09.02-13.54.31:196][993]Cmd: TRANSACTION UNDO
+[2019.09.02-13.54.31:196][993]LogEditorTransaction: Undo 랜드스케이프 편집중: 컴포넌트 선택
+[2019.09.02-13.54.31:584][ 13]Cmd: TRANSACTION UNDO
+[2019.09.02-13.54.31:584][ 13]LogEditorTransaction: Undo 랜드스케이프 편집중: 컴포넌트 선택
+[2019.09.02-13.54.32:003][ 32]Cmd: TRANSACTION UNDO
+[2019.09.02-13.54.32:003][ 32]LogEditorTransaction: Undo 랜드스케이프 편집중: 컴포넌트 선택
+[2019.09.02-13.54.32:693][ 68]Cmd: TRANSACTION UNDO
+[2019.09.02-13.54.32:693][ 68]LogEditorTransaction: Undo 랜드스케이프 편집중: 컴포넌트 선택
+[2019.09.02-13.54.33:446][105]Cmd: TRANSACTION UNDO
+[2019.09.02-13.54.33:446][105]LogEditorTransaction: Undo 랜드스케이프 편집중: 컴포넌트 선택
+[2019.09.02-13.54.33:796][122]Cmd: TRANSACTION UNDO
+[2019.09.02-13.54.33:796][122]LogEditorTransaction: Undo 랜드스케이프 편집중: 컴포넌트 선택
+[2019.09.02-13.54.47:189][875]Cmd: TRANSACTION UNDO
+[2019.09.02-13.54.47:189][875]LogEditorTransaction: Undo 랜드스케이프 편집중: 컴포넌트 선택
+[2019.09.02-13.54.47:579][890]Cmd: TRANSACTION UNDO
+[2019.09.02-13.54.47:579][890]LogEditorTransaction: Undo 랜드스케이프 편집중: 컴포넌트 선택
+[2019.09.02-13.54.48:125][916]Cmd: TRANSACTION UNDO
+[2019.09.02-13.54.48:125][916]LogEditorTransaction: Undo 랜드스케이프 편집중: 컴포넌트 선택
+[2019.09.02-13.54.53:327][198]Cmd: TRANSACTION UNDO
+[2019.09.02-13.54.53:328][198]LogEditorTransaction: Undo 랜드스케이프 편집중: 컴포넌트 선택
+[2019.09.02-13.54.53:539][207]Cmd: TRANSACTION UNDO
+[2019.09.02-13.54.53:539][207]LogEditorTransaction: Undo 랜드스케이프 편집중: 컴포넌트 선택
+[2019.09.02-13.54.53:726][214]Cmd: TRANSACTION UNDO
+[2019.09.02-13.54.53:726][214]LogEditorTransaction: Undo 랜드스케이프 편집중: 컴포넌트 선택
+[2019.09.02-13.54.53:897][220]Cmd: TRANSACTION UNDO
+[2019.09.02-13.54.53:897][220]LogEditorTransaction: Undo 랜드스케이프 편집중: 컴포넌트 선택
+[2019.09.02-13.54.54:124][230]Cmd: TRANSACTION UNDO
+[2019.09.02-13.54.54:124][230]LogEditorTransaction: Undo 랜드스케이프 편집중: 컴포넌트 선택
+[2019.09.02-13.54.54:307][238]Cmd: TRANSACTION UNDO
+[2019.09.02-13.54.54:307][238]LogEditorTransaction: Undo 랜드스케이프 편집중: 컴포넌트 선택
+[2019.09.02-13.54.54:510][248]Cmd: TRANSACTION UNDO
+[2019.09.02-13.54.54:510][248]LogEditorTransaction: Undo 랜드스케이프 편집중: 컴포넌트 선택
+[2019.09.02-13.54.54:698][257]Cmd: TRANSACTION UNDO
+[2019.09.02-13.54.54:698][257]LogEditorTransaction: Undo 랜드스케이프 편집중: 컴포넌트 선택
+[2019.09.02-13.54.54:878][265]Cmd: TRANSACTION UNDO
+[2019.09.02-13.54.54:878][265]LogEditorTransaction: Undo 랜드스케이프 편집중: 컴포넌트 선택
+[2019.09.02-13.54.55:113][274]Cmd: TRANSACTION UNDO
+[2019.09.02-13.54.55:113][274]LogEditorTransaction: Undo 랜드스케이프 편집중: 컴포넌트 선택
+[2019.09.02-13.54.55:378][283]Cmd: TRANSACTION UNDO
+[2019.09.02-13.54.55:378][283]LogEditorTransaction: Undo 랜드스케이프 편집중: 컴포넌트 선택
+[2019.09.02-13.54.55:821][306]Cmd: TRANSACTION UNDO
+[2019.09.02-13.54.55:821][306]LogEditorTransaction: Undo 랜드스케이프 편집중: 컴포넌트 선택
+[2019.09.02-13.54.56:102][319]Cmd: TRANSACTION UNDO
+[2019.09.02-13.54.56:103][319]LogEditorTransaction: Undo 랜드스케이프 편집중: 컴포넌트 선택
+[2019.09.02-13.54.56:501][337]Cmd: TRANSACTION UNDO
+[2019.09.02-13.54.56:502][337]LogEditorTransaction: Undo 랜드스케이프 편집중: 컴포넌트 선택
+[2019.09.02-13.54.56:762][348]Cmd: TRANSACTION UNDO
+[2019.09.02-13.54.56:762][348]LogEditorTransaction: Undo 랜드스케이프 편집중: 컴포넌트 선택
+[2019.09.02-13.54.57:377][381]Cmd: TRANSACTION UNDO
+[2019.09.02-13.54.57:377][381]LogEditorTransaction: Undo 랜드스케이프 편집중: 컴포넌트 선택
+[2019.09.02-13.54.57:858][405]Cmd: TRANSACTION UNDO
+[2019.09.02-13.54.57:859][405]LogEditorTransaction: Undo 랜드스케이프 편집중: 컴포넌트 선택
+[2019.09.02-13.55.10:743][105]Cmd: TRANSACTION UNDO
+[2019.09.02-13.55.10:743][105]LogEditorTransaction: Undo 랜드스케이프 편집중: 컴포넌트 선택
+[2019.09.02-13.55.13:381][240]Cmd: TRANSACTION UNDO
+[2019.09.02-13.55.13:381][240]LogEditorTransaction: Undo 랜드스케이프 편집중: 컴포넌트 선택
+[2019.09.02-13.55.15:090][330]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2019.09.02-13.55.24:199][828]Cmd: TRANSACTION UNDO
+[2019.09.02-13.55.24:200][828]LogEditorTransaction: Undo 랜드스케이프 편집중: 컴포넌트 선택
+[2019.09.02-13.55.26:488][940]Cmd: TRANSACTION UNDO
+[2019.09.02-13.55.26:488][940]LogEditorTransaction: Undo 랜드스케이프 편집중: 컴포넌트 선택
+[2019.09.02-13.55.31:450][202]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2019.09.02-13.55.31:970][228]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2019.09.02-13.55.48:687][147]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2019.09.02-13.55.49:118][169]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2019.09.02-13.55.56:215][563]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2019.09.02-13.55.57:422][629]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.02-13.56.00:486][753]Cmd: DELETE
+[2019.09.02-13.56.00:486][753]Cmd: ACTOR DELETE
+[2019.09.02-13.56.00:502][753]LogEditorActor: Deleted Actor: Landscape
+[2019.09.02-13.56.00:624][753]LogUObjectHash: Compacting FUObjectHashTables data took   3.61ms
+[2019.09.02-13.56.00:625][753]LogEditorActor: Deleted 1 Actors (0.138 secs)
+[2019.09.02-13.56.04:704][984]Cmd: TRANSACTION UNDO
+[2019.09.02-13.56.04:704][984]LogEditorTransaction: Undo 액터 삭제
+[2019.09.02-13.56.08:923][155]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2019.09.02-13.56.11:047][269]LogEditorViewport: Clicking on Actor (double click): Landscape (Landscape)
+[2019.09.02-13.56.11:397][289]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2019.09.02-13.56.12:276][337]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.02-13.56.14:796][476]LogEditorViewport: Clicking Background
+[2019.09.02-13.56.16:211][549]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.02-13.56.16:336][556]LogTexture: Display: 텍스처 빌드: Texture2D_3 (G8, 128X128)
+[2019.09.02-13.56.19:337][720]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2019.09.02-13.56.20:435][777]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.02-13.56.28:081][190]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.09.02-13.56.51:577][193]LogSlate: Window '메시지' being destroyed
+[2019.09.02-13.56.53:556][299]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.09.02-13.57.22:962][956]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.09.02-13.57.25:526][ 96]LogTexture: Display: 텍스처 빌드: Texture2D_1 (BGRA8, 16X16)
+[2019.09.02-13.57.25:538][ 96]LogTexture: Display: 텍스처 빌드: Texture2D_1 (BGRA8, 16X16)
+[2019.09.02-13.57.25:554][ 96]LogTexture: Display: 텍스처 빌드: Texture2D_2 (BGRA8, 16X16)
+[2019.09.02-13.57.25:566][ 96]LogTexture: Display: 텍스처 빌드: Texture2D_2 (BGRA8, 16X16)
+[2019.09.02-13.57.25:580][ 96]LogTexture: Display: 텍스처 빌드: Texture2D_3 (BGRA8, 16X16)
+[2019.09.02-13.57.25:594][ 96]LogTexture: Display: 텍스처 빌드: Texture2D_3 (BGRA8, 16X16)
+[2019.09.02-13.57.25:610][ 96]LogTexture: Display: 텍스처 빌드: Texture2D_4 (BGRA8, 16X16)
+[2019.09.02-13.57.25:623][ 96]LogTexture: Display: 텍스처 빌드: Texture2D_4 (BGRA8, 16X16)
+[2019.09.02-13.57.25:637][ 96]LogTexture: Display: 텍스처 빌드: Texture2D_5 (BGRA8, 16X16)
+[2019.09.02-13.57.25:650][ 96]LogTexture: Display: 텍스처 빌드: Texture2D_5 (BGRA8, 16X16)
+[2019.09.02-13.57.25:665][ 96]LogTexture: Display: 텍스처 빌드: Texture2D_6 (BGRA8, 16X16)
+[2019.09.02-13.57.25:680][ 96]LogTexture: Display: 텍스처 빌드: Texture2D_6 (BGRA8, 16X16)
+[2019.09.02-13.57.25:695][ 96]LogTexture: Display: 텍스처 빌드: Texture2D_7 (BGRA8, 16X16)
+[2019.09.02-13.57.25:709][ 96]LogTexture: Display: 텍스처 빌드: Texture2D_7 (BGRA8, 16X16)
+[2019.09.02-13.57.25:726][ 96]LogTexture: Display: 텍스처 빌드: Texture2D_8 (BGRA8, 16X16)
+[2019.09.02-13.57.25:741][ 96]LogTexture: Display: 텍스처 빌드: Texture2D_8 (BGRA8, 16X16)
+[2019.09.02-13.57.25:760][ 96]LogTexture: Display: 텍스처 빌드: Texture2D_9 (BGRA8, 16X16)
+[2019.09.02-13.57.25:775][ 96]LogTexture: Display: 텍스처 빌드: Texture2D_9 (BGRA8, 16X16)
+[2019.09.02-13.57.25:789][ 96]LogTexture: Display: 텍스처 빌드: Texture2D_10 (BGRA8, 16X16)
+[2019.09.02-13.57.25:804][ 96]LogTexture: Display: 텍스처 빌드: Texture2D_10 (BGRA8, 16X16)
+[2019.09.02-13.57.25:819][ 96]LogTexture: Display: 텍스처 빌드: Texture2D_11 (BGRA8, 16X16)
+[2019.09.02-13.57.25:832][ 96]LogTexture: Display: 텍스처 빌드: Texture2D_11 (BGRA8, 16X16)
+[2019.09.02-13.57.25:849][ 96]LogTexture: Display: 텍스처 빌드: Texture2D_12 (BGRA8, 16X16)
+[2019.09.02-13.57.25:864][ 96]LogTexture: Display: 텍스처 빌드: Texture2D_12 (BGRA8, 16X16)
+[2019.09.02-13.57.25:895][ 96]LogTexture: Display: 텍스처 빌드: Texture2D_13 (BGRA8, 16X16)
+[2019.09.02-13.57.25:911][ 96]LogTexture: Display: 텍스처 빌드: Texture2D_13 (BGRA8, 16X16)
+[2019.09.02-13.57.25:928][ 96]LogTexture: Display: 텍스처 빌드: Texture2D_14 (BGRA8, 16X16)
+[2019.09.02-13.57.25:942][ 96]LogTexture: Display: 텍스처 빌드: Texture2D_14 (BGRA8, 16X16)
+[2019.09.02-13.57.25:973][ 96]LogTexture: Display: 텍스처 빌드: Texture2D_15 (BGRA8, 16X16)
+[2019.09.02-13.57.25:989][ 96]LogTexture: Display: 텍스처 빌드: Texture2D_15 (BGRA8, 16X16)
+[2019.09.02-13.57.26:018][ 96]LogTexture: Display: 텍스처 빌드: Texture2D_16 (BGRA8, 16X16)
+[2019.09.02-13.57.26:032][ 96]LogTexture: Display: 텍스처 빌드: Texture2D_16 (BGRA8, 16X16)
+[2019.09.02-13.57.26:048][ 96]LogTexture: Display: 텍스처 빌드: Texture2D_17 (BGRA8, 16X16)
+[2019.09.02-13.57.26:085][ 96]LogTexture: Display: 텍스처 빌드: Texture2D_17 (BGRA8, 16X16)
+[2019.09.02-13.57.26:100][ 96]LogTexture: Display: 텍스처 빌드: Texture2D_18 (BGRA8, 16X16)
+[2019.09.02-13.57.26:114][ 96]LogTexture: Display: 텍스처 빌드: Texture2D_18 (BGRA8, 16X16)
+[2019.09.02-13.57.26:141][ 96]LogTexture: Display: 텍스처 빌드: Texture2D_19 (BGRA8, 16X16)
+[2019.09.02-13.57.26:158][ 96]LogTexture: Display: 텍스처 빌드: Texture2D_19 (BGRA8, 16X16)
+[2019.09.02-13.57.26:174][ 96]LogTexture: Display: 텍스처 빌드: Texture2D_20 (BGRA8, 16X16)
+[2019.09.02-13.57.26:189][ 96]LogTexture: Display: 텍스처 빌드: Texture2D_20 (BGRA8, 16X16)
+[2019.09.02-13.57.26:214][ 96]LogTexture: Display: 텍스처 빌드: Texture2D_21 (BGRA8, 16X16)
+[2019.09.02-13.57.26:229][ 96]LogTexture: Display: 텍스처 빌드: Texture2D_21 (BGRA8, 16X16)
+[2019.09.02-13.57.26:246][ 96]LogTexture: Display: 텍스처 빌드: Texture2D_22 (BGRA8, 16X16)
+[2019.09.02-13.57.26:260][ 96]LogTexture: Display: 텍스처 빌드: Texture2D_22 (BGRA8, 16X16)
+[2019.09.02-13.57.26:277][ 96]LogTexture: Display: 텍스처 빌드: Texture2D_23 (BGRA8, 16X16)
+[2019.09.02-13.57.26:295][ 96]LogTexture: Display: 텍스처 빌드: Texture2D_23 (BGRA8, 16X16)
+[2019.09.02-13.57.26:312][ 96]LogTexture: Display: 텍스처 빌드: Texture2D_24 (BGRA8, 16X16)
+[2019.09.02-13.57.26:325][ 96]LogTexture: Display: 텍스처 빌드: Texture2D_24 (BGRA8, 16X16)
+[2019.09.02-13.57.26:353][ 96]LogTexture: Display: 텍스처 빌드: Texture2D_25 (BGRA8, 16X16)
+[2019.09.02-13.57.26:370][ 96]LogTexture: Display: 텍스처 빌드: Texture2D_25 (BGRA8, 16X16)
+[2019.09.02-13.57.26:387][ 96]LogTexture: Display: 텍스처 빌드: Texture2D_26 (BGRA8, 16X16)
+[2019.09.02-13.57.26:406][ 96]LogTexture: Display: 텍스처 빌드: Texture2D_26 (BGRA8, 16X16)
+[2019.09.02-13.57.26:421][ 96]LogTexture: Display: 텍스처 빌드: Texture2D_27 (BGRA8, 16X16)
+[2019.09.02-13.57.26:436][ 96]LogTexture: Display: 텍스처 빌드: Texture2D_27 (BGRA8, 16X16)
+[2019.09.02-13.57.26:460][ 96]LogTexture: Display: 텍스처 빌드: Texture2D_28 (BGRA8, 16X16)
+[2019.09.02-13.57.26:473][ 96]LogTexture: Display: 텍스처 빌드: Texture2D_28 (BGRA8, 16X16)
+[2019.09.02-13.57.26:490][ 96]LogTexture: Display: 텍스처 빌드: Texture2D_29 (BGRA8, 16X16)
+[2019.09.02-13.57.26:504][ 96]LogTexture: Display: 텍스처 빌드: Texture2D_29 (BGRA8, 16X16)
+[2019.09.02-13.57.26:520][ 96]LogTexture: Display: 텍스처 빌드: Texture2D_30 (BGRA8, 16X16)
+[2019.09.02-13.57.26:534][ 96]LogTexture: Display: 텍스처 빌드: Texture2D_30 (BGRA8, 16X16)
+[2019.09.02-13.57.26:549][ 96]LogTexture: Display: 텍스처 빌드: Texture2D_31 (BGRA8, 16X16)
+[2019.09.02-13.57.26:566][ 96]LogTexture: Display: 텍스처 빌드: Texture2D_31 (BGRA8, 16X16)
+[2019.09.02-13.57.26:592][ 96]LogTexture: Display: 텍스처 빌드: Texture2D_32 (BGRA8, 16X16)
+[2019.09.02-13.57.26:605][ 96]LogTexture: Display: 텍스처 빌드: Texture2D_32 (BGRA8, 16X16)
+[2019.09.02-13.57.26:621][ 96]LogTexture: Display: 텍스처 빌드: Texture2D_33 (BGRA8, 16X16)
+[2019.09.02-13.57.26:640][ 96]LogTexture: Display: 텍스처 빌드: Texture2D_33 (BGRA8, 16X16)
+[2019.09.02-13.57.26:656][ 96]LogTexture: Display: 텍스처 빌드: Texture2D_34 (BGRA8, 16X16)
+[2019.09.02-13.57.26:680][ 96]LogTexture: Display: 텍스처 빌드: Texture2D_34 (BGRA8, 16X16)
+[2019.09.02-13.57.26:705][ 96]LogTexture: Display: 텍스처 빌드: Texture2D_35 (BGRA8, 16X16)
+[2019.09.02-13.57.26:718][ 96]LogTexture: Display: 텍스처 빌드: Texture2D_35 (BGRA8, 16X16)
+[2019.09.02-13.57.26:735][ 96]LogTexture: Display: 텍스처 빌드: Texture2D_36 (BGRA8, 16X16)
+[2019.09.02-13.57.26:749][ 96]LogTexture: Display: 텍스처 빌드: Texture2D_36 (BGRA8, 16X16)
+[2019.09.02-13.57.26:766][ 96]LogTexture: Display: 텍스처 빌드: Texture2D_37 (BGRA8, 16X16)
+[2019.09.02-13.57.26:786][ 96]LogTexture: Display: 텍스처 빌드: Texture2D_37 (BGRA8, 16X16)
+[2019.09.02-13.57.26:801][ 96]LogTexture: Display: 텍스처 빌드: Texture2D_38 (BGRA8, 16X16)
+[2019.09.02-13.57.26:816][ 96]LogTexture: Display: 텍스처 빌드: Texture2D_38 (BGRA8, 16X16)
+[2019.09.02-13.57.26:838][ 96]LogTexture: Display: 텍스처 빌드: Texture2D_39 (BGRA8, 16X16)
+[2019.09.02-13.57.26:852][ 96]LogTexture: Display: 텍스처 빌드: Texture2D_39 (BGRA8, 16X16)
+[2019.09.02-13.57.26:867][ 96]LogTexture: Display: 텍스처 빌드: Texture2D_40 (BGRA8, 16X16)
+[2019.09.02-13.57.26:883][ 96]LogTexture: Display: 텍스처 빌드: Texture2D_40 (BGRA8, 16X16)
+[2019.09.02-13.57.26:899][ 96]LogTexture: Display: 텍스처 빌드: Texture2D_41 (BGRA8, 16X16)
+[2019.09.02-13.57.26:912][ 96]LogTexture: Display: 텍스처 빌드: Texture2D_41 (BGRA8, 16X16)
+[2019.09.02-13.57.26:938][ 96]LogTexture: Display: 텍스처 빌드: Texture2D_42 (BGRA8, 16X16)
+[2019.09.02-13.57.26:952][ 96]LogTexture: Display: 텍스처 빌드: Texture2D_42 (BGRA8, 16X16)
+[2019.09.02-13.57.26:970][ 96]LogTexture: Display: 텍스처 빌드: Texture2D_43 (BGRA8, 16X16)
+[2019.09.02-13.57.26:996][ 96]LogTexture: Display: 텍스처 빌드: Texture2D_43 (BGRA8, 16X16)
+[2019.09.02-13.57.27:016][ 96]LogTexture: Display: 텍스처 빌드: Texture2D_44 (BGRA8, 16X16)
+[2019.09.02-13.57.27:031][ 96]LogTexture: Display: 텍스처 빌드: Texture2D_44 (BGRA8, 16X16)
+[2019.09.02-13.57.27:048][ 96]LogTexture: Display: 텍스처 빌드: Texture2D_45 (BGRA8, 16X16)
+[2019.09.02-13.57.27:063][ 96]LogTexture: Display: 텍스처 빌드: Texture2D_45 (BGRA8, 16X16)
+[2019.09.02-13.57.27:078][ 96]LogTexture: Display: 텍스처 빌드: Texture2D_46 (BGRA8, 16X16)
+[2019.09.02-13.57.27:092][ 96]LogTexture: Display: 텍스처 빌드: Texture2D_46 (BGRA8, 16X16)
+[2019.09.02-13.57.27:109][ 96]LogTexture: Display: 텍스처 빌드: Texture2D_47 (BGRA8, 16X16)
+[2019.09.02-13.57.27:124][ 96]LogTexture: Display: 텍스처 빌드: Texture2D_47 (BGRA8, 16X16)
+[2019.09.02-13.57.27:154][ 96]LogTexture: Display: 텍스처 빌드: Texture2D_48 (BGRA8, 16X16)
+[2019.09.02-13.57.27:168][ 96]LogTexture: Display: 텍스처 빌드: Texture2D_48 (BGRA8, 16X16)
+[2019.09.02-13.57.27:184][ 96]LogTexture: Display: 텍스처 빌드: Texture2D_49 (BGRA8, 16X16)
+[2019.09.02-13.57.27:198][ 96]LogTexture: Display: 텍스처 빌드: Texture2D_49 (BGRA8, 16X16)
+[2019.09.02-13.57.27:225][ 96]LogTexture: Display: 텍스처 빌드: Texture2D_50 (BGRA8, 16X16)
+[2019.09.02-13.57.27:239][ 96]LogTexture: Display: 텍스처 빌드: Texture2D_50 (BGRA8, 16X16)
+[2019.09.02-13.57.27:269][ 96]LogTexture: Display: 텍스처 빌드: Texture2D_51 (BGRA8, 16X16)
+[2019.09.02-13.57.27:283][ 96]LogTexture: Display: 텍스처 빌드: Texture2D_51 (BGRA8, 16X16)
+[2019.09.02-13.57.27:297][ 96]LogTexture: Display: 텍스처 빌드: Texture2D_52 (BGRA8, 16X16)
+[2019.09.02-13.57.27:315][ 96]LogTexture: Display: 텍스처 빌드: Texture2D_52 (BGRA8, 16X16)
+[2019.09.02-13.57.27:332][ 96]LogTexture: Display: 텍스처 빌드: Texture2D_53 (BGRA8, 16X16)
+[2019.09.02-13.57.27:347][ 96]LogTexture: Display: 텍스처 빌드: Texture2D_53 (BGRA8, 16X16)
+[2019.09.02-13.57.27:378][ 96]LogTexture: Display: 텍스처 빌드: Texture2D_54 (BGRA8, 16X16)
+[2019.09.02-13.57.27:393][ 96]LogTexture: Display: 텍스처 빌드: Texture2D_54 (BGRA8, 16X16)
+[2019.09.02-13.57.27:408][ 96]LogTexture: Display: 텍스처 빌드: Texture2D_55 (BGRA8, 16X16)
+[2019.09.02-13.57.27:430][ 96]LogTexture: Display: 텍스처 빌드: Texture2D_55 (BGRA8, 16X16)
+[2019.09.02-13.57.27:445][ 96]LogTexture: Display: 텍스처 빌드: Texture2D_56 (BGRA8, 16X16)
+[2019.09.02-13.57.27:459][ 96]LogTexture: Display: 텍스처 빌드: Texture2D_56 (BGRA8, 16X16)
+[2019.09.02-13.57.27:482][ 96]LogTexture: Display: 텍스처 빌드: Texture2D_57 (BGRA8, 16X16)
+[2019.09.02-13.57.27:499][ 96]LogTexture: Display: 텍스처 빌드: Texture2D_57 (BGRA8, 16X16)
+[2019.09.02-13.57.27:514][ 96]LogTexture: Display: 텍스처 빌드: Texture2D_58 (BGRA8, 16X16)
+[2019.09.02-13.57.27:532][ 96]LogTexture: Display: 텍스처 빌드: Texture2D_58 (BGRA8, 16X16)
+[2019.09.02-13.57.27:549][ 96]LogTexture: Display: 텍스처 빌드: Texture2D_59 (BGRA8, 16X16)
+[2019.09.02-13.57.27:565][ 96]LogTexture: Display: 텍스처 빌드: Texture2D_59 (BGRA8, 16X16)
+[2019.09.02-13.57.27:589][ 96]LogTexture: Display: 텍스처 빌드: Texture2D_60 (BGRA8, 16X16)
+[2019.09.02-13.57.27:602][ 96]LogTexture: Display: 텍스처 빌드: Texture2D_60 (BGRA8, 16X16)
+[2019.09.02-13.57.27:619][ 96]LogTexture: Display: 텍스처 빌드: Texture2D_61 (BGRA8, 16X16)
+[2019.09.02-13.57.27:646][ 96]LogTexture: Display: 텍스처 빌드: Texture2D_61 (BGRA8, 16X16)
+[2019.09.02-13.57.27:662][ 96]LogTexture: Display: 텍스처 빌드: Texture2D_62 (BGRA8, 16X16)
+[2019.09.02-13.57.27:677][ 96]LogTexture: Display: 텍스처 빌드: Texture2D_62 (BGRA8, 16X16)
+[2019.09.02-13.57.27:695][ 96]LogTexture: Display: 텍스처 빌드: Texture2D_63 (BGRA8, 16X16)
+[2019.09.02-13.57.27:712][ 96]LogTexture: Display: 텍스처 빌드: Texture2D_63 (BGRA8, 16X16)
+[2019.09.02-13.57.27:729][ 96]LogTexture: Display: 텍스처 빌드: Texture2D_64 (BGRA8, 16X16)
+[2019.09.02-13.57.27:743][ 96]LogTexture: Display: 텍스처 빌드: Texture2D_64 (BGRA8, 16X16)
+[2019.09.02-13.57.27:759][ 96]LogTexture: Display: 텍스처 빌드: Texture2D_65 (BGRA8, 16X16)
+[2019.09.02-13.57.27:773][ 96]LogTexture: Display: 텍스처 빌드: Texture2D_65 (BGRA8, 16X16)
+[2019.09.02-13.57.27:794][ 96]LogTexture: Display: 텍스처 빌드: Texture2D_66 (BGRA8, 16X16)
+[2019.09.02-13.57.27:808][ 96]LogTexture: Display: 텍스처 빌드: Texture2D_66 (BGRA8, 16X16)
+[2019.09.02-13.57.27:823][ 96]LogTexture: Display: 텍스처 빌드: Texture2D_67 (BGRA8, 16X16)
+[2019.09.02-13.57.27:838][ 96]LogTexture: Display: 텍스처 빌드: Texture2D_67 (BGRA8, 16X16)
+[2019.09.02-13.57.27:853][ 96]LogTexture: Display: 텍스처 빌드: Texture2D_68 (BGRA8, 16X16)
+[2019.09.02-13.57.27:867][ 96]LogTexture: Display: 텍스처 빌드: Texture2D_68 (BGRA8, 16X16)
+[2019.09.02-13.57.27:882][ 96]LogTexture: Display: 텍스처 빌드: Texture2D_69 (BGRA8, 16X16)
+[2019.09.02-13.57.27:895][ 96]LogTexture: Display: 텍스처 빌드: Texture2D_69 (BGRA8, 16X16)
+[2019.09.02-13.57.27:911][ 96]LogTexture: Display: 텍스처 빌드: Texture2D_70 (BGRA8, 16X16)
+[2019.09.02-13.57.27:925][ 96]LogTexture: Display: 텍스처 빌드: Texture2D_70 (BGRA8, 16X16)
+[2019.09.02-13.57.27:942][ 96]LogTexture: Display: 텍스처 빌드: Texture2D_71 (BGRA8, 16X16)
+[2019.09.02-13.57.27:956][ 96]LogTexture: Display: 텍스처 빌드: Texture2D_71 (BGRA8, 16X16)
+[2019.09.02-13.57.27:978][ 96]LogTexture: Display: 텍스처 빌드: Texture2D_72 (BGRA8, 16X16)
+[2019.09.02-13.57.27:991][ 96]LogTexture: Display: 텍스처 빌드: Texture2D_72 (BGRA8, 16X16)
+[2019.09.02-13.57.28:006][ 96]LogTexture: Display: 텍스처 빌드: Texture2D_73 (BGRA8, 16X16)
+[2019.09.02-13.57.28:022][ 96]LogTexture: Display: 텍스처 빌드: Texture2D_73 (BGRA8, 16X16)
+[2019.09.02-13.57.28:038][ 96]LogTexture: Display: 텍스처 빌드: Texture2D_74 (BGRA8, 16X16)
+[2019.09.02-13.57.28:051][ 96]LogTexture: Display: 텍스처 빌드: Texture2D_74 (BGRA8, 16X16)
+[2019.09.02-13.57.28:080][ 96]LogTexture: Display: 텍스처 빌드: Texture2D_75 (BGRA8, 16X16)
+[2019.09.02-13.57.28:094][ 96]LogTexture: Display: 텍스처 빌드: Texture2D_75 (BGRA8, 16X16)
+[2019.09.02-13.57.28:112][ 96]LogTexture: Display: 텍스처 빌드: Texture2D_76 (BGRA8, 16X16)
+[2019.09.02-13.57.28:128][ 96]LogTexture: Display: 텍스처 빌드: Texture2D_76 (BGRA8, 16X16)
+[2019.09.02-13.57.28:144][ 96]LogTexture: Display: 텍스처 빌드: Texture2D_77 (BGRA8, 16X16)
+[2019.09.02-13.57.28:158][ 96]LogTexture: Display: 텍스처 빌드: Texture2D_77 (BGRA8, 16X16)
+[2019.09.02-13.57.28:173][ 96]LogTexture: Display: 텍스처 빌드: Texture2D_78 (BGRA8, 16X16)
+[2019.09.02-13.57.28:187][ 96]LogTexture: Display: 텍스처 빌드: Texture2D_78 (BGRA8, 16X16)
+[2019.09.02-13.57.28:207][ 96]LogTexture: Display: 텍스처 빌드: Texture2D_79 (BGRA8, 16X16)
+[2019.09.02-13.57.28:222][ 96]LogTexture: Display: 텍스처 빌드: Texture2D_79 (BGRA8, 16X16)
+[2019.09.02-13.57.28:242][ 96]LogTexture: Display: 텍스처 빌드: Texture2D_80 (BGRA8, 16X16)
+[2019.09.02-13.57.28:257][ 96]LogTexture: Display: 텍스처 빌드: Texture2D_80 (BGRA8, 16X16)
+[2019.09.02-13.57.28:273][ 96]LogTexture: Display: 텍스처 빌드: Texture2D_81 (BGRA8, 16X16)
+[2019.09.02-13.57.28:292][ 96]LogTexture: Display: 텍스처 빌드: Texture2D_81 (BGRA8, 16X16)
+[2019.09.02-13.57.28:310][ 96]LogTexture: Display: 텍스처 빌드: Texture2D_82 (BGRA8, 16X16)
+[2019.09.02-13.57.28:325][ 96]LogTexture: Display: 텍스처 빌드: Texture2D_82 (BGRA8, 16X16)
+[2019.09.02-13.57.28:350][ 96]LogTexture: Display: 텍스처 빌드: Texture2D_83 (BGRA8, 16X16)
+[2019.09.02-13.57.28:366][ 96]LogTexture: Display: 텍스처 빌드: Texture2D_83 (BGRA8, 16X16)
+[2019.09.02-13.57.28:383][ 96]LogTexture: Display: 텍스처 빌드: Texture2D_84 (BGRA8, 16X16)
+[2019.09.02-13.57.28:412][ 96]LogTexture: Display: 텍스처 빌드: Texture2D_84 (BGRA8, 16X16)
+[2019.09.02-13.57.28:427][ 96]LogTexture: Display: 텍스처 빌드: Texture2D_85 (BGRA8, 16X16)
+[2019.09.02-13.57.28:443][ 96]LogTexture: Display: 텍스처 빌드: Texture2D_85 (BGRA8, 16X16)
+[2019.09.02-13.57.28:469][ 96]LogTexture: Display: 텍스처 빌드: Texture2D_86 (BGRA8, 16X16)
+[2019.09.02-13.57.28:485][ 96]LogTexture: Display: 텍스처 빌드: Texture2D_86 (BGRA8, 16X16)
+[2019.09.02-13.57.28:501][ 96]LogTexture: Display: 텍스처 빌드: Texture2D_87 (BGRA8, 16X16)
+[2019.09.02-13.57.28:517][ 96]LogTexture: Display: 텍스처 빌드: Texture2D_87 (BGRA8, 16X16)
+[2019.09.02-13.57.28:534][ 96]LogTexture: Display: 텍스처 빌드: Texture2D_88 (BGRA8, 16X16)
+[2019.09.02-13.57.28:547][ 96]LogTexture: Display: 텍스처 빌드: Texture2D_88 (BGRA8, 16X16)
+[2019.09.02-13.57.28:579][ 96]LogTexture: Display: 텍스처 빌드: Texture2D_89 (BGRA8, 16X16)
+[2019.09.02-13.57.28:594][ 96]LogTexture: Display: 텍스처 빌드: Texture2D_89 (BGRA8, 16X16)
+[2019.09.02-13.57.28:613][ 96]LogTexture: Display: 텍스처 빌드: Texture2D_90 (BGRA8, 16X16)
+[2019.09.02-13.57.28:628][ 96]LogTexture: Display: 텍스처 빌드: Texture2D_90 (BGRA8, 16X16)
+[2019.09.02-13.57.28:644][ 96]LogTexture: Display: 텍스처 빌드: Texture2D_91 (BGRA8, 16X16)
+[2019.09.02-13.57.28:657][ 96]LogTexture: Display: 텍스처 빌드: Texture2D_91 (BGRA8, 16X16)
+[2019.09.02-13.57.28:685][ 96]LogTexture: Display: 텍스처 빌드: Texture2D_92 (BGRA8, 16X16)
+[2019.09.02-13.57.28:699][ 96]LogTexture: Display: 텍스처 빌드: Texture2D_92 (BGRA8, 16X16)
+[2019.09.02-13.57.28:718][ 96]LogTexture: Display: 텍스처 빌드: Texture2D_93 (BGRA8, 16X16)
+[2019.09.02-13.57.28:731][ 96]LogTexture: Display: 텍스처 빌드: Texture2D_93 (BGRA8, 16X16)
+[2019.09.02-13.57.28:746][ 96]LogTexture: Display: 텍스처 빌드: Texture2D_94 (BGRA8, 16X16)
+[2019.09.02-13.57.28:761][ 96]LogTexture: Display: 텍스처 빌드: Texture2D_94 (BGRA8, 16X16)
+[2019.09.02-13.57.28:791][ 96]LogTexture: Display: 텍스처 빌드: Texture2D_95 (BGRA8, 16X16)
+[2019.09.02-13.57.28:805][ 96]LogTexture: Display: 텍스처 빌드: Texture2D_95 (BGRA8, 16X16)
+[2019.09.02-13.57.28:821][ 96]LogTexture: Display: 텍스처 빌드: Texture2D_96 (BGRA8, 16X16)
+[2019.09.02-13.57.28:846][ 96]LogTexture: Display: 텍스처 빌드: Texture2D_96 (BGRA8, 16X16)
+[2019.09.02-13.57.30:570][183]LogTexture: Display: 텍스처 빌드: Texture2D_97 (BGRA8, 16X16)
+[2019.09.02-13.57.30:580][183]LogTexture: Display: 텍스처 빌드: Texture2D_97 (BGRA8, 16X16)
+[2019.09.02-13.57.31:945][256]LogTexture: Display: 텍스처 빌드: Texture2D_98 (BGRA8, 16X16)
+[2019.09.02-13.57.31:953][256]LogTexture: Display: 텍스처 빌드: Texture2D_98 (BGRA8, 16X16)
+[2019.09.02-13.57.32:280][274]LogTexture: Display: 텍스처 빌드: Texture2D_99 (BGRA8, 16X16)
+[2019.09.02-13.57.32:288][274]LogTexture: Display: 텍스처 빌드: Texture2D_99 (BGRA8, 16X16)
+[2019.09.02-13.57.32:690][295]LogTexture: Display: 텍스처 빌드: Texture2D_100 (BGRA8, 16X16)
+[2019.09.02-13.57.32:702][295]LogTexture: Display: 텍스처 빌드: Texture2D_100 (BGRA8, 16X16)
+[2019.09.02-13.57.34:288][385]Cmd: TRANSACTION UNDO
+[2019.09.02-13.57.34:288][385]LogEditorTransaction: Undo 랜드스케이프 편집중: 랜드스케이프 컴포넌트 삭제
+[2019.09.02-13.57.34:346][385]LogTexture: Display: 텍스처 빌드: Texture2D_85 (BGRA8, 16X16)
+[2019.09.02-13.57.34:350][385]LogTexture: Display: 텍스처 빌드: Texture2D_75 (BGRA8, 16X16)
+[2019.09.02-13.57.34:365][385]LogTexture: Display: 텍스처 빌드: Texture2D_87 (BGRA8, 16X16)
+[2019.09.02-13.57.34:373][385]LogTexture: Display: 텍스처 빌드: Texture2D_73 (BGRA8, 16X16)
+[2019.09.02-13.57.34:545][392]Cmd: TRANSACTION UNDO
+[2019.09.02-13.57.34:545][392]LogEditorTransaction: Undo 랜드스케이프 편집중: 랜드스케이프 컴포넌트 삭제
+[2019.09.02-13.57.34:608][392]LogTexture: Display: 텍스처 빌드: Texture2D_74 (BGRA8, 16X16)
+[2019.09.02-13.57.34:614][392]LogTexture: Display: 텍스처 빌드: Texture2D_85 (BGRA8, 16X16)
+[2019.09.02-13.57.34:621][392]LogTexture: Display: 텍스처 빌드: Texture2D_73 (BGRA8, 16X16)
+[2019.09.02-13.57.34:637][392]LogTexture: Display: 텍스처 빌드: Texture2D_62 (BGRA8, 16X16)
+[2019.09.02-13.57.34:643][392]LogTexture: Display: 텍스처 빌드: Texture2D_61 (BGRA8, 16X16)
+[2019.09.02-13.57.34:762][396]Cmd: TRANSACTION UNDO
+[2019.09.02-13.57.34:762][396]LogEditorTransaction: Undo 랜드스케이프 편집중: 랜드스케이프 컴포넌트 삭제
+[2019.09.02-13.57.34:822][396]LogTexture: Display: 텍스처 빌드: Texture2D_73 (BGRA8, 16X16)
+[2019.09.02-13.57.34:833][396]LogTexture: Display: 텍스처 빌드: Texture2D_85 (BGRA8, 16X16)
+[2019.09.02-13.57.34:841][396]LogTexture: Display: 텍스처 빌드: Texture2D_74 (BGRA8, 16X16)
+[2019.09.02-13.57.35:018][404]Cmd: TRANSACTION UNDO
+[2019.09.02-13.57.35:018][404]LogEditorTransaction: Undo 랜드스케이프 편집중: 랜드스케이프 컴포넌트 삭제
+[2019.09.02-13.57.35:090][404]LogTexture: Display: 텍스처 빌드: Texture2D_95 (BGRA8, 16X16)
+[2019.09.02-13.57.35:103][404]LogTexture: Display: 텍스처 빌드: Texture2D_84 (BGRA8, 16X16)
+[2019.09.02-13.57.35:127][404]LogTexture: Display: 텍스처 빌드: Texture2D_83 (BGRA8, 16X16)
+[2019.09.02-13.57.35:418][417]Cmd: TRANSACTION UNDO
+[2019.09.02-13.57.35:418][417]LogEditorTransaction: Undo 랜드스케이프 편집중: 랜드스케이프 컴포넌트 삭제
+[2019.09.02-13.57.36:976][417]LogTexture: Display: 텍스처 빌드: Texture2D_0 (BGRA8, 256X128)
+[2019.09.02-13.57.37:447][417]Cmd: TRANSACTION UNDO
+[2019.09.02-13.57.37:448][417]LogEditorTransaction: Undo 랜드스케이프 편집중: 컴포넌트 선택
+[2019.09.02-13.57.37:487][417]Cmd: TRANSACTION UNDO
+[2019.09.02-13.57.37:487][417]LogEditorTransaction: Undo 랜드스케이프 편집중: 컴포넌트 선택
+[2019.09.02-13.57.37:514][417]Cmd: TRANSACTION UNDO
+[2019.09.02-13.57.37:514][417]LogEditorTransaction: Undo 랜드스케이프 편집중: 컴포넌트 선택
+[2019.09.02-13.57.38:503][471]Cmd: TRANSACTION UNDO
+[2019.09.02-13.57.38:504][471]LogEditorTransaction: Undo 선택 지우기
+[2019.09.02-13.57.40:934][583]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.09.02-13.57.42:761][681]LogTexture: Display: 텍스처 빌드: Texture2D_101 (BGRA8, 16X16)
+[2019.09.02-13.57.42:770][681]LogTexture: Display: 텍스처 빌드: Texture2D_101 (BGRA8, 16X16)
+[2019.09.02-13.57.42:786][681]LogTexture: Display: 텍스처 빌드: Texture2D_102 (BGRA8, 16X16)
+[2019.09.02-13.57.42:797][681]LogTexture: Display: 텍스처 빌드: Texture2D_102 (BGRA8, 16X16)
+[2019.09.02-13.57.42:813][681]LogTexture: Display: 텍스처 빌드: Texture2D_103 (BGRA8, 16X16)
+[2019.09.02-13.57.42:824][681]LogTexture: Display: 텍스처 빌드: Texture2D_103 (BGRA8, 16X16)
+[2019.09.02-13.57.42:839][681]LogTexture: Display: 텍스처 빌드: Texture2D_104 (BGRA8, 16X16)
+[2019.09.02-13.57.42:850][681]LogTexture: Display: 텍스처 빌드: Texture2D_104 (BGRA8, 16X16)
+[2019.09.02-13.57.42:864][681]LogTexture: Display: 텍스처 빌드: Texture2D_105 (BGRA8, 16X16)
+[2019.09.02-13.57.42:875][681]LogTexture: Display: 텍스처 빌드: Texture2D_105 (BGRA8, 16X16)
+[2019.09.02-13.57.42:890][681]LogTexture: Display: 텍스처 빌드: Texture2D_106 (BGRA8, 16X16)
+[2019.09.02-13.57.42:902][681]LogTexture: Display: 텍스처 빌드: Texture2D_106 (BGRA8, 16X16)
+[2019.09.02-13.57.42:915][681]LogTexture: Display: 텍스처 빌드: Texture2D_107 (BGRA8, 16X16)
+[2019.09.02-13.57.42:926][681]LogTexture: Display: 텍스처 빌드: Texture2D_107 (BGRA8, 16X16)
+[2019.09.02-13.57.42:944][681]LogTexture: Display: 텍스처 빌드: Texture2D_108 (BGRA8, 16X16)
+[2019.09.02-13.57.42:957][681]LogTexture: Display: 텍스처 빌드: Texture2D_108 (BGRA8, 16X16)
+[2019.09.02-13.57.42:975][681]LogTexture: Display: 텍스처 빌드: Texture2D_109 (BGRA8, 16X16)
+[2019.09.02-13.57.42:990][681]LogTexture: Display: 텍스처 빌드: Texture2D_109 (BGRA8, 16X16)
+[2019.09.02-13.57.43:005][681]LogTexture: Display: 텍스처 빌드: Texture2D_110 (BGRA8, 16X16)
+[2019.09.02-13.57.43:016][681]LogTexture: Display: 텍스처 빌드: Texture2D_110 (BGRA8, 16X16)
+[2019.09.02-13.57.43:030][681]LogTexture: Display: 텍스처 빌드: Texture2D_111 (BGRA8, 16X16)
+[2019.09.02-13.57.43:041][681]LogTexture: Display: 텍스처 빌드: Texture2D_111 (BGRA8, 16X16)
+[2019.09.02-13.57.43:057][681]LogTexture: Display: 텍스처 빌드: Texture2D_112 (BGRA8, 16X16)
+[2019.09.02-13.57.43:068][681]LogTexture: Display: 텍스처 빌드: Texture2D_112 (BGRA8, 16X16)
+[2019.09.02-13.57.43:086][681]LogTexture: Display: 텍스처 빌드: Texture2D_113 (BGRA8, 16X16)
+[2019.09.02-13.57.43:097][681]LogTexture: Display: 텍스처 빌드: Texture2D_113 (BGRA8, 16X16)
+[2019.09.02-13.57.43:112][681]LogTexture: Display: 텍스처 빌드: Texture2D_114 (BGRA8, 16X16)
+[2019.09.02-13.57.43:124][681]LogTexture: Display: 텍스처 빌드: Texture2D_114 (BGRA8, 16X16)
+[2019.09.02-13.57.43:140][681]LogTexture: Display: 텍스처 빌드: Texture2D_115 (BGRA8, 16X16)
+[2019.09.02-13.57.43:152][681]LogTexture: Display: 텍스처 빌드: Texture2D_115 (BGRA8, 16X16)
+[2019.09.02-13.57.43:174][681]LogTexture: Display: 텍스처 빌드: Texture2D_116 (BGRA8, 16X16)
+[2019.09.02-13.57.43:186][681]LogTexture: Display: 텍스처 빌드: Texture2D_116 (BGRA8, 16X16)
+[2019.09.02-13.57.43:218][681]LogTexture: Display: 텍스처 빌드: Texture2D_117 (BGRA8, 16X16)
+[2019.09.02-13.57.43:231][681]LogTexture: Display: 텍스처 빌드: Texture2D_117 (BGRA8, 16X16)
+[2019.09.02-13.57.43:245][681]LogTexture: Display: 텍스처 빌드: Texture2D_118 (BGRA8, 16X16)
+[2019.09.02-13.57.43:256][681]LogTexture: Display: 텍스처 빌드: Texture2D_118 (BGRA8, 16X16)
+[2019.09.02-13.57.43:273][681]LogTexture: Display: 텍스처 빌드: Texture2D_119 (BGRA8, 16X16)
+[2019.09.02-13.57.43:285][681]LogTexture: Display: 텍스처 빌드: Texture2D_119 (BGRA8, 16X16)
+[2019.09.02-13.57.43:301][681]LogTexture: Display: 텍스처 빌드: Texture2D_120 (BGRA8, 16X16)
+[2019.09.02-13.57.43:318][681]LogTexture: Display: 텍스처 빌드: Texture2D_120 (BGRA8, 16X16)
+[2019.09.02-13.57.43:345][681]LogTexture: Display: 텍스처 빌드: Texture2D_121 (BGRA8, 16X16)
+[2019.09.02-13.57.43:360][681]LogTexture: Display: 텍스처 빌드: Texture2D_121 (BGRA8, 16X16)
+[2019.09.02-13.57.43:387][681]LogTexture: Display: 텍스처 빌드: Texture2D_122 (BGRA8, 16X16)
+[2019.09.02-13.57.43:399][681]LogTexture: Display: 텍스처 빌드: Texture2D_122 (BGRA8, 16X16)
+[2019.09.02-13.57.43:413][681]LogTexture: Display: 텍스처 빌드: Texture2D_123 (BGRA8, 16X16)
+[2019.09.02-13.57.43:429][681]LogTexture: Display: 텍스처 빌드: Texture2D_123 (BGRA8, 16X16)
+[2019.09.02-13.57.43:444][681]LogTexture: Display: 텍스처 빌드: Texture2D_124 (BGRA8, 16X16)
+[2019.09.02-13.57.43:457][681]LogTexture: Display: 텍스처 빌드: Texture2D_124 (BGRA8, 16X16)
+[2019.09.02-13.57.43:487][681]LogTexture: Display: 텍스처 빌드: Texture2D_125 (BGRA8, 16X16)
+[2019.09.02-13.57.43:502][681]LogTexture: Display: 텍스처 빌드: Texture2D_125 (BGRA8, 16X16)
+[2019.09.02-13.57.43:518][681]LogTexture: Display: 텍스처 빌드: Texture2D_126 (BGRA8, 16X16)
+[2019.09.02-13.57.43:529][681]LogTexture: Display: 텍스처 빌드: Texture2D_126 (BGRA8, 16X16)
+[2019.09.02-13.57.43:549][681]LogTexture: Display: 텍스처 빌드: Texture2D_127 (BGRA8, 16X16)
+[2019.09.02-13.57.43:561][681]LogTexture: Display: 텍스처 빌드: Texture2D_127 (BGRA8, 16X16)
+[2019.09.02-13.57.43:580][681]LogTexture: Display: 텍스처 빌드: Texture2D_128 (BGRA8, 16X16)
+[2019.09.02-13.57.43:591][681]LogTexture: Display: 텍스처 빌드: Texture2D_128 (BGRA8, 16X16)
+[2019.09.02-13.57.43:607][681]LogTexture: Display: 텍스처 빌드: Texture2D_129 (BGRA8, 16X16)
+[2019.09.02-13.57.43:618][681]LogTexture: Display: 텍스처 빌드: Texture2D_129 (BGRA8, 16X16)
+[2019.09.02-13.57.43:643][681]LogTexture: Display: 텍스처 빌드: Texture2D_130 (BGRA8, 16X16)
+[2019.09.02-13.57.43:655][681]LogTexture: Display: 텍스처 빌드: Texture2D_130 (BGRA8, 16X16)
+[2019.09.02-13.57.43:686][681]LogTexture: Display: 텍스처 빌드: Texture2D_131 (BGRA8, 16X16)
+[2019.09.02-13.57.43:714][681]LogTexture: Display: 텍스처 빌드: Texture2D_131 (BGRA8, 16X16)
+[2019.09.02-13.57.43:730][681]LogTexture: Display: 텍스처 빌드: Texture2D_132 (BGRA8, 16X16)
+[2019.09.02-13.57.43:742][681]LogTexture: Display: 텍스처 빌드: Texture2D_132 (BGRA8, 16X16)
+[2019.09.02-13.57.43:770][681]LogTexture: Display: 텍스처 빌드: Texture2D_133 (BGRA8, 16X16)
+[2019.09.02-13.57.43:782][681]LogTexture: Display: 텍스처 빌드: Texture2D_133 (BGRA8, 16X16)
+[2019.09.02-13.57.43:804][681]LogTexture: Display: 텍스처 빌드: Texture2D_134 (BGRA8, 16X16)
+[2019.09.02-13.57.43:818][681]LogTexture: Display: 텍스처 빌드: Texture2D_134 (BGRA8, 16X16)
+[2019.09.02-13.57.43:834][681]LogTexture: Display: 텍스처 빌드: Texture2D_135 (BGRA8, 16X16)
+[2019.09.02-13.57.43:846][681]LogTexture: Display: 텍스처 빌드: Texture2D_135 (BGRA8, 16X16)
+[2019.09.02-13.57.43:870][681]LogTexture: Display: 텍스처 빌드: Texture2D_136 (BGRA8, 16X16)
+[2019.09.02-13.57.43:882][681]LogTexture: Display: 텍스처 빌드: Texture2D_136 (BGRA8, 16X16)
+[2019.09.02-13.57.43:898][681]LogTexture: Display: 텍스처 빌드: Texture2D_137 (BGRA8, 16X16)
+[2019.09.02-13.57.43:911][681]LogTexture: Display: 텍스처 빌드: Texture2D_137 (BGRA8, 16X16)
+[2019.09.02-13.57.43:927][681]LogTexture: Display: 텍스처 빌드: Texture2D_138 (BGRA8, 16X16)
+[2019.09.02-13.57.43:938][681]LogTexture: Display: 텍스처 빌드: Texture2D_138 (BGRA8, 16X16)
+[2019.09.02-13.57.43:953][681]LogTexture: Display: 텍스처 빌드: Texture2D_139 (BGRA8, 16X16)
+[2019.09.02-13.57.43:964][681]LogTexture: Display: 텍스처 빌드: Texture2D_139 (BGRA8, 16X16)
+[2019.09.02-13.57.43:980][681]LogTexture: Display: 텍스처 빌드: Texture2D_140 (BGRA8, 16X16)
+[2019.09.02-13.57.43:993][681]LogTexture: Display: 텍스처 빌드: Texture2D_140 (BGRA8, 16X16)
+[2019.09.02-13.57.44:007][681]LogTexture: Display: 텍스처 빌드: Texture2D_141 (BGRA8, 16X16)
+[2019.09.02-13.57.44:017][681]LogTexture: Display: 텍스처 빌드: Texture2D_141 (BGRA8, 16X16)
+[2019.09.02-13.57.44:033][681]LogTexture: Display: 텍스처 빌드: Texture2D_142 (BGRA8, 16X16)
+[2019.09.02-13.57.44:047][681]LogTexture: Display: 텍스처 빌드: Texture2D_142 (BGRA8, 16X16)
+[2019.09.02-13.57.44:062][681]LogTexture: Display: 텍스처 빌드: Texture2D_143 (BGRA8, 16X16)
+[2019.09.02-13.57.44:073][681]LogTexture: Display: 텍스처 빌드: Texture2D_143 (BGRA8, 16X16)
+[2019.09.02-13.57.44:088][681]LogTexture: Display: 텍스처 빌드: Texture2D_144 (BGRA8, 16X16)
+[2019.09.02-13.57.44:099][681]LogTexture: Display: 텍스처 빌드: Texture2D_144 (BGRA8, 16X16)
+[2019.09.02-13.57.44:114][681]LogTexture: Display: 텍스처 빌드: Texture2D_145 (BGRA8, 16X16)
+[2019.09.02-13.57.44:125][681]LogTexture: Display: 텍스처 빌드: Texture2D_145 (BGRA8, 16X16)
+[2019.09.02-13.57.44:140][681]LogTexture: Display: 텍스처 빌드: Texture2D_146 (BGRA8, 16X16)
+[2019.09.02-13.57.44:152][681]LogTexture: Display: 텍스처 빌드: Texture2D_146 (BGRA8, 16X16)
+[2019.09.02-13.57.44:167][681]LogTexture: Display: 텍스처 빌드: Texture2D_147 (BGRA8, 16X16)
+[2019.09.02-13.57.44:178][681]LogTexture: Display: 텍스처 빌드: Texture2D_147 (BGRA8, 16X16)
+[2019.09.02-13.57.44:193][681]LogTexture: Display: 텍스처 빌드: Texture2D_148 (BGRA8, 16X16)
+[2019.09.02-13.57.44:205][681]LogTexture: Display: 텍스처 빌드: Texture2D_148 (BGRA8, 16X16)
+[2019.09.02-13.57.44:224][681]LogTexture: Display: 텍스처 빌드: Texture2D_149 (BGRA8, 16X16)
+[2019.09.02-13.57.44:236][681]LogTexture: Display: 텍스처 빌드: Texture2D_149 (BGRA8, 16X16)
+[2019.09.02-13.57.44:256][681]LogTexture: Display: 텍스처 빌드: Texture2D_150 (BGRA8, 16X16)
+[2019.09.02-13.57.44:266][681]LogTexture: Display: 텍스처 빌드: Texture2D_150 (BGRA8, 16X16)
+[2019.09.02-13.57.44:280][681]LogTexture: Display: 텍스처 빌드: Texture2D_151 (BGRA8, 16X16)
+[2019.09.02-13.57.44:291][681]LogTexture: Display: 텍스처 빌드: Texture2D_151 (BGRA8, 16X16)
+[2019.09.02-13.57.44:306][681]LogTexture: Display: 텍스처 빌드: Texture2D_152 (BGRA8, 16X16)
+[2019.09.02-13.57.44:317][681]LogTexture: Display: 텍스처 빌드: Texture2D_152 (BGRA8, 16X16)
+[2019.09.02-13.57.44:332][681]LogTexture: Display: 텍스처 빌드: Texture2D_153 (BGRA8, 16X16)
+[2019.09.02-13.57.44:343][681]LogTexture: Display: 텍스처 빌드: Texture2D_153 (BGRA8, 16X16)
+[2019.09.02-13.57.44:360][681]LogTexture: Display: 텍스처 빌드: Texture2D_154 (BGRA8, 16X16)
+[2019.09.02-13.57.44:371][681]LogTexture: Display: 텍스처 빌드: Texture2D_154 (BGRA8, 16X16)
+[2019.09.02-13.57.44:387][681]LogTexture: Display: 텍스처 빌드: Texture2D_155 (BGRA8, 16X16)
+[2019.09.02-13.57.44:400][681]LogTexture: Display: 텍스처 빌드: Texture2D_155 (BGRA8, 16X16)
+[2019.09.02-13.57.44:416][681]LogTexture: Display: 텍스처 빌드: Texture2D_156 (BGRA8, 16X16)
+[2019.09.02-13.57.44:428][681]LogTexture: Display: 텍스처 빌드: Texture2D_156 (BGRA8, 16X16)
+[2019.09.02-13.57.44:467][681]LogTexture: Display: 텍스처 빌드: Texture2D_157 (BGRA8, 16X16)
+[2019.09.02-13.57.44:479][681]LogTexture: Display: 텍스처 빌드: Texture2D_157 (BGRA8, 16X16)
+[2019.09.02-13.57.44:496][681]LogTexture: Display: 텍스처 빌드: Texture2D_158 (BGRA8, 16X16)
+[2019.09.02-13.57.44:507][681]LogTexture: Display: 텍스처 빌드: Texture2D_158 (BGRA8, 16X16)
+[2019.09.02-13.57.44:523][681]LogTexture: Display: 텍스처 빌드: Texture2D_159 (BGRA8, 16X16)
+[2019.09.02-13.57.44:548][681]LogTexture: Display: 텍스처 빌드: Texture2D_159 (BGRA8, 16X16)
+[2019.09.02-13.57.44:563][681]LogTexture: Display: 텍스처 빌드: Texture2D_160 (BGRA8, 16X16)
+[2019.09.02-13.57.44:575][681]LogTexture: Display: 텍스처 빌드: Texture2D_160 (BGRA8, 16X16)
+[2019.09.02-13.57.44:603][681]LogTexture: Display: 텍스처 빌드: Texture2D_161 (BGRA8, 16X16)
+[2019.09.02-13.57.44:616][681]LogTexture: Display: 텍스처 빌드: Texture2D_161 (BGRA8, 16X16)
+[2019.09.02-13.57.44:632][681]LogTexture: Display: 텍스처 빌드: Texture2D_162 (BGRA8, 16X16)
+[2019.09.02-13.57.44:651][681]LogTexture: Display: 텍스처 빌드: Texture2D_162 (BGRA8, 16X16)
+[2019.09.02-13.57.44:667][681]LogTexture: Display: 텍스처 빌드: Texture2D_163 (BGRA8, 16X16)
+[2019.09.02-13.57.44:683][681]LogTexture: Display: 텍스처 빌드: Texture2D_163 (BGRA8, 16X16)
+[2019.09.02-13.57.44:698][681]LogTexture: Display: 텍스처 빌드: Texture2D_164 (BGRA8, 16X16)
+[2019.09.02-13.57.44:710][681]LogTexture: Display: 텍스처 빌드: Texture2D_164 (BGRA8, 16X16)
+[2019.09.02-13.57.44:726][681]LogTexture: Display: 텍스처 빌드: Texture2D_165 (BGRA8, 16X16)
+[2019.09.02-13.57.44:739][681]LogTexture: Display: 텍스처 빌드: Texture2D_165 (BGRA8, 16X16)
+[2019.09.02-13.57.44:754][681]LogTexture: Display: 텍스처 빌드: Texture2D_166 (BGRA8, 16X16)
+[2019.09.02-13.57.44:767][681]LogTexture: Display: 텍스처 빌드: Texture2D_166 (BGRA8, 16X16)
+[2019.09.02-13.57.44:782][681]LogTexture: Display: 텍스처 빌드: Texture2D_167 (BGRA8, 16X16)
+[2019.09.02-13.57.44:794][681]LogTexture: Display: 텍스처 빌드: Texture2D_167 (BGRA8, 16X16)
+[2019.09.02-13.57.44:817][681]LogTexture: Display: 텍스처 빌드: Texture2D_168 (BGRA8, 16X16)
+[2019.09.02-13.57.44:831][681]LogTexture: Display: 텍스처 빌드: Texture2D_168 (BGRA8, 16X16)
+[2019.09.02-13.57.44:848][681]LogTexture: Display: 텍스처 빌드: Texture2D_169 (BGRA8, 16X16)
+[2019.09.02-13.57.44:859][681]LogTexture: Display: 텍스처 빌드: Texture2D_169 (BGRA8, 16X16)
+[2019.09.02-13.57.44:877][681]LogTexture: Display: 텍스처 빌드: Texture2D_170 (BGRA8, 16X16)
+[2019.09.02-13.57.44:889][681]LogTexture: Display: 텍스처 빌드: Texture2D_170 (BGRA8, 16X16)
+[2019.09.02-13.57.44:907][681]LogTexture: Display: 텍스처 빌드: Texture2D_171 (BGRA8, 16X16)
+[2019.09.02-13.57.44:920][681]LogTexture: Display: 텍스처 빌드: Texture2D_171 (BGRA8, 16X16)
+[2019.09.02-13.57.44:941][681]LogTexture: Display: 텍스처 빌드: Texture2D_172 (BGRA8, 16X16)
+[2019.09.02-13.57.44:958][681]LogTexture: Display: 텍스처 빌드: Texture2D_172 (BGRA8, 16X16)
+[2019.09.02-13.57.44:975][681]LogTexture: Display: 텍스처 빌드: Texture2D_173 (BGRA8, 16X16)
+[2019.09.02-13.57.44:986][681]LogTexture: Display: 텍스처 빌드: Texture2D_173 (BGRA8, 16X16)
+[2019.09.02-13.57.45:011][681]LogTexture: Display: 텍스처 빌드: Texture2D_174 (BGRA8, 16X16)
+[2019.09.02-13.57.45:022][681]LogTexture: Display: 텍스처 빌드: Texture2D_174 (BGRA8, 16X16)
+[2019.09.02-13.57.45:044][681]LogTexture: Display: 텍스처 빌드: Texture2D_175 (BGRA8, 16X16)
+[2019.09.02-13.57.45:060][681]LogTexture: Display: 텍스처 빌드: Texture2D_175 (BGRA8, 16X16)
+[2019.09.02-13.57.45:077][681]LogTexture: Display: 텍스처 빌드: Texture2D_176 (BGRA8, 16X16)
+[2019.09.02-13.57.45:088][681]LogTexture: Display: 텍스처 빌드: Texture2D_176 (BGRA8, 16X16)
+[2019.09.02-13.57.45:111][681]LogTexture: Display: 텍스처 빌드: Texture2D_177 (BGRA8, 16X16)
+[2019.09.02-13.57.45:122][681]LogTexture: Display: 텍스처 빌드: Texture2D_177 (BGRA8, 16X16)
+[2019.09.02-13.57.45:139][681]LogTexture: Display: 텍스처 빌드: Texture2D_178 (BGRA8, 16X16)
+[2019.09.02-13.57.45:155][681]LogTexture: Display: 텍스처 빌드: Texture2D_178 (BGRA8, 16X16)
+[2019.09.02-13.57.45:170][681]LogTexture: Display: 텍스처 빌드: Texture2D_179 (BGRA8, 16X16)
+[2019.09.02-13.57.45:183][681]LogTexture: Display: 텍스처 빌드: Texture2D_179 (BGRA8, 16X16)
+[2019.09.02-13.57.45:201][681]LogTexture: Display: 텍스처 빌드: Texture2D_180 (BGRA8, 16X16)
+[2019.09.02-13.57.45:211][681]LogTexture: Display: 텍스처 빌드: Texture2D_180 (BGRA8, 16X16)
+[2019.09.02-13.57.45:227][681]LogTexture: Display: 텍스처 빌드: Texture2D_181 (BGRA8, 16X16)
+[2019.09.02-13.57.45:237][681]LogTexture: Display: 텍스처 빌드: Texture2D_181 (BGRA8, 16X16)
+[2019.09.02-13.57.45:252][681]LogTexture: Display: 텍스처 빌드: Texture2D_182 (BGRA8, 16X16)
+[2019.09.02-13.57.45:266][681]LogTexture: Display: 텍스처 빌드: Texture2D_182 (BGRA8, 16X16)
+[2019.09.02-13.57.45:283][681]LogTexture: Display: 텍스처 빌드: Texture2D_183 (BGRA8, 16X16)
+[2019.09.02-13.57.45:293][681]LogTexture: Display: 텍스처 빌드: Texture2D_183 (BGRA8, 16X16)
+[2019.09.02-13.57.45:311][681]LogTexture: Display: 텍스처 빌드: Texture2D_184 (BGRA8, 16X16)
+[2019.09.02-13.57.45:321][681]LogTexture: Display: 텍스처 빌드: Texture2D_184 (BGRA8, 16X16)
+[2019.09.02-13.57.45:337][681]LogTexture: Display: 텍스처 빌드: Texture2D_185 (BGRA8, 16X16)
+[2019.09.02-13.57.45:349][681]LogTexture: Display: 텍스처 빌드: Texture2D_185 (BGRA8, 16X16)
+[2019.09.02-13.57.45:363][681]LogTexture: Display: 텍스처 빌드: Texture2D_186 (BGRA8, 16X16)
+[2019.09.02-13.57.45:375][681]LogTexture: Display: 텍스처 빌드: Texture2D_186 (BGRA8, 16X16)
+[2019.09.02-13.57.45:390][681]LogTexture: Display: 텍스처 빌드: Texture2D_187 (BGRA8, 16X16)
+[2019.09.02-13.57.45:401][681]LogTexture: Display: 텍스처 빌드: Texture2D_187 (BGRA8, 16X16)
+[2019.09.02-13.57.45:416][681]LogTexture: Display: 텍스처 빌드: Texture2D_188 (BGRA8, 16X16)
+[2019.09.02-13.57.45:431][681]LogTexture: Display: 텍스처 빌드: Texture2D_188 (BGRA8, 16X16)
+[2019.09.02-13.57.45:450][681]LogTexture: Display: 텍스처 빌드: Texture2D_189 (BGRA8, 16X16)
+[2019.09.02-13.57.45:465][681]LogTexture: Display: 텍스처 빌드: Texture2D_189 (BGRA8, 16X16)
+[2019.09.02-13.57.45:494][681]LogTexture: Display: 텍스처 빌드: Texture2D_190 (BGRA8, 16X16)
+[2019.09.02-13.57.45:505][681]LogTexture: Display: 텍스처 빌드: Texture2D_190 (BGRA8, 16X16)
+[2019.09.02-13.57.45:519][681]LogTexture: Display: 텍스처 빌드: Texture2D_191 (BGRA8, 16X16)
+[2019.09.02-13.57.45:529][681]LogTexture: Display: 텍스처 빌드: Texture2D_191 (BGRA8, 16X16)
+[2019.09.02-13.57.45:544][681]LogTexture: Display: 텍스처 빌드: Texture2D_192 (BGRA8, 16X16)
+[2019.09.02-13.57.45:552][681]LogTexture: Display: 텍스처 빌드: Texture2D_192 (BGRA8, 16X16)
+[2019.09.02-13.57.45:572][681]LogTexture: Display: 텍스처 빌드: Texture2D_193 (BGRA8, 16X16)
+[2019.09.02-13.57.45:582][681]LogTexture: Display: 텍스처 빌드: Texture2D_193 (BGRA8, 16X16)
+[2019.09.02-13.57.45:598][681]LogTexture: Display: 텍스처 빌드: Texture2D_194 (BGRA8, 16X16)
+[2019.09.02-13.57.45:610][681]LogTexture: Display: 텍스처 빌드: Texture2D_194 (BGRA8, 16X16)
+[2019.09.02-13.57.45:625][681]LogTexture: Display: 텍스처 빌드: Texture2D_195 (BGRA8, 16X16)
+[2019.09.02-13.57.45:636][681]LogTexture: Display: 텍스처 빌드: Texture2D_195 (BGRA8, 16X16)
+[2019.09.02-13.57.45:651][681]LogTexture: Display: 텍스처 빌드: Texture2D_196 (BGRA8, 16X16)
+[2019.09.02-13.57.45:661][681]LogTexture: Display: 텍스처 빌드: Texture2D_196 (BGRA8, 16X16)
+[2019.09.02-13.57.48:317][825]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.02-13.58.32:243][294]LogUObjectHash: Compacting FUObjectHashTables data took   2.46ms
+[2019.09.02-13.58.32:498][294]LogTexture: Display: 텍스처 빌드: Texture2D_133 (BGRA8, 16X16)
+[2019.09.02-13.58.32:498][294]LogTexture: Display: 텍스처 빌드: Texture2D_131 (BGRA8, 16X16)
+[2019.09.02-13.58.32:499][294]LogTexture: Display: 텍스처 빌드: Texture2D_129 (BGRA8, 16X16)
+[2019.09.02-13.58.32:499][294]LogTexture: Display: 텍스처 빌드: Texture2D_112 (BGRA8, 16X16)
+[2019.09.02-13.58.32:500][294]LogTexture: Display: 텍스처 빌드: Texture2D_111 (BGRA8, 16X16)
+[2019.09.02-13.58.32:500][294]LogTexture: Display: 텍스처 빌드: Texture2D_110 (BGRA8, 16X16)
+[2019.09.02-13.58.32:501][294]LogTexture: Display: 텍스처 빌드: Texture2D_109 (BGRA8, 16X16)
+[2019.09.02-13.58.32:502][294]LogTexture: Display: 텍스처 빌드: Texture2D_108 (BGRA8, 16X16)
+[2019.09.02-13.58.32:502][294]LogTexture: Display: 텍스처 빌드: Texture2D_104 (BGRA8, 16X16)
+[2019.09.02-13.58.32:502][294]LogTexture: Display: 텍스처 빌드: Texture2D_105 (BGRA8, 16X16)
+[2019.09.02-13.58.32:503][294]LogTexture: Display: 텍스처 빌드: Texture2D_136 (BGRA8, 16X16)
+[2019.09.02-13.58.32:504][294]LogTexture: Display: 텍스처 빌드: Texture2D_134 (BGRA8, 16X16)
+[2019.09.02-13.58.32:504][294]LogTexture: Display: 텍스처 빌드: Texture2D_132 (BGRA8, 16X16)
+[2019.09.02-13.58.32:505][294]LogTexture: Display: 텍스처 빌드: Texture2D_130 (BGRA8, 16X16)
+[2019.09.02-13.58.32:505][294]LogTexture: Display: 텍스처 빌드: Texture2D_128 (BGRA8, 16X16)
+[2019.09.02-13.58.32:506][294]LogTexture: Display: 텍스처 빌드: Texture2D_126 (BGRA8, 16X16)
+[2019.09.02-13.58.32:507][294]LogTexture: Display: 텍스처 빌드: Texture2D_124 (BGRA8, 16X16)
+[2019.09.02-13.58.32:507][294]LogTexture: Display: 텍스처 빌드: Texture2D_120 (BGRA8, 16X16)
+[2019.09.02-13.58.32:508][294]LogTexture: Display: 텍스처 빌드: Texture2D_116 (BGRA8, 16X16)
+[2019.09.02-13.58.32:509][294]LogTexture: Display: 텍스처 빌드: Texture2D_118 (BGRA8, 16X16)
+[2019.09.02-13.58.32:509][294]LogTexture: Display: 텍스처 빌드: Texture2D_122 (BGRA8, 16X16)
+[2019.09.02-13.58.32:510][294]LogTexture: Display: 텍스처 빌드: Texture2D_147 (BGRA8, 16X16)
+[2019.09.02-13.58.32:511][294]LogTexture: Display: 텍스처 빌드: Texture2D_146 (BGRA8, 16X16)
+[2019.09.02-13.58.32:511][294]LogTexture: Display: 텍스처 빌드: Texture2D_145 (BGRA8, 16X16)
+[2019.09.02-13.58.32:512][294]LogTexture: Display: 텍스처 빌드: Texture2D_144 (BGRA8, 16X16)
+[2019.09.02-13.58.32:512][294]LogTexture: Display: 텍스처 빌드: Texture2D_143 (BGRA8, 16X16)
+[2019.09.02-13.58.32:513][294]LogTexture: Display: 텍스처 빌드: Texture2D_142 (BGRA8, 16X16)
+[2019.09.02-13.58.32:513][294]LogTexture: Display: 텍스처 빌드: Texture2D_140 (BGRA8, 16X16)
+[2019.09.02-13.58.32:514][294]LogTexture: Display: 텍스처 빌드: Texture2D_138 (BGRA8, 16X16)
+[2019.09.02-13.58.32:515][294]LogTexture: Display: 텍스처 빌드: Texture2D_137 (BGRA8, 16X16)
+[2019.09.02-13.58.32:515][294]LogTexture: Display: 텍스처 빌드: Texture2D_139 (BGRA8, 16X16)
+[2019.09.02-13.58.32:516][294]LogTexture: Display: 텍스처 빌드: Texture2D_141 (BGRA8, 16X16)
+[2019.09.02-13.58.32:517][294]LogTexture: Display: 텍스처 빌드: Texture2D_159 (BGRA8, 16X16)
+[2019.09.02-13.58.32:517][294]LogTexture: Display: 텍스처 빌드: Texture2D_158 (BGRA8, 16X16)
+[2019.09.02-13.58.32:518][294]LogTexture: Display: 텍스처 빌드: Texture2D_157 (BGRA8, 16X16)
+[2019.09.02-13.58.32:519][294]LogTexture: Display: 텍스처 빌드: Texture2D_156 (BGRA8, 16X16)
+[2019.09.02-13.58.32:519][294]LogTexture: Display: 텍스처 빌드: Texture2D_155 (BGRA8, 16X16)
+[2019.09.02-13.58.32:520][294]LogTexture: Display: 텍스처 빌드: Texture2D_154 (BGRA8, 16X16)
+[2019.09.02-13.58.32:520][294]LogTexture: Display: 텍스처 빌드: Texture2D_152 (BGRA8, 16X16)
+[2019.09.02-13.58.32:521][294]LogTexture: Display: 텍스처 빌드: Texture2D_150 (BGRA8, 16X16)
+[2019.09.02-13.58.32:522][294]LogTexture: Display: 텍스처 빌드: Texture2D_149 (BGRA8, 16X16)
+[2019.09.02-13.58.32:522][294]LogTexture: Display: 텍스처 빌드: Texture2D_151 (BGRA8, 16X16)
+[2019.09.02-13.58.32:523][294]LogTexture: Display: 텍스처 빌드: Texture2D_153 (BGRA8, 16X16)
+[2019.09.02-13.58.32:523][294]LogTexture: Display: 텍스처 빌드: Texture2D_171 (BGRA8, 16X16)
+[2019.09.02-13.58.32:524][294]LogTexture: Display: 텍스처 빌드: Texture2D_170 (BGRA8, 16X16)
+[2019.09.02-13.58.32:524][294]LogTexture: Display: 텍스처 빌드: Texture2D_169 (BGRA8, 16X16)
+[2019.09.02-13.58.32:525][294]LogTexture: Display: 텍스처 빌드: Texture2D_168 (BGRA8, 16X16)
+[2019.09.02-13.58.32:526][294]LogTexture: Display: 텍스처 빌드: Texture2D_167 (BGRA8, 16X16)
+[2019.09.02-13.58.32:526][294]LogTexture: Display: 텍스처 빌드: Texture2D_166 (BGRA8, 16X16)
+[2019.09.02-13.58.32:527][294]LogTexture: Display: 텍스처 빌드: Texture2D_164 (BGRA8, 16X16)
+[2019.09.02-13.58.32:528][294]LogTexture: Display: 텍스처 빌드: Texture2D_162 (BGRA8, 16X16)
+[2019.09.02-13.58.32:529][294]LogTexture: Display: 텍스처 빌드: Texture2D_161 (BGRA8, 16X16)
+[2019.09.02-13.58.32:529][294]LogTexture: Display: 텍스처 빌드: Texture2D_163 (BGRA8, 16X16)
+[2019.09.02-13.58.32:530][294]LogTexture: Display: 텍스처 빌드: Texture2D_165 (BGRA8, 16X16)
+[2019.09.02-13.58.32:530][294]LogTexture: Display: 텍스처 빌드: Texture2D_181 (BGRA8, 16X16)
+[2019.09.02-13.58.32:531][294]LogTexture: Display: 텍스처 빌드: Texture2D_180 (BGRA8, 16X16)
+[2019.09.02-13.58.32:531][294]LogTexture: Display: 텍스처 빌드: Texture2D_179 (BGRA8, 16X16)
+[2019.09.02-13.58.32:532][294]LogTexture: Display: 텍스처 빌드: Texture2D_178 (BGRA8, 16X16)
+[2019.09.02-13.58.32:533][294]LogTexture: Display: 텍스처 빌드: Texture2D_176 (BGRA8, 16X16)
+[2019.09.02-13.58.32:533][294]LogTexture: Display: 텍스처 빌드: Texture2D_174 (BGRA8, 16X16)
+[2019.09.02-13.58.32:534][294]LogTexture: Display: 텍스처 빌드: Texture2D_173 (BGRA8, 16X16)
+[2019.09.02-13.58.32:535][294]LogTexture: Display: 텍스처 빌드: Texture2D_175 (BGRA8, 16X16)
+[2019.09.02-13.58.32:535][294]LogTexture: Display: 텍스처 빌드: Texture2D_192 (BGRA8, 16X16)
+[2019.09.02-13.58.32:536][294]LogTexture: Display: 텍스처 빌드: Texture2D_191 (BGRA8, 16X16)
+[2019.09.02-13.58.32:537][294]LogTexture: Display: 텍스처 빌드: Texture2D_186 (BGRA8, 16X16)
+[2019.09.02-13.58.32:537][294]LogTexture: Display: 텍스처 빌드: Texture2D_185 (BGRA8, 16X16)
+[2019.09.02-13.58.33:347][294]LogSavePackage: Moving 'D:/ant/ANT/project/ANT/Saved/ThirdPersonExampleMap_Auto1AAF09D3A4E6D30667C63EA8523E70C57.tmp' to 'D:/ant/ANT/project/ANT/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto1.umap'
+[2019.09.02-13.58.33:362][294]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 1.169
+[2019.09.02-13.58.33:362][294]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 1.169
+[2019.09.02-14.01.40:354][721]LogEditorViewport: Clicking Background
+[2019.09.02-14.01.40:809][746]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.09.02-14.01.45:481][ 13]LogContentBrowser: Native class hierarchy updated for 'WorldBrowser' in 0.0004 seconds. Added 2 classes and 3 folders.
+[2019.09.02-14.01.50:104][274]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.09.02-14.01.56:439][634]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.02-14.02.03:654][  8]Cmd: DELETE
+[2019.09.02-14.02.03:654][  8]Cmd: ACTOR DELETE
+[2019.09.02-14.02.03:665][  8]LogEditorActor: Deleted Actor: Landscape
+[2019.09.02-14.02.03:724][  8]LogUObjectHash: Compacting FUObjectHashTables data took   2.41ms
+[2019.09.02-14.02.03:724][  8]LogEditorActor: Deleted 1 Actors (0.071 secs)
+[2019.09.02-14.02.07:690][224]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2019.09.02-14.02.08:013][224]LogSavePackage: Moving 'D:/ant/ANT/project/ANT/Saved/ThirdPersonExampleMap1ACC5538400EA1A31486DC956EE812D7.tmp' to 'D:/ant/ANT/project/ANT/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2019.09.02-14.02.08:056][224]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData" FILE="D:/ant/ANT/project/ANT/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset" SILENT=true
+[2019.09.02-14.02.08:581][224]LogSavePackage: Moving 'D:/ant/ANT/project/ANT/Saved/ThirdPersonExampleMap_BuiltDataCA083410427915195387B990818E0FE9.tmp' to 'D:/ant/ANT/project/ANT/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2019.09.02-14.02.15:294][600]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.02-14.02.15:603][610]LogUObjectHash: Compacting FUObjectHashTables data took   3.19ms
+[2019.09.02-14.02.15:739][610]LogSlate: Window 'ANT - 언리얼 에디터' being destroyed
+[2019.09.02-14.02.16:205][611]Cmd: QUIT_EDITOR
+[2019.09.02-14.02.16:239][611]LogWindowsTextInputMethodSystem: Display: IME system now activated using TSF (Microsoft 입력기).
+[2019.09.02-14.02.16:253][611]LogExit: Preparing to exit.
+[2019.09.02-14.02.16:765][611]LogExit: Editor shut down
+[2019.09.02-14.02.16:766][611]LogExit: Transaction tracking system shut down
+[2019.09.02-14.02.17:037][611]LogExit: Object subsystem successfully closed.
+[2019.09.02-14.02.17:047][611]LogShaderCompilers: Display: Shaders left to compile 0
+[2019.09.02-14.02.17:052][611]LogD3D11RHI: Shutdown
+[2019.09.02-14.02.17:052][611]LogD3D11RHI: CleanupD3DDevice
+[2019.09.02-14.02.17:053][611]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2019.09.02-14.02.17:053][611]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2019.09.02-14.02.17:053][611]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2019.09.02-14.02.17:053][611]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2019.09.02-14.02.17:053][611]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2019.09.02-14.02.17:053][611]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2019.09.02-14.02.17:327][611]LogD3D11RHI: ~FD3D11DynamicRHI
+[2019.09.02-14.02.17:379][611]LogModuleManager: Shutting down and abandoning module WorldBrowser (644)
+[2019.09.02-14.02.17:380][611]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (642)
+[2019.09.02-14.02.17:380][611]LogModuleManager: Shutting down and abandoning module SceneOutliner (640)
+[2019.09.02-14.02.17:380][611]LogModuleManager: Shutting down and abandoning module AddContentDialog (638)
+[2019.09.02-14.02.17:380][611]LogModuleManager: Shutting down and abandoning module WidgetCarousel (637)
+[2019.09.02-14.02.17:381][611]LogModuleManager: Shutting down and abandoning module EditorWidgets (634)
+[2019.09.02-14.02.17:381][611]LogModuleManager: Shutting down and abandoning module CollectionManager (632)
+[2019.09.02-14.02.17:381][611]LogModuleManager: Shutting down and abandoning module StatsViewer (630)
+[2019.09.02-14.02.17:381][611]LogModuleManager: Shutting down and abandoning module FoliageEdit (628)
+[2019.09.02-14.02.17:381][611]LogModuleManager: Shutting down and abandoning module LandscapeEditor (626)
+[2019.09.02-14.02.17:381][611]LogModuleManager: Shutting down and abandoning module MeshPaintMode (624)
+[2019.09.02-14.02.17:381][611]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (622)
+[2019.09.02-14.02.17:381][611]LogModuleManager: Shutting down and abandoning module ActorPickerMode (620)
+[2019.09.02-14.02.17:381][611]LogModuleManager: Shutting down and abandoning module GeometryMode (618)
+[2019.09.02-14.02.17:381][611]LogModuleManager: Shutting down and abandoning module TextureAlignMode (616)
+[2019.09.02-14.02.17:381][611]LogModuleManager: Shutting down and abandoning module BspMode (614)
+[2019.09.02-14.02.17:381][611]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (612)
+[2019.09.02-14.02.17:381][611]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (610)
+[2019.09.02-14.02.17:381][611]LogModuleManager: Shutting down and abandoning module AutomationWorker (608)
+[2019.09.02-14.02.17:381][611]LogModuleManager: Shutting down and abandoning module OculusMR (606)
+[2019.09.02-14.02.17:381][611]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (604)
+[2019.09.02-14.02.17:381][611]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (602)
+[2019.09.02-14.02.17:381][611]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (600)
+[2019.09.02-14.02.17:381][611]LogModuleManager: Shutting down and abandoning module PlacementMode (599)
+[2019.09.02-14.02.17:381][611]LogModuleManager: Shutting down and abandoning module MaterialEditor (598)
+[2019.09.02-14.02.17:382][611]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (594)
+[2019.09.02-14.02.17:382][611]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (592)
+[2019.09.02-14.02.17:382][611]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (590)
+[2019.09.02-14.02.17:382][611]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (588)
+[2019.09.02-14.02.17:382][611]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (586)
+[2019.09.02-14.02.17:382][611]LogModuleManager: Shutting down and abandoning module WebMMedia (584)
+[2019.09.02-14.02.17:382][611]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (582)
+[2019.09.02-14.02.17:382][611]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (580)
+[2019.09.02-14.02.17:382][611]LogModuleManager: Shutting down and abandoning module SequenceRecorder (579)
+[2019.09.02-14.02.17:382][611]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (576)
+[2019.09.02-14.02.17:382][611]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (574)
+[2019.09.02-14.02.17:382][611]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (572)
+[2019.09.02-14.02.17:382][611]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (570)
+[2019.09.02-14.02.17:382][611]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (568)
+[2019.09.02-14.02.17:382][611]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (566)
+[2019.09.02-14.02.17:382][611]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (564)
+[2019.09.02-14.02.17:382][611]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (562)
+[2019.09.02-14.02.17:382][611]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (560)
+[2019.09.02-14.02.17:382][611]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (558)
+[2019.09.02-14.02.17:382][611]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (556)
+[2019.09.02-14.02.17:382][611]LogModuleManager: Shutting down and abandoning module CharacterAI (554)
+[2019.09.02-14.02.17:382][611]LogModuleManager: Shutting down and abandoning module SmartSnapping (552)
+[2019.09.02-14.02.17:382][611]LogModuleManager: Shutting down and abandoning module SessionServices (550)
+[2019.09.02-14.02.17:382][611]LogModuleManager: Shutting down and abandoning module MeshPaint (548)
+[2019.09.02-14.02.17:382][611]LogModuleManager: Shutting down and abandoning module ViewportSnapping (546)
+[2019.09.02-14.02.17:382][611]LogModuleManager: Shutting down and abandoning module ViewportInteraction (544)
+[2019.09.02-14.02.17:382][611]LogModuleManager: Shutting down and abandoning module ClothPainter (542)
+[2019.09.02-14.02.17:382][611]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (541)
+[2019.09.02-14.02.17:382][611]LogModuleManager: Shutting down and abandoning module LogVisualizer (538)
+[2019.09.02-14.02.17:382][611]LogModuleManager: Shutting down and abandoning module IntroTutorials (536)
+[2019.09.02-14.02.17:383][611]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (535)
+[2019.09.02-14.02.17:383][611]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (532)
+[2019.09.02-14.02.17:383][611]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (530)
+[2019.09.02-14.02.17:383][611]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (528)
+[2019.09.02-14.02.17:383][611]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (526)
+[2019.09.02-14.02.17:383][611]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (525)
+[2019.09.02-14.02.18:119][611]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (522)
+[2019.09.02-14.02.18:119][611]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (520)
+[2019.09.02-14.02.18:119][611]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (518)
+[2019.09.02-14.02.18:120][611]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (516)
+[2019.09.02-14.02.18:120][611]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (514)
+[2019.09.02-14.02.18:120][611]LogModuleManager: Shutting down and abandoning module InputBindingEditor (512)
+[2019.09.02-14.02.18:120][611]LogModuleManager: Shutting down and abandoning module MergeActors (510)
+[2019.09.02-14.02.18:120][611]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (508)
+[2019.09.02-14.02.18:120][611]LogModuleManager: Shutting down and abandoning module LocalizationService (507)
+[2019.09.02-14.02.18:120][611]LogModuleManager: Shutting down and abandoning module HardwareTargeting (504)
+[2019.09.02-14.02.18:120][611]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (502)
+[2019.09.02-14.02.18:120][611]LogModuleManager: Shutting down and abandoning module UndoHistory (500)
+[2019.09.02-14.02.18:120][611]LogModuleManager: Shutting down and abandoning module XmlParser (498)
+[2019.09.02-14.02.18:120][611]LogModuleManager: Shutting down and abandoning module Blutility (496)
+[2019.09.02-14.02.18:120][611]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (494)
+[2019.09.02-14.02.18:120][611]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (493)
+[2019.09.02-14.02.18:120][611]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (490)
+[2019.09.02-14.02.18:120][611]LogModuleManager: Shutting down and abandoning module SettingsEditor (488)
+[2019.09.02-14.02.18:121][611]LogModuleManager: Shutting down and abandoning module ProjectLauncher (486)
+[2019.09.02-14.02.18:121][611]LogModuleManager: Shutting down and abandoning module SessionFrontend (484)
+[2019.09.02-14.02.18:121][611]LogModuleManager: Shutting down and abandoning module ProfilerClient (482)
+[2019.09.02-14.02.18:121][611]LogModuleManager: Shutting down and abandoning module DeviceManager (480)
+[2019.09.02-14.02.18:121][611]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (479)
+[2019.09.02-14.02.18:165][611]LogModuleManager: Shutting down and abandoning module AutomationController (476)
+[2019.09.02-14.02.18:165][611]LogModuleManager: Shutting down and abandoning module AutomationWindow (474)
+[2019.09.02-14.02.18:165][611]LogModuleManager: Shutting down and abandoning module Layers (472)
+[2019.09.02-14.02.18:165][611]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (470)
+[2019.09.02-14.02.18:165][611]LogModuleManager: Shutting down and abandoning module DetailCustomizations (468)
+[2019.09.02-14.02.18:165][611]LogModuleManager: Shutting down and abandoning module PackagesDialog (466)
+[2019.09.02-14.02.18:165][611]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (464)
+[2019.09.02-14.02.18:165][611]LogModuleManager: Shutting down and abandoning module Persona (462)
+[2019.09.02-14.02.18:165][611]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (461)
+[2019.09.02-14.02.18:165][611]LogModuleManager: Shutting down and abandoning module AnimGraph (459)
+[2019.09.02-14.02.18:165][611]LogModuleManager: Shutting down and abandoning module Kismet (456)
+[2019.09.02-14.02.18:166][611]LogModuleManager: Shutting down and abandoning module GraphEditor (454)
+[2019.09.02-14.02.18:166][611]LogModuleManager: Shutting down and abandoning module ClassViewer (452)
+[2019.09.02-14.02.18:166][611]LogModuleManager: Shutting down and abandoning module Toolbox (450)
+[2019.09.02-14.02.18:166][611]LogModuleManager: Shutting down and abandoning module ModuleUI (448)
+[2019.09.02-14.02.18:166][611]LogModuleManager: Shutting down and abandoning module MovieSceneTools (446)
+[2019.09.02-14.02.18:167][611]LogModuleManager: Shutting down and abandoning module OutputLog (444)
+[2019.09.02-14.02.18:167][611]LogModuleManager: Shutting down and abandoning module GammaUI (442)
+[2019.09.02-14.02.18:167][611]LogModuleManager: Shutting down and abandoning module Documentation (440)
+[2019.09.02-14.02.18:167][611]LogModuleManager: Shutting down and abandoning module LiveCoding (438)
+[2019.09.02-14.02.18:167][611]LogModuleManager: Shutting down and abandoning module LevelSequence (436)
+[2019.09.02-14.02.18:167][611]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (434)
+[2019.09.02-14.02.18:167][611]LogModuleManager: Shutting down and abandoning module MovieScene (432)
+[2019.09.02-14.02.18:167][611]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (430)
+[2019.09.02-14.02.18:167][611]LogModuleManager: Shutting down and abandoning module LauncherPlatform (428)
+[2019.09.02-14.02.18:167][611]LogModuleManager: Shutting down and abandoning module AnalyticsET (426)
+[2019.09.02-14.02.18:167][611]LogModuleManager: Shutting down and abandoning module PortalServices (424)
+[2019.09.02-14.02.18:167][611]LogModuleManager: Shutting down and abandoning module PortalRpc (422)
+[2019.09.02-14.02.18:167][611]LogModuleManager: Shutting down and abandoning module MessagingRpc (420)
+[2019.09.02-14.02.18:167][611]LogModuleManager: Shutting down and abandoning module AIModule (418)
+[2019.09.02-14.02.18:167][611]LogModuleManager: Shutting down and abandoning module GameplayDebugger (417)
+[2019.09.02-14.02.18:167][611]LogModuleManager: Shutting down and abandoning module AITestSuite (415)
+[2019.09.02-14.02.18:167][611]LogModuleManager: Shutting down and abandoning module NavigationSystem (413)
+[2019.09.02-14.02.18:167][611]LogModuleManager: Shutting down and abandoning module DesktopPlatform (410)
+[2019.09.02-14.02.18:167][611]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (408)
+[2019.09.02-14.02.18:172][611]LogModuleManager: Shutting down and abandoning module ProfilerService (406)
+[2019.09.02-14.02.18:655][611]LogModuleManager: Shutting down and abandoning module TaskGraph (404)
+[2019.09.02-14.02.18:655][611]LogModuleManager: Shutting down and abandoning module SteamVRController (402)
+[2019.09.02-14.02.18:655][611]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (400)
+[2019.09.02-14.02.18:655][611]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (398)
+[2019.09.02-14.02.18:655][611]LogModuleManager: Shutting down and abandoning module OculusEditor (396)
+[2019.09.02-14.02.18:656][611]LogModuleManager: Shutting down and abandoning module OculusInput (394)
+[2019.09.02-14.02.18:656][611]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (392)
+[2019.09.02-14.02.18:656][611]LogModuleManager: Shutting down and abandoning module EditableMesh (390)
+[2019.09.02-14.02.18:656][611]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (388)
+[2019.09.02-14.02.18:656][611]LogModuleManager: Shutting down and abandoning module CableComponent (386)
+[2019.09.02-14.02.18:656][611]LogModuleManager: Shutting down and abandoning module AudioCapture (384)
+[2019.09.02-14.02.18:656][611]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (382)
+[2019.09.02-14.02.18:656][611]LogModuleManager: Shutting down and abandoning module AndroidPermission (380)
+[2019.09.02-14.02.18:656][611]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (378)
+[2019.09.02-14.02.18:656][611]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (376)
+[2019.09.02-14.02.18:659][611]LogModuleManager: Shutting down and abandoning module MediaCompositing (374)
+[2019.09.02-14.02.18:659][611]LogModuleManager: Shutting down and abandoning module LinearTimecode (372)
+[2019.09.02-14.02.18:659][611]LogModuleManager: Shutting down and abandoning module ImgMedia (370)
+[2019.09.02-14.02.18:659][611]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (368)
+[2019.09.02-14.02.18:659][611]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (366)
+[2019.09.02-14.02.18:659][611]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (364)
+[2019.09.02-14.02.18:659][611]LogModuleManager: Shutting down and abandoning module HTML5Networking (362)
+[2019.09.02-14.02.18:661][611]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (360)
+[2019.09.02-14.02.18:662][611]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (358)
+[2019.09.02-14.02.18:662][611]LogModuleManager: Shutting down and abandoning module BackChannel (356)
+[2019.09.02-14.02.18:662][611]LogModuleManager: Shutting down and abandoning module AppleVision (354)
+[2019.09.02-14.02.18:662][611]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (352)
+[2019.09.02-14.02.18:662][611]LogModuleManager: Shutting down and abandoning module AppleImageUtils (350)
+[2019.09.02-14.02.18:662][611]LogModuleManager: Shutting down and abandoning module AlembicImporter (348)
+[2019.09.02-14.02.18:662][611]LogModuleManager: Shutting down and abandoning module AlembicLibrary (347)
+[2019.09.02-14.02.18:662][611]LogModuleManager: Shutting down and abandoning module GeometryCache (346)
+[2019.09.02-14.02.18:662][611]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (345)
+[2019.09.02-14.02.18:662][611]LogModuleManager: Shutting down and abandoning module VariantManagerContent (340)
+[2019.09.02-14.02.18:662][611]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (338)
+[2019.09.02-14.02.18:662][611]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (336)
+[2019.09.02-14.02.18:662][611]LogModuleManager: Shutting down and abandoning module PluginBrowser (334)
+[2019.09.02-14.02.18:663][611]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (332)
+[2019.09.02-14.02.18:663][611]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (330)
+[2019.09.02-14.02.18:663][611]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (328)
+[2019.09.02-14.02.18:663][611]LogModuleManager: Shutting down and abandoning module CryptoKeys (326)
+[2019.09.02-14.02.18:663][611]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (324)
+[2019.09.02-14.02.18:663][611]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (322)
+[2019.09.02-14.02.18:663][611]LogModuleManager: Shutting down and abandoning module UObjectPlugin (320)
+[2019.09.02-14.02.18:663][611]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (318)
+[2019.09.02-14.02.18:663][611]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (316)
+[2019.09.02-14.02.18:663][611]LogModuleManager: Shutting down and abandoning module GitSourceControl (314)
+[2019.09.02-14.02.18:663][611]LogModuleManager: Shutting down and abandoning module SourceControl (313)
+[2019.09.02-14.02.18:663][611]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (310)
+[2019.09.02-14.02.18:663][611]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (308)
+[2019.09.02-14.02.18:663][611]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (306)
+[2019.09.02-14.02.18:664][611]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (304)
+[2019.09.02-14.02.18:664][611]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (302)
+[2019.09.02-14.02.18:664][611]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (300)
+[2019.09.02-14.02.18:664][611]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (298)
+[2019.09.02-14.02.18:664][611]LogModuleManager: Shutting down and abandoning module Paper2DEditor (296)
+[2019.09.02-14.02.18:664][611]LogModuleManager: Shutting down and abandoning module SignificanceManager (294)
+[2019.09.02-14.02.18:664][611]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (292)
+[2019.09.02-14.02.18:664][611]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (290)
+[2019.09.02-14.02.18:664][611]LogModuleManager: Shutting down and abandoning module PhysXVehicles (288)
+[2019.09.02-14.02.18:664][611]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (286)
+[2019.09.02-14.02.18:664][611]LogModuleManager: Shutting down and abandoning module ActorSequence (284)
+[2019.09.02-14.02.18:664][611]LogModuleManager: Shutting down and abandoning module UdpMessaging (282)
+[2019.09.02-14.02.18:959][611]LogModuleManager: Shutting down and abandoning module TcpMessaging (280)
+[2019.09.02-14.02.19:061][611]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (278)
+[2019.09.02-14.02.19:061][611]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (276)
+[2019.09.02-14.02.19:061][611]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (274)
+[2019.09.02-14.02.19:061][611]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (272)
+[2019.09.02-14.02.19:061][611]LogModuleManager: Shutting down and abandoning module MagicLeapController (270)
+[2019.09.02-14.02.19:061][611]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2019.09.02-14.02.19:061][611]LogModuleManager: Shutting down and abandoning module MagicLeapAR (268)
+[2019.09.02-14.02.19:062][611]LogModuleManager: Shutting down and abandoning module AugmentedReality (267)
+[2019.09.02-14.02.19:062][611]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (264)
+[2019.09.02-14.02.19:062][611]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (262)
+[2019.09.02-14.02.19:062][611]LogModuleManager: Shutting down and abandoning module FacialAnimation (260)
+[2019.09.02-14.02.19:062][611]LogModuleManager: Shutting down and abandoning module DataValidation (258)
+[2019.09.02-14.02.19:062][611]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (256)
+[2019.09.02-14.02.19:062][611]LogModuleManager: Shutting down and abandoning module LevelEditor (255)
+[2019.09.02-14.02.19:063][611]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (254)
+[2019.09.02-14.02.19:063][611]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (252)
+[2019.09.02-14.02.19:063][611]LogModuleManager: Shutting down and abandoning module MainFrame (250)
+[2019.09.02-14.02.19:063][611]LogModuleManager: Shutting down and abandoning module HotReload (249)
+[2019.09.02-14.02.19:064][611]LogModuleManager: Shutting down and abandoning module ContentBrowser (245)
+[2019.09.02-14.02.19:067][611]LogModuleManager: Shutting down and abandoning module TreeMap (243)
+[2019.09.02-14.02.19:067][611]LogModuleManager: Shutting down and abandoning module AnimationSharing (240)
+[2019.09.02-14.02.19:067][611]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (238)
+[2019.09.02-14.02.19:067][611]LogModuleManager: Shutting down and abandoning module AISupportModule (236)
+[2019.09.02-14.02.19:067][611]LogModuleManager: Shutting down and abandoning module Paper2D (234)
+[2019.09.02-14.02.19:067][611]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (232)
+[2019.09.02-14.02.19:067][611]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (230)
+[2019.09.02-14.02.19:067][611]LogModuleManager: Shutting down and abandoning module PacketHandler (228)
+[2019.09.02-14.02.19:067][611]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (226)
+[2019.09.02-14.02.19:067][611]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (224)
+[2019.09.02-14.02.19:067][611]LogModuleManager: Shutting down and abandoning module MediaAssets (222)
+[2019.09.02-14.02.19:067][611]LogModuleManager: Shutting down and abandoning module Overlay (220)
+[2019.09.02-14.02.19:067][611]LogModuleManager: Shutting down and abandoning module OverlayEditor (219)
+[2019.09.02-14.02.19:067][611]LogModuleManager: Shutting down and abandoning module VREditor (216)
+[2019.09.02-14.02.19:067][611]LogModuleManager: Shutting down and abandoning module StringTableEditor (214)
+[2019.09.02-14.02.19:068][611]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (212)
+[2019.09.02-14.02.19:068][611]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (210)
+[2019.09.02-14.02.19:068][611]LogModuleManager: Shutting down and abandoning module FunctionalTesting (208)
+[2019.09.02-14.02.19:068][611]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (206)
+[2019.09.02-14.02.19:068][611]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (205)
+[2019.09.02-14.02.19:068][611]LogModuleManager: Shutting down and abandoning module UMG (202)
+[2019.09.02-14.02.19:069][611]LogModuleManager: Shutting down and abandoning module UMGEditor (201)
+[2019.09.02-14.02.19:069][611]LogModuleManager: Shutting down and abandoning module Sequencer (200)
+[2019.09.02-14.02.19:069][611]LogModuleManager: Shutting down and abandoning module MessageLog (197)
+[2019.09.02-14.02.19:069][611]LogModuleManager: Shutting down and abandoning module SlateReflector (192)
+[2019.09.02-14.02.19:069][611]LogModuleManager: Shutting down and abandoning module Slate (190)
+[2019.09.02-14.02.19:069][611]LogModuleManager: Shutting down and abandoning module EditorStyle (188)
+[2019.09.02-14.02.19:313][611]LogModuleManager: Shutting down and abandoning module UnrealEd (186)
+[2019.09.02-14.02.19:314][611]LogModuleManager: Shutting down and abandoning module MRMesh (184)
+[2019.09.02-14.02.19:314][611]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (182)
+[2019.09.02-14.02.19:314][611]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (180)
+[2019.09.02-14.02.19:314][611]LogModuleManager: Shutting down and abandoning module XAudio2 (178)
+[2019.09.02-14.02.19:314][611]LogModuleManager: Shutting down and abandoning module Networking (176)
+[2019.09.02-14.02.19:314][611]LogModuleManager: Shutting down and abandoning module Core (174)
+[2019.09.02-14.02.19:314][611]LogModuleManager: Shutting down and abandoning module KismetCompiler (172)
+[2019.09.02-14.02.19:314][611]LogModuleManager: Shutting down and abandoning module MeshUtilities (170)
+[2019.09.02-14.02.19:314][611]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (169)
+[2019.09.02-14.02.19:314][611]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (168)
+[2019.09.02-14.02.19:314][611]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (167)
+[2019.09.02-14.02.19:314][611]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (165)
+[2019.09.02-14.02.19:314][611]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (163)
+[2019.09.02-14.02.19:314][611]LogModuleManager: Shutting down and abandoning module MaterialBaking (159)
+[2019.09.02-14.02.19:314][611]LogModuleManager: Shutting down and abandoning module DerivedDataCache (154)
+[2019.09.02-14.02.19:319][611]LogDerivedDataCache: Shutdown
+[2019.09.02-14.02.19:320][611]LogModuleManager: Shutting down and abandoning module XGEController (152)
+[2019.09.02-14.02.19:320][611]LogModuleManager: Shutting down and abandoning module TargetPlatform (150)
+[2019.09.02-14.02.19:320][611]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (149)
+[2019.09.02-14.02.19:320][611]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (147)
+[2019.09.02-14.02.19:320][611]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (145)
+[2019.09.02-14.02.19:320][611]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (143)
+[2019.09.02-14.02.19:324][611]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (141)
+[2019.09.02-14.02.19:324][611]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (139)
+[2019.09.02-14.02.19:324][611]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (137)
+[2019.09.02-14.02.19:324][611]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (135)
+[2019.09.02-14.02.19:324][611]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (133)
+[2019.09.02-14.02.19:324][611]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (131)
+[2019.09.02-14.02.19:325][611]LogModuleManager: Shutting down and abandoning module ImageWrapper (130)
+[2019.09.02-14.02.19:325][611]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (127)
+[2019.09.02-14.02.19:325][611]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (125)
+[2019.09.02-14.02.19:325][611]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (123)
+[2019.09.02-14.02.19:325][611]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (121)
+[2019.09.02-14.02.19:325][611]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (119)
+[2019.09.02-14.02.19:328][611]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (117)
+[2019.09.02-14.02.19:328][611]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (115)
+[2019.09.02-14.02.19:328][611]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (113)
+[2019.09.02-14.02.19:328][611]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (111)
+[2019.09.02-14.02.19:328][611]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (109)
+[2019.09.02-14.02.19:331][611]LogModuleManager: Shutting down and abandoning module Messaging (107)
+[2019.09.02-14.02.19:333][611]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (105)
+[2019.09.02-14.02.19:334][611]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (103)
+[2019.09.02-14.02.19:334][611]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (101)
+[2019.09.02-14.02.19:342][611]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (99)
+[2019.09.02-14.02.19:342][611]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (97)
+[2019.09.02-14.02.19:342][611]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (95)
+[2019.09.02-14.02.19:342][611]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (93)
+[2019.09.02-14.02.19:342][611]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (91)
+[2019.09.02-14.02.19:342][611]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (89)
+[2019.09.02-14.02.19:342][611]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (87)
+[2019.09.02-14.02.19:342][611]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (85)
+[2019.09.02-14.02.19:342][611]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (83)
+[2019.09.02-14.02.19:342][611]LogModuleManager: Shutting down and abandoning module InputCore (80)
+[2019.09.02-14.02.19:342][611]LogModuleManager: Shutting down and abandoning module Settings (78)
+[2019.09.02-14.02.19:342][611]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (76)
+[2019.09.02-14.02.19:343][611]LogModuleManager: Shutting down and abandoning module PhysXCooking (74)
+[2019.09.02-14.02.19:343][611]LogModuleManager: Shutting down and abandoning module SteamVR (72)
+[2019.09.02-14.02.19:343][611]LogHMD: Freeing OpenVRDLLHandle.
+[2019.09.02-14.02.19:343][611]LogModuleManager: Shutting down and abandoning module OculusHMD (70)
+[2019.09.02-14.02.19:343][611]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (68)
+[2019.09.02-14.02.19:343][611]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (66)
+[2019.09.02-14.02.19:343][611]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (64)
+[2019.09.02-14.02.19:343][611]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (60)
+[2019.09.02-14.02.19:344][611]LogModuleManager: Shutting down and abandoning module XMPP (55)
+[2019.09.02-14.02.19:344][611]LogModuleManager: Shutting down and abandoning module WebSockets (54)
+[2019.09.02-14.02.19:380][611]LogModuleManager: Shutting down and abandoning module HTTP (51)
+[2019.09.02-14.02.19:380][611]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2019.09.02-14.02.19:380][611]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B9EC1389A-4A7D-456A-BE29-C9B27950F4B7%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.3-7053642%2B%2B%2BUE4%2BRelease-4.22&UserID=28abc7a04ad81027de311ebcece43895%7C22a5a264262946e184f363cea0519102%7Ca92194c3-9749-4dad-953f-d604f6eaae8b&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2019.09.02-14.02.19:411][611]LogModuleManager: Shutting down and abandoning module SSL (50)
+[2019.09.02-14.02.19:413][611]LogModuleManager: Shutting down and abandoning module WmfMedia (46)
+[2019.09.02-14.02.19:418][611]LogModuleManager: Shutting down and abandoning module Media (45)
+[2019.09.02-14.02.19:425][611]LogModuleManager: Shutting down and abandoning module MagicLeap (42)
+[2019.09.02-14.02.19:425][611]LogModuleManager: Shutting down and abandoning module DatasmithContent (40)
+[2019.09.02-14.02.19:425][611]LogModuleManager: Shutting down and abandoning module AnimationModifiers (38)
+[2019.09.02-14.02.19:425][611]LogModuleManager: Shutting down and abandoning module PropertyEditor (37)
+[2019.09.02-14.02.19:426][611]LogModuleManager: Shutting down and abandoning module AudioEditor (34)
+[2019.09.02-14.02.19:426][611]LogModuleManager: Shutting down and abandoning module TextureCompressor (32)
+[2019.09.02-14.02.19:426][611]LogModuleManager: Shutting down and abandoning module RenderCore (30)
+[2019.09.02-14.02.19:426][611]LogModuleManager: Shutting down and abandoning module Landscape (28)
+[2019.09.02-14.02.19:426][611]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (26)
+[2019.09.02-14.02.19:429][611]LogModuleManager: Shutting down and abandoning module OpenGLDrv (24)
+[2019.09.02-14.02.19:429][611]LogModuleManager: Shutting down and abandoning module D3D11RHI (22)
+[2019.09.02-14.02.19:429][611]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2019.09.02-14.02.19:430][611]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2019.09.02-14.02.19:430][611]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2019.09.02-14.02.19:430][611]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2019.09.02-14.02.19:430][611]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2019.09.02-14.02.19:430][611]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2019.09.02-14.02.19:430][611]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2019.09.02-14.02.19:430][611]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2019.09.02-14.02.19:430][611]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2019.09.02-14.02.19:430][611]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2019.09.02-14.02.19:440][611]LogExit: Exiting.
+[2019.09.02-14.02.19:492][611]Log file closed, 09/02/19 23:02:19
