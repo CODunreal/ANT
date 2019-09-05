@@ -1982,3 +1982,646 @@ Please update your composite fonts to use localized sub-font families: https://d
 [2019.09.05-14.22.27:693][155]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/WaterParticle" FILE="../../../../Workspace/git/project/ANT/Saved/Autosaves/Game/Blueprint/WaterParticle_Auto5.uasset" SILENT=false AUTOSAVING=true
 [2019.09.05-14.22.27:702][155]LogSavePackage: Moving '../../../../Workspace/git/project/ANT/Saved/WaterParticle_Auto56C9923FB4851F3966D0222BD847BA678.tmp' to '../../../../Workspace/git/project/ANT/Saved/Autosaves/Game/Blueprint/WaterParticle_Auto5.uasset'
 [2019.09.05-14.22.27:702][155]LogFileHelpers: Auto-saving content packages took 0.094
+[2019.09.05-14.28.23:751][525]LogTemp: Repeating last play command: 선택된 뷰포트
+[2019.09.05-14.28.23:764][525]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.09.05-14.28.23:764][525]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.09.05-14.28.23:764][525]PIE: New page: PIE 세션: ThirdPersonExampleMap (2019. 9. 6. 오전 8:28:23)
+[2019.09.05-14.28.23:764][525]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.09.05-14.28.23:774][525]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010204s)
+[2019.09.05-14.28.23:775][525]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.09.05-14.28.23:775][525]LogPlayLevel: PIE: World Init took: (0.000623s)
+[2019.09.05-14.28.23:775][525]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.011012s)
+[2019.09.05-14.28.23:815][525]LogUObjectHash: Compacting FUObjectHashTables data took   4.49ms
+[2019.09.05-14.28.24:071][525]LogInit: XAudio2 using '헤드폰(PXC 550 Stereo)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2019.09.05-14.28.24:178][525]LogInit: FAudioDevice initialized.
+[2019.09.05-14.28.24:206][525]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.09.05-14.28.24:208][525]PIE: Warning: 유효하지 않은 시뮬레이션 옵션: (WaterBomb_2.Sphere1) 바디가 피직스 시뮬레이션을 하도록 설정되어 있으나 Collision Enabled 가 호환되지 않습니다.
+[2019.09.05-14.28.24:208][525]PIE: Warning: 유효하지 않은 시뮬레이션 옵션: (WaterBomb_2.Sphere1) 바디가 피직스 시뮬레이션을 하도록 설정되어 있으나 Collision Enabled 가 호환되지 않습니다.
+[2019.09.05-14.28.24:209][525]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2019.09.05-23.28.24
+[2019.09.05-14.28.24:210][525]LogWorld: Bringing up level for play took: 0.002426
+[2019.09.05-14.28.24:223][525]PIE: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 에 대한 에디터에서 플레이 시작 시간: 1.026
+[2019.09.05-14.28.24:223][525]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.09.05-14.28.26:189][752]PIE: Warning: WaterBomb_2.StaticMesh Shape_Sphere: 'CollisionEnabled' (콜리전 활성화)를 'Query and Physics' (쿼리 및 피직스) 또는 'Physics only' (피직스 전용)으로 해야 위치에 충격량 추가 가능합니다. 
+[2019.09.05-14.28.26:198][753]PIE: Warning: WaterBomb_2.StaticMesh Shape_Sphere: 'CollisionEnabled' (콜리전 활성화)를 'Query and Physics' (쿼리 및 피직스) 또는 'Physics only' (피직스 전용)으로 해야 위치에 힘 추가 가능합니다. 
+[2019.09.05-14.28.26:214][755]PIE: Warning: WaterBomb_2.StaticMesh Shape_Sphere: 'CollisionEnabled' (콜리전 활성화)를 'Query and Physics' (쿼리 및 피직스) 또는 'Physics only' (피직스 전용)으로 해야 위치에 힘 추가 가능합니다. 
+[2019.09.05-14.28.26:247][759]PIE: Warning: WaterBomb_2.StaticMesh Shape_Sphere: 'CollisionEnabled' (콜리전 활성화)를 'Query and Physics' (쿼리 및 피직스) 또는 'Physics only' (피직스 전용)으로 해야 위치에 힘 추가 가능합니다. 
+[2019.09.05-14.28.26:289][764]PIE: Warning: WaterBomb_2.StaticMesh Shape_Sphere: 'CollisionEnabled' (콜리전 활성화)를 'Query and Physics' (쿼리 및 피직스) 또는 'Physics only' (피직스 전용)으로 해야 위치에 힘 추가 가능합니다. 
+[2019.09.05-14.28.26:331][769]PIE: Warning: WaterBomb_2.StaticMesh Shape_Sphere: 'CollisionEnabled' (콜리전 활성화)를 'Query and Physics' (쿼리 및 피직스) 또는 'Physics only' (피직스 전용)으로 해야 위치에 힘 추가 가능합니다. 
+[2019.09.05-14.28.26:373][774]PIE: Warning: WaterBomb_2.StaticMesh Shape_Sphere: 'CollisionEnabled' (콜리전 활성화)를 'Query and Physics' (쿼리 및 피직스) 또는 'Physics only' (피직스 전용)으로 해야 위치에 힘 추가 가능합니다. 
+[2019.09.05-14.28.26:414][779]PIE: Warning: WaterBomb_2.StaticMesh Shape_Sphere: 'CollisionEnabled' (콜리전 활성화)를 'Query and Physics' (쿼리 및 피직스) 또는 'Physics only' (피직스 전용)으로 해야 위치에 힘 추가 가능합니다. 
+[2019.09.05-14.28.26:457][784]PIE: Warning: WaterBomb_2.StaticMesh Shape_Sphere: 'CollisionEnabled' (콜리전 활성화)를 'Query and Physics' (쿼리 및 피직스) 또는 'Physics only' (피직스 전용)으로 해야 위치에 힘 추가 가능합니다. 
+[2019.09.05-14.28.30:409][258]PIE: Warning: WaterBomb_2.StaticMesh Shape_Sphere: 'CollisionEnabled' (콜리전 활성화)를 'Query and Physics' (쿼리 및 피직스) 또는 'Physics only' (피직스 전용)으로 해야 위치에 힘 추가 가능합니다. 
+[2019.09.05-14.28.30:427][260]PIE: Warning: WaterBomb_2.StaticMesh Shape_Sphere: 'CollisionEnabled' (콜리전 활성화)를 'Query and Physics' (쿼리 및 피직스) 또는 'Physics only' (피직스 전용)으로 해야 위치에 힘 추가 가능합니다. 
+[2019.09.05-14.28.30:434][261]PIE: Warning: WaterBomb_2.StaticMesh Shape_Sphere: 'CollisionEnabled' (콜리전 활성화)를 'Query and Physics' (쿼리 및 피직스) 또는 'Physics only' (피직스 전용)으로 해야 위치에 힘 추가 가능합니다. 
+[2019.09.05-14.28.30:451][263]PIE: Warning: WaterBomb_2.StaticMesh Shape_Sphere: 'CollisionEnabled' (콜리전 활성화)를 'Query and Physics' (쿼리 및 피직스) 또는 'Physics only' (피직스 전용)으로 해야 위치에 힘 추가 가능합니다. 
+[2019.09.05-14.28.30:493][268]PIE: Warning: WaterBomb_2.StaticMesh Shape_Sphere: 'CollisionEnabled' (콜리전 활성화)를 'Query and Physics' (쿼리 및 피직스) 또는 'Physics only' (피직스 전용)으로 해야 위치에 힘 추가 가능합니다. 
+[2019.09.05-14.28.32:176][470]PIE: Warning: WaterBomb_2.StaticMesh Shape_Sphere: 'CollisionEnabled' (콜리전 활성화)를 'Query and Physics' (쿼리 및 피직스) 또는 'Physics only' (피직스 전용)으로 해야 위치에 힘 추가 가능합니다. 
+[2019.09.05-14.28.32:185][471]PIE: Warning: WaterBomb_2.StaticMesh Shape_Sphere: 'CollisionEnabled' (콜리전 활성화)를 'Query and Physics' (쿼리 및 피직스) 또는 'Physics only' (피직스 전용)으로 해야 위치에 힘 추가 가능합니다. 
+[2019.09.05-14.28.32:193][472]PIE: Warning: WaterBomb_2.StaticMesh Shape_Sphere: 'CollisionEnabled' (콜리전 활성화)를 'Query and Physics' (쿼리 및 피직스) 또는 'Physics only' (피직스 전용)으로 해야 위치에 힘 추가 가능합니다. 
+[2019.09.05-14.28.32:201][473]PIE: Warning: WaterBomb_2.StaticMesh Shape_Sphere: 'CollisionEnabled' (콜리전 활성화)를 'Query and Physics' (쿼리 및 피직스) 또는 'Physics only' (피직스 전용)으로 해야 위치에 힘 추가 가능합니다. 
+[2019.09.05-14.28.32:218][475]PIE: Warning: WaterBomb_2.StaticMesh Shape_Sphere: 'CollisionEnabled' (콜리전 활성화)를 'Query and Physics' (쿼리 및 피직스) 또는 'Physics only' (피직스 전용)으로 해야 위치에 힘 추가 가능합니다. 
+[2019.09.05-14.28.32:235][477]PIE: Warning: WaterBomb_2.StaticMesh Shape_Sphere: 'CollisionEnabled' (콜리전 활성화)를 'Query and Physics' (쿼리 및 피직스) 또는 'Physics only' (피직스 전용)으로 해야 위치에 힘 추가 가능합니다. 
+[2019.09.05-14.28.32:251][479]PIE: Warning: WaterBomb_2.StaticMesh Shape_Sphere: 'CollisionEnabled' (콜리전 활성화)를 'Query and Physics' (쿼리 및 피직스) 또는 'Physics only' (피직스 전용)으로 해야 위치에 힘 추가 가능합니다. 
+[2019.09.05-14.28.32:276][482]PIE: Warning: WaterBomb_2.StaticMesh Shape_Sphere: 'CollisionEnabled' (콜리전 활성화)를 'Query and Physics' (쿼리 및 피직스) 또는 'Physics only' (피직스 전용)으로 해야 위치에 힘 추가 가능합니다. 
+[2019.09.05-14.28.32:302][485]PIE: Warning: WaterBomb_2.StaticMesh Shape_Sphere: 'CollisionEnabled' (콜리전 활성화)를 'Query and Physics' (쿼리 및 피직스) 또는 'Physics only' (피직스 전용)으로 해야 위치에 힘 추가 가능합니다. 
+[2019.09.05-14.28.32:318][487]PIE: Warning: WaterBomb_2.StaticMesh Shape_Sphere: 'CollisionEnabled' (콜리전 활성화)를 'Query and Physics' (쿼리 및 피직스) 또는 'Physics only' (피직스 전용)으로 해야 위치에 힘 추가 가능합니다. 
+[2019.09.05-14.28.32:326][488]PIE: Warning: WaterBomb_2.StaticMesh Shape_Sphere: 'CollisionEnabled' (콜리전 활성화)를 'Query and Physics' (쿼리 및 피직스) 또는 'Physics only' (피직스 전용)으로 해야 위치에 힘 추가 가능합니다. 
+[2019.09.05-14.28.32:335][489]PIE: Warning: WaterBomb_2.StaticMesh Shape_Sphere: 'CollisionEnabled' (콜리전 활성화)를 'Query and Physics' (쿼리 및 피직스) 또는 'Physics only' (피직스 전용)으로 해야 위치에 힘 추가 가능합니다. 
+[2019.09.05-14.28.32:344][490]PIE: Warning: WaterBomb_2.StaticMesh Shape_Sphere: 'CollisionEnabled' (콜리전 활성화)를 'Query and Physics' (쿼리 및 피직스) 또는 'Physics only' (피직스 전용)으로 해야 위치에 힘 추가 가능합니다. 
+[2019.09.05-14.28.32:352][491]PIE: Warning: WaterBomb_2.StaticMesh Shape_Sphere: 'CollisionEnabled' (콜리전 활성화)를 'Query and Physics' (쿼리 및 피직스) 또는 'Physics only' (피직스 전용)으로 해야 위치에 힘 추가 가능합니다. 
+[2019.09.05-14.28.32:360][492]PIE: Warning: WaterBomb_2.StaticMesh Shape_Sphere: 'CollisionEnabled' (콜리전 활성화)를 'Query and Physics' (쿼리 및 피직스) 또는 'Physics only' (피직스 전용)으로 해야 위치에 힘 추가 가능합니다. 
+[2019.09.05-14.28.32:377][494]PIE: Warning: WaterBomb_2.StaticMesh Shape_Sphere: 'CollisionEnabled' (콜리전 활성화)를 'Query and Physics' (쿼리 및 피직스) 또는 'Physics only' (피직스 전용)으로 해야 위치에 힘 추가 가능합니다. 
+[2019.09.05-14.28.32:393][496]PIE: Warning: WaterBomb_2.StaticMesh Shape_Sphere: 'CollisionEnabled' (콜리전 활성화)를 'Query and Physics' (쿼리 및 피직스) 또는 'Physics only' (피직스 전용)으로 해야 위치에 힘 추가 가능합니다. 
+[2019.09.05-14.28.32:402][497]PIE: Warning: WaterBomb_2.StaticMesh Shape_Sphere: 'CollisionEnabled' (콜리전 활성화)를 'Query and Physics' (쿼리 및 피직스) 또는 'Physics only' (피직스 전용)으로 해야 위치에 힘 추가 가능합니다. 
+[2019.09.05-14.28.32:410][498]PIE: Warning: WaterBomb_2.StaticMesh Shape_Sphere: 'CollisionEnabled' (콜리전 활성화)를 'Query and Physics' (쿼리 및 피직스) 또는 'Physics only' (피직스 전용)으로 해야 위치에 힘 추가 가능합니다. 
+[2019.09.05-14.28.32:418][499]PIE: Warning: WaterBomb_2.StaticMesh Shape_Sphere: 'CollisionEnabled' (콜리전 활성화)를 'Query and Physics' (쿼리 및 피직스) 또는 'Physics only' (피직스 전용)으로 해야 위치에 힘 추가 가능합니다. 
+[2019.09.05-14.28.32:427][500]PIE: Warning: WaterBomb_2.StaticMesh Shape_Sphere: 'CollisionEnabled' (콜리전 활성화)를 'Query and Physics' (쿼리 및 피직스) 또는 'Physics only' (피직스 전용)으로 해야 위치에 힘 추가 가능합니다. 
+[2019.09.05-14.28.32:435][501]PIE: Warning: WaterBomb_2.StaticMesh Shape_Sphere: 'CollisionEnabled' (콜리전 활성화)를 'Query and Physics' (쿼리 및 피직스) 또는 'Physics only' (피직스 전용)으로 해야 위치에 힘 추가 가능합니다. 
+[2019.09.05-14.28.32:443][502]PIE: Warning: WaterBomb_2.StaticMesh Shape_Sphere: 'CollisionEnabled' (콜리전 활성화)를 'Query and Physics' (쿼리 및 피직스) 또는 'Physics only' (피직스 전용)으로 해야 위치에 힘 추가 가능합니다. 
+[2019.09.05-14.28.32:451][503]PIE: Warning: WaterBomb_2.StaticMesh Shape_Sphere: 'CollisionEnabled' (콜리전 활성화)를 'Query and Physics' (쿼리 및 피직스) 또는 'Physics only' (피직스 전용)으로 해야 위치에 힘 추가 가능합니다. 
+[2019.09.05-14.28.32:460][504]PIE: Warning: WaterBomb_2.StaticMesh Shape_Sphere: 'CollisionEnabled' (콜리전 활성화)를 'Query and Physics' (쿼리 및 피직스) 또는 'Physics only' (피직스 전용)으로 해야 위치에 힘 추가 가능합니다. 
+[2019.09.05-14.28.32:468][505]PIE: Warning: WaterBomb_2.StaticMesh Shape_Sphere: 'CollisionEnabled' (콜리전 활성화)를 'Query and Physics' (쿼리 및 피직스) 또는 'Physics only' (피직스 전용)으로 해야 위치에 힘 추가 가능합니다. 
+[2019.09.05-14.28.32:476][506]PIE: Warning: WaterBomb_2.StaticMesh Shape_Sphere: 'CollisionEnabled' (콜리전 활성화)를 'Query and Physics' (쿼리 및 피직스) 또는 'Physics only' (피직스 전용)으로 해야 위치에 힘 추가 가능합니다. 
+[2019.09.05-14.28.32:486][507]PIE: Warning: WaterBomb_2.StaticMesh Shape_Sphere: 'CollisionEnabled' (콜리전 활성화)를 'Query and Physics' (쿼리 및 피직스) 또는 'Physics only' (피직스 전용)으로 해야 위치에 힘 추가 가능합니다. 
+[2019.09.05-14.28.32:494][508]PIE: Warning: WaterBomb_2.StaticMesh Shape_Sphere: 'CollisionEnabled' (콜리전 활성화)를 'Query and Physics' (쿼리 및 피직스) 또는 'Physics only' (피직스 전용)으로 해야 위치에 힘 추가 가능합니다. 
+[2019.09.05-14.28.32:504][509]PIE: Warning: WaterBomb_2.StaticMesh Shape_Sphere: 'CollisionEnabled' (콜리전 활성화)를 'Query and Physics' (쿼리 및 피직스) 또는 'Physics only' (피직스 전용)으로 해야 위치에 힘 추가 가능합니다. 
+[2019.09.05-14.28.32:515][510]PIE: Warning: WaterBomb_2.StaticMesh Shape_Sphere: 'CollisionEnabled' (콜리전 활성화)를 'Query and Physics' (쿼리 및 피직스) 또는 'Physics only' (피직스 전용)으로 해야 위치에 힘 추가 가능합니다. 
+[2019.09.05-14.28.32:523][511]PIE: Warning: WaterBomb_2.StaticMesh Shape_Sphere: 'CollisionEnabled' (콜리전 활성화)를 'Query and Physics' (쿼리 및 피직스) 또는 'Physics only' (피직스 전용)으로 해야 위치에 힘 추가 가능합니다. 
+[2019.09.05-14.28.35:421][857]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.09.05-14.28.35:421][857]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.05-14.28.35:450][857]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.09.05-14.28.35:450][857]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.09.05-14.28.35:491][857]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.05-14.28.35:496][857]LogUObjectHash: Compacting FUObjectHashTables data took   3.03ms
+[2019.09.05-14.28.35:506][857]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.09.05-14.28.35:559][858]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2019.09.05-14.28.37:999][ 77]LogSlate: Window '메시지 로그' being destroyed
+[2019.09.05-14.28.38:012][ 77]LogSlate: Window '메시지 로그' being destroyed
+[2019.09.05-14.28.45:969][243]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.09.05-14.28.53:995][176]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.05-14.29.12:486][299]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.05-14.29.17:626][902]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/WaterParticle/WaterExplosive" FILE="../../../../Workspace/git/project/ANT/Content/WaterParticle/WaterExplosive.uasset" SILENT=true
+[2019.09.05-14.29.17:646][902]LogSavePackage: Moving '../../../../Workspace/git/project/ANT/Saved/WaterExplosive040F5AC14E33A3703638D493FF4ECE05.tmp' to '../../../../Workspace/git/project/ANT/Content/WaterParticle/WaterExplosive.uasset'
+[2019.09.05-14.29.19:356][ 96]LogTemp: Repeating last play command: 선택된 뷰포트
+[2019.09.05-14.29.19:369][ 96]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.09.05-14.29.19:369][ 96]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.09.05-14.29.19:369][ 96]PIE: New page: PIE 세션: ThirdPersonExampleMap (2019. 9. 6. 오전 8:29:19)
+[2019.09.05-14.29.19:369][ 96]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.09.05-14.29.19:377][ 96]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007829s)
+[2019.09.05-14.29.19:377][ 96]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.09.05-14.29.19:377][ 96]LogPlayLevel: PIE: World Init took: (0.000604s)
+[2019.09.05-14.29.19:378][ 96]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.008623s)
+[2019.09.05-14.29.19:417][ 96]LogUObjectHash: Compacting FUObjectHashTables data took   2.40ms
+[2019.09.05-14.29.19:613][ 96]LogInit: XAudio2 using '헤드폰(PXC 550 Stereo)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2019.09.05-14.29.19:684][ 96]LogInit: FAudioDevice initialized.
+[2019.09.05-14.29.19:714][ 96]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.09.05-14.29.19:715][ 96]PIE: Warning: 유효하지 않은 시뮬레이션 옵션: (WaterBomb_2.Sphere1) 바디가 피직스 시뮬레이션을 하도록 설정되어 있으나 Collision Enabled 가 호환되지 않습니다.
+[2019.09.05-14.29.19:715][ 96]PIE: Warning: 유효하지 않은 시뮬레이션 옵션: (WaterBomb_2.Sphere1) 바디가 피직스 시뮬레이션을 하도록 설정되어 있으나 Collision Enabled 가 호환되지 않습니다.
+[2019.09.05-14.29.19:716][ 96]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2019.09.05-23.29.19
+[2019.09.05-14.29.19:716][ 96]LogWorld: Bringing up level for play took: 0.001624
+[2019.09.05-14.29.19:729][ 96]PIE: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 에 대한 에디터에서 플레이 시작 시간: 0.532
+[2019.09.05-14.29.19:729][ 96]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.09.05-14.29.21:358][287]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.09.05-14.29.21:358][287]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.05-14.29.21:391][287]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.09.05-14.29.21:391][287]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.09.05-14.29.21:432][287]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.05-14.29.21:436][287]LogUObjectHash: Compacting FUObjectHashTables data took   2.42ms
+[2019.09.05-14.29.21:447][287]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.09.05-14.29.21:489][288]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2019.09.05-14.29.25:118][658]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.05-14.29.25:191][667]LogSlate: Window '메시지 로그' being destroyed
+[2019.09.05-14.29.25:196][667]LogSlate: Window '메시지 로그' being destroyed
+[2019.09.05-14.29.33:622][661]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.05-14.29.46:296][174]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.05-14.29.50:458][662]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/WaterParticle/WaterExplosive" FILE="../../../../Workspace/git/project/ANT/Content/WaterParticle/WaterExplosive.uasset" SILENT=true
+[2019.09.05-14.29.50:474][662]LogSavePackage: Moving '../../../../Workspace/git/project/ANT/Saved/WaterExplosiveB08679ED48FCE8325A82F5993158B557.tmp' to '../../../../Workspace/git/project/ANT/Content/WaterParticle/WaterExplosive.uasset'
+[2019.09.05-14.29.52:009][836]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.09.05-14.29.53:572][ 18]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.05-14.29.53:647][ 27]LogTemp: Repeating last play command: 선택된 뷰포트
+[2019.09.05-14.29.53:659][ 27]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.09.05-14.29.53:659][ 27]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.09.05-14.29.53:659][ 27]PIE: New page: PIE 세션: ThirdPersonExampleMap (2019. 9. 6. 오전 8:29:53)
+[2019.09.05-14.29.53:660][ 27]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.09.05-14.29.53:668][ 27]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008629s)
+[2019.09.05-14.29.53:669][ 27]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.09.05-14.29.53:669][ 27]LogPlayLevel: PIE: World Init took: (0.000570s)
+[2019.09.05-14.29.53:669][ 27]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.009364s)
+[2019.09.05-14.29.53:706][ 27]LogUObjectHash: Compacting FUObjectHashTables data took   2.43ms
+[2019.09.05-14.29.53:921][ 27]LogInit: XAudio2 using '헤드폰(PXC 550 Stereo)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2019.09.05-14.29.54:022][ 27]LogInit: FAudioDevice initialized.
+[2019.09.05-14.29.54:052][ 27]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.09.05-14.29.54:054][ 27]PIE: Warning: 유효하지 않은 시뮬레이션 옵션: (WaterBomb_2.Sphere1) 바디가 피직스 시뮬레이션을 하도록 설정되어 있으나 Collision Enabled 가 호환되지 않습니다.
+[2019.09.05-14.29.54:054][ 27]PIE: Warning: 유효하지 않은 시뮬레이션 옵션: (WaterBomb_2.Sphere1) 바디가 피직스 시뮬레이션을 하도록 설정되어 있으나 Collision Enabled 가 호환되지 않습니다.
+[2019.09.05-14.29.54:056][ 27]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2019.09.05-23.29.54
+[2019.09.05-14.29.54:056][ 27]LogWorld: Bringing up level for play took: 0.003016
+[2019.09.05-14.29.54:069][ 27]PIE: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 에 대한 에디터에서 플레이 시작 시간: 0.872
+[2019.09.05-14.29.54:069][ 27]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.09.05-14.29.56:428][304]PIE: Warning: WaterBomb_2.StaticMesh Shape_Sphere: 'CollisionEnabled' (콜리전 활성화)를 'Query and Physics' (쿼리 및 피직스) 또는 'Physics only' (피직스 전용)으로 해야 위치에 충격량 추가 가능합니다. 
+[2019.09.05-14.29.56:428][304]LogParticles: Warning: GameplayStatics::SpawnEmitterAtLocation spawned potentially immortal particle system! /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.WorldInfo_0.ParticleSystemComponent_0 (/Game/WaterParticle/WaterExplosive.WaterExplosive) may stay in world despite never spawning particles after burst spawning is over.
+[2019.09.05-14.29.56:437][305]PIE: Warning: WaterBomb_2.StaticMesh Shape_Sphere: 'CollisionEnabled' (콜리전 활성화)를 'Query and Physics' (쿼리 및 피직스) 또는 'Physics only' (피직스 전용)으로 해야 위치에 힘 추가 가능합니다. 
+[2019.09.05-14.29.56:453][307]PIE: Warning: WaterBomb_2.StaticMesh Shape_Sphere: 'CollisionEnabled' (콜리전 활성화)를 'Query and Physics' (쿼리 및 피직스) 또는 'Physics only' (피직스 전용)으로 해야 위치에 힘 추가 가능합니다. 
+[2019.09.05-14.29.56:470][309]PIE: Warning: WaterBomb_2.StaticMesh Shape_Sphere: 'CollisionEnabled' (콜리전 활성화)를 'Query and Physics' (쿼리 및 피직스) 또는 'Physics only' (피직스 전용)으로 해야 위치에 힘 추가 가능합니다. 
+[2019.09.05-14.29.56:495][312]PIE: Warning: WaterBomb_2.StaticMesh Shape_Sphere: 'CollisionEnabled' (콜리전 활성화)를 'Query and Physics' (쿼리 및 피직스) 또는 'Physics only' (피직스 전용)으로 해야 위치에 힘 추가 가능합니다. 
+[2019.09.05-14.29.56:520][315]PIE: Warning: WaterBomb_2.StaticMesh Shape_Sphere: 'CollisionEnabled' (콜리전 활성화)를 'Query and Physics' (쿼리 및 피직스) 또는 'Physics only' (피직스 전용)으로 해야 위치에 힘 추가 가능합니다. 
+[2019.09.05-14.29.56:545][318]PIE: Warning: WaterBomb_2.StaticMesh Shape_Sphere: 'CollisionEnabled' (콜리전 활성화)를 'Query and Physics' (쿼리 및 피직스) 또는 'Physics only' (피직스 전용)으로 해야 위치에 힘 추가 가능합니다. 
+[2019.09.05-14.29.56:578][322]PIE: Warning: WaterBomb_2.StaticMesh Shape_Sphere: 'CollisionEnabled' (콜리전 활성화)를 'Query and Physics' (쿼리 및 피직스) 또는 'Physics only' (피직스 전용)으로 해야 위치에 힘 추가 가능합니다. 
+[2019.09.05-14.29.59:596][680]PIE: Warning: WaterBomb_2.StaticMesh Shape_Sphere: 'CollisionEnabled' (콜리전 활성화)를 'Query and Physics' (쿼리 및 피직스) 또는 'Physics only' (피직스 전용)으로 해야 위치에 힘 추가 가능합니다. 
+[2019.09.05-14.29.59:604][681]PIE: Warning: WaterBomb_2.StaticMesh Shape_Sphere: 'CollisionEnabled' (콜리전 활성화)를 'Query and Physics' (쿼리 및 피직스) 또는 'Physics only' (피직스 전용)으로 해야 위치에 힘 추가 가능합니다. 
+[2019.09.05-14.29.59:614][682]PIE: Warning: WaterBomb_2.StaticMesh Shape_Sphere: 'CollisionEnabled' (콜리전 활성화)를 'Query and Physics' (쿼리 및 피직스) 또는 'Physics only' (피직스 전용)으로 해야 위치에 힘 추가 가능합니다. 
+[2019.09.05-14.30.00:221][754]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.09.05-14.30.00:221][754]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.05-14.30.00:250][754]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.09.05-14.30.00:251][754]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.09.05-14.30.00:293][754]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.05-14.30.00:297][754]LogUObjectHash: Compacting FUObjectHashTables data took   2.38ms
+[2019.09.05-14.30.00:307][754]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.09.05-14.30.00:351][755]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2019.09.05-14.30.41:776][488]LogSlate: Window '메시지 로그' being destroyed
+[2019.09.05-14.30.41:780][488]LogSlate: Window '메시지 로그' being destroyed
+[2019.09.05-14.31.19:713][624]LogUObjectHash: Compacting FUObjectHashTables data took   3.94ms
+[2019.09.05-14.31.20:014][624]LogSavePackage: Moving '../../../../Workspace/git/project/ANT/Saved/ThirdPersonExampleMap6A4767964F3A8682A20E149816667134.tmp' to '../../../../Workspace/git/project/ANT/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2019.09.05-14.31.20:059][624]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.390
+[2019.09.05-14.31.22:707][931]LogTemp: Repeating last play command: 선택된 뷰포트
+[2019.09.05-14.31.22:719][931]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.09.05-14.31.22:719][931]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.09.05-14.31.22:719][931]PIE: New page: PIE 세션: ThirdPersonExampleMap (2019. 9. 6. 오전 8:31:22)
+[2019.09.05-14.31.22:719][931]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.09.05-14.31.22:727][931]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007881s)
+[2019.09.05-14.31.22:728][931]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.09.05-14.31.22:728][931]LogPlayLevel: PIE: World Init took: (0.000621s)
+[2019.09.05-14.31.22:728][931]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.008710s)
+[2019.09.05-14.31.22:763][931]LogUObjectHash: Compacting FUObjectHashTables data took   4.00ms
+[2019.09.05-14.31.22:969][931]LogInit: XAudio2 using '헤드폰(PXC 550 Stereo)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2019.09.05-14.31.23:041][931]LogInit: FAudioDevice initialized.
+[2019.09.05-14.31.23:070][931]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.09.05-14.31.23:071][931]PIE: Warning: 유효하지 않은 시뮬레이션 옵션: (WaterBomb_2.Sphere1) 바디가 피직스 시뮬레이션을 하도록 설정되어 있으나 Collision Enabled 가 호환되지 않습니다.
+[2019.09.05-14.31.23:071][931]PIE: Warning: 유효하지 않은 시뮬레이션 옵션: (WaterBomb_2.Sphere1) 바디가 피직스 시뮬레이션을 하도록 설정되어 있으나 Collision Enabled 가 호환되지 않습니다.
+[2019.09.05-14.31.23:072][931]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2019.09.05-23.31.23
+[2019.09.05-14.31.23:073][931]LogWorld: Bringing up level for play took: 0.002217
+[2019.09.05-14.31.23:086][931]PIE: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 에 대한 에디터에서 플레이 시작 시간: -0.111
+[2019.09.05-14.31.23:086][931]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.09.05-14.31.24:694][119]PIE: Warning: WaterBomb_2.StaticMesh Shape_Sphere: 'CollisionEnabled' (콜리전 활성화)를 'Query and Physics' (쿼리 및 피직스) 또는 'Physics only' (피직스 전용)으로 해야 위치에 충격량 추가 가능합니다. 
+[2019.09.05-14.31.24:694][119]LogParticles: Warning: GameplayStatics::SpawnEmitterAtLocation spawned potentially immortal particle system! /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.WorldInfo_0.ParticleSystemComponent_0 (/Game/WaterParticle/WaterExplosive.WaterExplosive) may stay in world despite never spawning particles after burst spawning is over.
+[2019.09.05-14.31.24:702][120]PIE: Warning: WaterBomb_2.StaticMesh Shape_Sphere: 'CollisionEnabled' (콜리전 활성화)를 'Query and Physics' (쿼리 및 피직스) 또는 'Physics only' (피직스 전용)으로 해야 위치에 힘 추가 가능합니다. 
+[2019.09.05-14.31.24:727][123]PIE: Warning: WaterBomb_2.StaticMesh Shape_Sphere: 'CollisionEnabled' (콜리전 활성화)를 'Query and Physics' (쿼리 및 피직스) 또는 'Physics only' (피직스 전용)으로 해야 위치에 힘 추가 가능합니다. 
+[2019.09.05-14.31.24:760][127]PIE: Warning: WaterBomb_2.StaticMesh Shape_Sphere: 'CollisionEnabled' (콜리전 활성화)를 'Query and Physics' (쿼리 및 피직스) 또는 'Physics only' (피직스 전용)으로 해야 위치에 힘 추가 가능합니다. 
+[2019.09.05-14.31.24:785][130]PIE: Warning: WaterBomb_2.StaticMesh Shape_Sphere: 'CollisionEnabled' (콜리전 활성화)를 'Query and Physics' (쿼리 및 피직스) 또는 'Physics only' (피직스 전용)으로 해야 위치에 힘 추가 가능합니다. 
+[2019.09.05-14.31.24:819][134]PIE: Warning: WaterBomb_2.StaticMesh Shape_Sphere: 'CollisionEnabled' (콜리전 활성화)를 'Query and Physics' (쿼리 및 피직스) 또는 'Physics only' (피직스 전용)으로 해야 위치에 힘 추가 가능합니다. 
+[2019.09.05-14.31.26:970][392]PIE: Warning: WaterBomb_2.StaticMesh Shape_Sphere: 'CollisionEnabled' (콜리전 활성화)를 'Query and Physics' (쿼리 및 피직스) 또는 'Physics only' (피직스 전용)으로 해야 위치에 힘 추가 가능합니다. 
+[2019.09.05-14.31.26:970][392]PIE: Warning: WaterBomb_2.StaticMesh Shape_Sphere: 'CollisionEnabled' (콜리전 활성화)를 'Query and Physics' (쿼리 및 피직스) 또는 'Physics only' (피직스 전용)으로 해야 위치에 힘 추가 가능합니다. 
+[2019.09.05-14.31.26:978][393]PIE: Warning: WaterBomb_2.StaticMesh Shape_Sphere: 'CollisionEnabled' (콜리전 활성화)를 'Query and Physics' (쿼리 및 피직스) 또는 'Physics only' (피직스 전용)으로 해야 위치에 힘 추가 가능합니다. 
+[2019.09.05-14.31.26:987][394]PIE: Warning: WaterBomb_2.StaticMesh Shape_Sphere: 'CollisionEnabled' (콜리전 활성화)를 'Query and Physics' (쿼리 및 피직스) 또는 'Physics only' (피직스 전용)으로 해야 위치에 힘 추가 가능합니다. 
+[2019.09.05-14.31.26:995][395]PIE: Warning: WaterBomb_2.StaticMesh Shape_Sphere: 'CollisionEnabled' (콜리전 활성화)를 'Query and Physics' (쿼리 및 피직스) 또는 'Physics only' (피직스 전용)으로 해야 위치에 힘 추가 가능합니다. 
+[2019.09.05-14.31.27:003][396]PIE: Warning: WaterBomb_2.StaticMesh Shape_Sphere: 'CollisionEnabled' (콜리전 활성화)를 'Query and Physics' (쿼리 및 피직스) 또는 'Physics only' (피직스 전용)으로 해야 위치에 힘 추가 가능합니다. 
+[2019.09.05-14.31.27:012][397]PIE: Warning: WaterBomb_2.StaticMesh Shape_Sphere: 'CollisionEnabled' (콜리전 활성화)를 'Query and Physics' (쿼리 및 피직스) 또는 'Physics only' (피직스 전용)으로 해야 위치에 힘 추가 가능합니다. 
+[2019.09.05-14.31.27:020][398]PIE: Warning: WaterBomb_2.StaticMesh Shape_Sphere: 'CollisionEnabled' (콜리전 활성화)를 'Query and Physics' (쿼리 및 피직스) 또는 'Physics only' (피직스 전용)으로 해야 위치에 힘 추가 가능합니다. 
+[2019.09.05-14.31.27:028][399]PIE: Warning: WaterBomb_2.StaticMesh Shape_Sphere: 'CollisionEnabled' (콜리전 활성화)를 'Query and Physics' (쿼리 및 피직스) 또는 'Physics only' (피직스 전용)으로 해야 위치에 힘 추가 가능합니다. 
+[2019.09.05-14.31.27:037][400]PIE: Warning: WaterBomb_2.StaticMesh Shape_Sphere: 'CollisionEnabled' (콜리전 활성화)를 'Query and Physics' (쿼리 및 피직스) 또는 'Physics only' (피직스 전용)으로 해야 위치에 힘 추가 가능합니다. 
+[2019.09.05-14.31.27:045][401]PIE: Warning: WaterBomb_2.StaticMesh Shape_Sphere: 'CollisionEnabled' (콜리전 활성화)를 'Query and Physics' (쿼리 및 피직스) 또는 'Physics only' (피직스 전용)으로 해야 위치에 힘 추가 가능합니다. 
+[2019.09.05-14.31.27:053][402]PIE: Warning: WaterBomb_2.StaticMesh Shape_Sphere: 'CollisionEnabled' (콜리전 활성화)를 'Query and Physics' (쿼리 및 피직스) 또는 'Physics only' (피직스 전용)으로 해야 위치에 힘 추가 가능합니다. 
+[2019.09.05-14.31.27:062][403]PIE: Warning: WaterBomb_2.StaticMesh Shape_Sphere: 'CollisionEnabled' (콜리전 활성화)를 'Query and Physics' (쿼리 및 피직스) 또는 'Physics only' (피직스 전용)으로 해야 위치에 힘 추가 가능합니다. 
+[2019.09.05-14.31.27:070][404]PIE: Warning: WaterBomb_2.StaticMesh Shape_Sphere: 'CollisionEnabled' (콜리전 활성화)를 'Query and Physics' (쿼리 및 피직스) 또는 'Physics only' (피직스 전용)으로 해야 위치에 힘 추가 가능합니다. 
+[2019.09.05-14.31.27:078][405]PIE: Warning: WaterBomb_2.StaticMesh Shape_Sphere: 'CollisionEnabled' (콜리전 활성화)를 'Query and Physics' (쿼리 및 피직스) 또는 'Physics only' (피직스 전용)으로 해야 위치에 힘 추가 가능합니다. 
+[2019.09.05-14.31.27:087][406]PIE: Warning: WaterBomb_2.StaticMesh Shape_Sphere: 'CollisionEnabled' (콜리전 활성화)를 'Query and Physics' (쿼리 및 피직스) 또는 'Physics only' (피직스 전용)으로 해야 위치에 힘 추가 가능합니다. 
+[2019.09.05-14.31.27:095][407]PIE: Warning: WaterBomb_2.StaticMesh Shape_Sphere: 'CollisionEnabled' (콜리전 활성화)를 'Query and Physics' (쿼리 및 피직스) 또는 'Physics only' (피직스 전용)으로 해야 위치에 힘 추가 가능합니다. 
+[2019.09.05-14.31.27:103][408]PIE: Warning: WaterBomb_2.StaticMesh Shape_Sphere: 'CollisionEnabled' (콜리전 활성화)를 'Query and Physics' (쿼리 및 피직스) 또는 'Physics only' (피직스 전용)으로 해야 위치에 힘 추가 가능합니다. 
+[2019.09.05-14.31.27:112][409]PIE: Warning: WaterBomb_2.StaticMesh Shape_Sphere: 'CollisionEnabled' (콜리전 활성화)를 'Query and Physics' (쿼리 및 피직스) 또는 'Physics only' (피직스 전용)으로 해야 위치에 힘 추가 가능합니다. 
+[2019.09.05-14.31.27:120][410]PIE: Warning: WaterBomb_2.StaticMesh Shape_Sphere: 'CollisionEnabled' (콜리전 활성화)를 'Query and Physics' (쿼리 및 피직스) 또는 'Physics only' (피직스 전용)으로 해야 위치에 힘 추가 가능합니다. 
+[2019.09.05-14.31.27:128][411]PIE: Warning: WaterBomb_2.StaticMesh Shape_Sphere: 'CollisionEnabled' (콜리전 활성화)를 'Query and Physics' (쿼리 및 피직스) 또는 'Physics only' (피직스 전용)으로 해야 위치에 힘 추가 가능합니다. 
+[2019.09.05-14.31.27:137][412]PIE: Warning: WaterBomb_2.StaticMesh Shape_Sphere: 'CollisionEnabled' (콜리전 활성화)를 'Query and Physics' (쿼리 및 피직스) 또는 'Physics only' (피직스 전용)으로 해야 위치에 힘 추가 가능합니다. 
+[2019.09.05-14.31.27:145][413]PIE: Warning: WaterBomb_2.StaticMesh Shape_Sphere: 'CollisionEnabled' (콜리전 활성화)를 'Query and Physics' (쿼리 및 피직스) 또는 'Physics only' (피직스 전용)으로 해야 위치에 힘 추가 가능합니다. 
+[2019.09.05-14.31.27:153][414]PIE: Warning: WaterBomb_2.StaticMesh Shape_Sphere: 'CollisionEnabled' (콜리전 활성화)를 'Query and Physics' (쿼리 및 피직스) 또는 'Physics only' (피직스 전용)으로 해야 위치에 힘 추가 가능합니다. 
+[2019.09.05-14.31.27:161][415]PIE: Warning: WaterBomb_2.StaticMesh Shape_Sphere: 'CollisionEnabled' (콜리전 활성화)를 'Query and Physics' (쿼리 및 피직스) 또는 'Physics only' (피직스 전용)으로 해야 위치에 힘 추가 가능합니다. 
+[2019.09.05-14.31.27:170][416]PIE: Warning: WaterBomb_2.StaticMesh Shape_Sphere: 'CollisionEnabled' (콜리전 활성화)를 'Query and Physics' (쿼리 및 피직스) 또는 'Physics only' (피직스 전용)으로 해야 위치에 힘 추가 가능합니다. 
+[2019.09.05-14.31.27:178][417]PIE: Warning: WaterBomb_2.StaticMesh Shape_Sphere: 'CollisionEnabled' (콜리전 활성화)를 'Query and Physics' (쿼리 및 피직스) 또는 'Physics only' (피직스 전용)으로 해야 위치에 힘 추가 가능합니다. 
+[2019.09.05-14.31.27:187][418]PIE: Warning: WaterBomb_2.StaticMesh Shape_Sphere: 'CollisionEnabled' (콜리전 활성화)를 'Query and Physics' (쿼리 및 피직스) 또는 'Physics only' (피직스 전용)으로 해야 위치에 힘 추가 가능합니다. 
+[2019.09.05-14.31.27:195][419]PIE: Warning: WaterBomb_2.StaticMesh Shape_Sphere: 'CollisionEnabled' (콜리전 활성화)를 'Query and Physics' (쿼리 및 피직스) 또는 'Physics only' (피직스 전용)으로 해야 위치에 힘 추가 가능합니다. 
+[2019.09.05-14.31.27:204][420]PIE: Warning: WaterBomb_2.StaticMesh Shape_Sphere: 'CollisionEnabled' (콜리전 활성화)를 'Query and Physics' (쿼리 및 피직스) 또는 'Physics only' (피직스 전용)으로 해야 위치에 힘 추가 가능합니다. 
+[2019.09.05-14.31.27:212][421]PIE: Warning: WaterBomb_2.StaticMesh Shape_Sphere: 'CollisionEnabled' (콜리전 활성화)를 'Query and Physics' (쿼리 및 피직스) 또는 'Physics only' (피직스 전용)으로 해야 위치에 힘 추가 가능합니다. 
+[2019.09.05-14.31.27:220][422]PIE: Warning: WaterBomb_2.StaticMesh Shape_Sphere: 'CollisionEnabled' (콜리전 활성화)를 'Query and Physics' (쿼리 및 피직스) 또는 'Physics only' (피직스 전용)으로 해야 위치에 힘 추가 가능합니다. 
+[2019.09.05-14.31.27:229][423]PIE: Warning: WaterBomb_2.StaticMesh Shape_Sphere: 'CollisionEnabled' (콜리전 활성화)를 'Query and Physics' (쿼리 및 피직스) 또는 'Physics only' (피직스 전용)으로 해야 위치에 힘 추가 가능합니다. 
+[2019.09.05-14.31.27:616][469]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.09.05-14.31.27:616][469]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.05-14.31.27:648][469]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.09.05-14.31.27:649][469]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.09.05-14.31.27:693][469]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.05-14.31.27:698][469]LogUObjectHash: Compacting FUObjectHashTables data took   3.15ms
+[2019.09.05-14.31.27:709][469]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.09.05-14.31.27:757][470]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2019.09.05-14.31.45:994][567]BlueprintLog: New page: ThirdPersonExampleMap 컴파일
+[2019.09.05-14.31.46:236][567]LogUObjectHash: Compacting FUObjectHashTables data took   4.65ms
+[2019.09.05-14.31.48:535][837]LogTemp: Repeating last play command: 선택된 뷰포트
+[2019.09.05-14.31.48:549][837]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.09.05-14.31.48:549][837]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.09.05-14.31.48:549][837]PIE: New page: PIE 세션: ThirdPersonExampleMap (2019. 9. 6. 오전 8:31:48)
+[2019.09.05-14.31.48:549][837]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.09.05-14.31.48:558][837]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008680s)
+[2019.09.05-14.31.48:558][837]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.09.05-14.31.48:559][837]LogPlayLevel: PIE: World Init took: (0.000774s)
+[2019.09.05-14.31.48:559][837]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.009654s)
+[2019.09.05-14.31.48:597][837]LogUObjectHash: Compacting FUObjectHashTables data took   3.52ms
+[2019.09.05-14.31.48:821][837]LogInit: XAudio2 using '헤드폰(PXC 550 Stereo)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2019.09.05-14.31.48:905][837]LogInit: FAudioDevice initialized.
+[2019.09.05-14.31.48:937][837]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.09.05-14.31.48:938][837]PIE: Warning: 유효하지 않은 시뮬레이션 옵션: (WaterBomb_2.Sphere1) 바디가 피직스 시뮬레이션을 하도록 설정되어 있으나 Collision Enabled 가 호환되지 않습니다.
+[2019.09.05-14.31.48:938][837]PIE: Warning: 유효하지 않은 시뮬레이션 옵션: (WaterBomb_2.Sphere1) 바디가 피직스 시뮬레이션을 하도록 설정되어 있으나 Collision Enabled 가 호환되지 않습니다.
+[2019.09.05-14.31.48:939][837]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2019.09.05-23.31.48
+[2019.09.05-14.31.48:939][837]LogWorld: Bringing up level for play took: 0.001742
+[2019.09.05-14.31.48:952][837]PIE: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 에 대한 에디터에서 플레이 시작 시간: -0.245
+[2019.09.05-14.31.48:952][837]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.09.05-14.31.51:416][126]PIE: Warning: WaterBomb_2.StaticMesh Shape_Sphere: 'CollisionEnabled' (콜리전 활성화)를 'Query and Physics' (쿼리 및 피직스) 또는 'Physics only' (피직스 전용)으로 해야 위치에 충격량 추가 가능합니다. 
+[2019.09.05-14.31.51:416][126]LogParticles: Warning: GameplayStatics::SpawnEmitterAtLocation spawned potentially immortal particle system! /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.WorldInfo_0.ParticleSystemComponent_0 (/Game/WaterParticle/WaterExplosive.WaterExplosive) may stay in world despite never spawning particles after burst spawning is over.
+[2019.09.05-14.31.53:885][422]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.09.05-14.31.53:885][422]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.05-14.31.53:918][422]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.09.05-14.31.53:918][422]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.09.05-14.31.53:955][422]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.05-14.31.53:959][422]LogUObjectHash: Compacting FUObjectHashTables data took   2.58ms
+[2019.09.05-14.31.53:969][422]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.09.05-14.31.53:987][423]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2019.09.05-14.31.57:224][509]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.09.05-14.31.59:402][704]LogEditorViewport: Clicking on Actor (LMB): WaterBomb_C (WaterBomb)
+[2019.09.05-14.32.01:366][881]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.05-14.32.09:791][856]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.05-14.32.12:764][184]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2019.09.05-14.32.13:064][184]LogSavePackage: Moving '../../../../Workspace/git/project/ANT/Saved/ThirdPersonExampleMapF74C7F0A4E58D752D1F891BF2D057883.tmp' to '../../../../Workspace/git/project/ANT/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2019.09.05-14.32.13:873][273]LogTemp: Repeating last play command: 선택된 뷰포트
+[2019.09.05-14.32.13:886][273]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.09.05-14.32.13:886][273]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.09.05-14.32.13:886][273]PIE: New page: PIE 세션: ThirdPersonExampleMap (2019. 9. 6. 오전 8:32:13)
+[2019.09.05-14.32.13:886][273]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.09.05-14.32.13:893][273]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007273s)
+[2019.09.05-14.32.13:894][273]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.09.05-14.32.13:894][273]LogPlayLevel: PIE: World Init took: (0.000596s)
+[2019.09.05-14.32.13:894][273]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.008037s)
+[2019.09.05-14.32.13:934][273]LogUObjectHash: Compacting FUObjectHashTables data took   4.05ms
+[2019.09.05-14.32.14:131][273]LogInit: XAudio2 using '헤드폰(PXC 550 Stereo)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2019.09.05-14.32.14:200][273]LogInit: FAudioDevice initialized.
+[2019.09.05-14.32.14:230][273]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.09.05-14.32.14:231][273]PIE: Warning: 유효하지 않은 시뮬레이션 옵션: (WaterBomb_2.Sphere1) 바디가 피직스 시뮬레이션을 하도록 설정되어 있으나 Collision Enabled 가 호환되지 않습니다.
+[2019.09.05-14.32.14:231][273]PIE: Warning: 유효하지 않은 시뮬레이션 옵션: (WaterBomb_2.Sphere1) 바디가 피직스 시뮬레이션을 하도록 설정되어 있으나 Collision Enabled 가 호환되지 않습니다.
+[2019.09.05-14.32.14:232][273]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2019.09.05-23.32.14
+[2019.09.05-14.32.14:232][273]LogWorld: Bringing up level for play took: 0.001585
+[2019.09.05-14.32.14:245][273]PIE: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 에 대한 에디터에서 플레이 시작 시간: 1.047
+[2019.09.05-14.32.14:245][273]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.09.05-14.32.15:746][448]PIE: Warning: WaterBomb_2.Sphere1: 'CollisionEnabled' (콜리전 활성화)를 'Query and Physics' (쿼리 및 피직스) 또는 'Physics only' (피직스 전용)으로 해야 충격량 추가 가능합니다. 
+[2019.09.05-14.32.15:746][448]LogParticles: Warning: GameplayStatics::SpawnEmitterAtLocation spawned potentially immortal particle system! /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.WorldInfo_0.ParticleSystemComponent_0 (/Game/WaterParticle/WaterExplosive.WaterExplosive) may stay in world despite never spawning particles after burst spawning is over.
+[2019.09.05-14.32.15:746][448]LogScript: Warning: K2Node_ActorBoundEvent_SelfActor 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	ThirdPersonExampleMap_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap_C_16
+	Function /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C:ExecuteUbergraph_ThirdPersonExampleMap:0027
+[2019.09.05-14.32.15:746][448]PIE: Error: 블루프린트 런타임 오류: "K2Node_ActorBoundEvent_SelfActor 프로퍼티를 읽으려던 중 None 에 접근했습니다.". 블루프린트:  ThirdPersonExampleMap 함수:  Execute Ubergraph Third Person Example Map 그래프: EventGraph 노드: DestroyActor
+[2019.09.05-14.32.15:754][449]PIE: Warning: WaterBomb_2.StaticMesh Shape_Sphere: 'CollisionEnabled' (콜리전 활성화)를 'Query and Physics' (쿼리 및 피직스) 또는 'Physics only' (피직스 전용)으로 해야 위치에 힘 추가 가능합니다. 
+[2019.09.05-14.32.15:754][449]LogParticles: Warning: GameplayStatics::SpawnEmitterAtLocation spawned potentially immortal particle system! /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.WorldInfo_0.ParticleSystemComponent_1 (/Game/WaterParticle/WaterExplosive.WaterExplosive) may stay in world despite never spawning particles after burst spawning is over.
+[2019.09.05-14.32.17:154][613]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.09.05-14.32.17:155][613]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.05-14.32.17:187][613]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.09.05-14.32.17:187][613]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.09.05-14.32.17:229][613]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.05-14.32.17:234][613]LogUObjectHash: Compacting FUObjectHashTables data took   2.77ms
+[2019.09.05-14.32.17:244][613]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.09.05-14.32.17:283][614]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2019.09.05-14.34.53:227][530]LogSlate: Window '메시지 로그' being destroyed
+[2019.09.05-14.34.53:232][530]LogSlate: Window '메시지 로그' being destroyed
+[2019.09.05-14.35.09:228][419]LogTemp: Repeating last play command: 선택된 뷰포트
+[2019.09.05-14.35.09:243][419]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.09.05-14.35.09:243][419]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.09.05-14.35.09:243][419]PIE: New page: PIE 세션: ThirdPersonExampleMap (2019. 9. 6. 오전 8:35:09)
+[2019.09.05-14.35.09:243][419]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.09.05-14.35.09:251][419]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007852s)
+[2019.09.05-14.35.09:251][419]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.09.05-14.35.09:252][419]LogPlayLevel: PIE: World Init took: (0.000664s)
+[2019.09.05-14.35.09:252][419]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.008699s)
+[2019.09.05-14.35.09:289][419]LogUObjectHash: Compacting FUObjectHashTables data took   2.95ms
+[2019.09.05-14.35.09:512][419]LogInit: XAudio2 using '헤드폰(PXC 550 Stereo)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2019.09.05-14.35.09:613][419]LogInit: FAudioDevice initialized.
+[2019.09.05-14.35.09:643][419]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.09.05-14.35.09:645][419]PIE: Warning: 유효하지 않은 시뮬레이션 옵션: (WaterBomb_2.Sphere1) 바디가 피직스 시뮬레이션을 하도록 설정되어 있으나 Collision Enabled 가 호환되지 않습니다.
+[2019.09.05-14.35.09:645][419]PIE: Warning: 유효하지 않은 시뮬레이션 옵션: (WaterBomb_2.Sphere1) 바디가 피직스 시뮬레이션을 하도록 설정되어 있으나 Collision Enabled 가 호환되지 않습니다.
+[2019.09.05-14.35.09:646][419]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2019.09.05-23.35.09
+[2019.09.05-14.35.09:647][419]LogWorld: Bringing up level for play took: 0.002640
+[2019.09.05-14.35.09:660][419]PIE: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 에 대한 에디터에서 플레이 시작 시간: 0.463
+[2019.09.05-14.35.09:660][419]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.09.05-14.35.10:771][547]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.09.05-14.35.10:771][547]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.05-14.35.10:800][547]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.09.05-14.35.10:800][547]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.09.05-14.35.10:843][547]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.05-14.35.10:848][547]LogUObjectHash: Compacting FUObjectHashTables data took   2.43ms
+[2019.09.05-14.35.10:885][548]LogPlayLevel: Display: Destroying online subsystem :Context_29
+[2019.09.05-14.35.12:012][663]LogSlate: Window '메시지 로그' being destroyed
+[2019.09.05-14.35.12:018][663]LogSlate: Window '메시지 로그' being destroyed
+[2019.09.05-14.35.22:922][887]LogTemp: Repeating last play command: 선택된 뷰포트
+[2019.09.05-14.35.22:935][887]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.09.05-14.35.22:935][887]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.09.05-14.35.22:936][887]PIE: New page: PIE 세션: ThirdPersonExampleMap (2019. 9. 6. 오전 8:35:22)
+[2019.09.05-14.35.22:936][887]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.09.05-14.35.22:944][887]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008600s)
+[2019.09.05-14.35.22:945][887]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.09.05-14.35.22:945][887]LogPlayLevel: PIE: World Init took: (0.000613s)
+[2019.09.05-14.35.22:945][887]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.009392s)
+[2019.09.05-14.35.22:984][887]LogUObjectHash: Compacting FUObjectHashTables data took   2.87ms
+[2019.09.05-14.35.23:193][887]LogInit: XAudio2 using '헤드폰(PXC 550 Stereo)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2019.09.05-14.35.23:266][887]LogInit: FAudioDevice initialized.
+[2019.09.05-14.35.23:298][887]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.09.05-14.35.23:299][887]PIE: Warning: 유효하지 않은 시뮬레이션 옵션: (WaterBomb_2.Sphere1) 바디가 피직스 시뮬레이션을 하도록 설정되어 있으나 Collision Enabled 가 호환되지 않습니다.
+[2019.09.05-14.35.23:299][887]PIE: Warning: 유효하지 않은 시뮬레이션 옵션: (WaterBomb_2.Sphere1) 바디가 피직스 시뮬레이션을 하도록 설정되어 있으나 Collision Enabled 가 호환되지 않습니다.
+[2019.09.05-14.35.23:301][887]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2019.09.05-23.35.23
+[2019.09.05-14.35.23:301][887]LogWorld: Bringing up level for play took: 0.002475
+[2019.09.05-14.35.23:315][887]PIE: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 에 대한 에디터에서 플레이 시작 시간: 0.118
+[2019.09.05-14.35.23:315][887]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.09.05-14.35.25:926][193]PIE: Warning: WaterBomb_2.StaticMesh Shape_Sphere: 'CollisionEnabled' (콜리전 활성화)를 'Query and Physics' (쿼리 및 피직스) 또는 'Physics only' (피직스 전용)으로 해야 위치에 충격량 추가 가능합니다. 
+[2019.09.05-14.35.25:926][193]LogParticles: Warning: GameplayStatics::SpawnEmitterAtLocation spawned potentially immortal particle system! /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.WorldInfo_0.ParticleSystemComponent_0 (/Game/WaterParticle/WaterExplosive.WaterExplosive) may stay in world despite never spawning particles after burst spawning is over.
+[2019.09.05-14.35.27:244][351]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.09.05-14.35.27:244][351]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.05-14.35.27:277][351]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.09.05-14.35.27:278][351]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.09.05-14.35.27:320][351]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.05-14.35.27:325][351]LogUObjectHash: Compacting FUObjectHashTables data took   2.47ms
+[2019.09.05-14.35.27:335][351]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.09.05-14.35.27:371][352]LogPlayLevel: Display: Destroying online subsystem :Context_30
+[2019.09.05-14.35.28:902][504]LogSlate: Window '메시지 로그' being destroyed
+[2019.09.05-14.35.28:914][504]LogSlate: Window '메시지 로그' being destroyed
+[2019.09.05-14.35.48:101][676]LogTemp: Repeating last play command: 선택된 뷰포트
+[2019.09.05-14.35.48:116][676]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.09.05-14.35.48:116][676]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.09.05-14.35.48:116][676]PIE: New page: PIE 세션: ThirdPersonExampleMap (2019. 9. 6. 오전 8:35:48)
+[2019.09.05-14.35.48:116][676]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.09.05-14.35.48:124][676]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008361s)
+[2019.09.05-14.35.48:125][676]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.09.05-14.35.48:125][676]LogPlayLevel: PIE: World Init took: (0.000629s)
+[2019.09.05-14.35.48:125][676]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.009178s)
+[2019.09.05-14.35.48:164][676]LogUObjectHash: Compacting FUObjectHashTables data took   2.75ms
+[2019.09.05-14.35.48:379][676]LogInit: XAudio2 using '헤드폰(PXC 550 Stereo)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2019.09.05-14.35.48:475][676]LogInit: FAudioDevice initialized.
+[2019.09.05-14.35.48:503][676]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.09.05-14.35.48:506][676]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2019.09.05-23.35.48
+[2019.09.05-14.35.48:506][676]LogWorld: Bringing up level for play took: 0.002532
+[2019.09.05-14.35.48:520][676]PIE: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 에 대한 에디터에서 플레이 시작 시간: 1.323
+[2019.09.05-14.35.48:521][676]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.09.05-14.35.48:959][721]LogParticles: Warning: GameplayStatics::SpawnEmitterAtLocation spawned potentially immortal particle system! /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.WorldInfo_0.ParticleSystemComponent_0 (/Game/WaterParticle/WaterExplosive.WaterExplosive) may stay in world despite never spawning particles after burst spawning is over.
+[2019.09.05-14.36.19:096][707]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.05-14.36.26:010][524]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.09.05-14.36.26:995][630]LogCascade: Quitting Cascade. FXSystem=0x000002AFB57607C0
+[2019.09.05-14.36.29:307][868]LogUObjectHash: Compacting FUObjectHashTables data took   5.44ms
+[2019.09.05-14.36.29:609][868]LogSavePackage: Moving '../../../../Workspace/git/project/ANT/Saved/ThirdPersonExampleMap2F2DABAA41875A886BCA9E9B551B9BAB.tmp' to '../../../../Workspace/git/project/ANT/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2019.09.05-14.36.35:129][512]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprint/WaterBomb.WaterBomb
+[2019.09.05-14.36.35:418][512]LogTabManager: Warning: Cannot spawn tab because no spawner is registered for 'CompilerResults'
+[2019.09.05-14.36.38:864][915]LogSlate: Window 'CompilerResults' being destroyed
+[2019.09.05-14.36.38:868][915]LogSlate: Window 'CompilerResults' being destroyed
+[2019.09.05-14.36.40:761][135]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprint/WaterBomb.WaterBomb
+[2019.09.05-14.36.46:086][724]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.09.05-14.36.46:086][724]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.05-14.36.46:115][724]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.09.05-14.36.46:115][724]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.09.05-14.36.46:149][724]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.05-14.36.46:156][724]LogUObjectHash: Compacting FUObjectHashTables data took   4.78ms
+[2019.09.05-14.36.46:215][727]LogPlayLevel: Display: Destroying online subsystem :Context_31
+[2019.09.05-14.37.07:684][131]Cmd: DELETE
+[2019.09.05-14.37.07:684][131]Cmd: ACTOR DELETE
+[2019.09.05-14.37.08:769][131]LogSlate: Window '메시지' being destroyed
+[2019.09.05-14.37.08:775][131]LogEditorActor: Deleted Actor: WaterBomb_C
+[2019.09.05-14.37.08:808][131]LogUObjectHash: Compacting FUObjectHashTables data took   2.97ms
+[2019.09.05-14.37.08:808][131]LogEditorActor: Deleted 1 Actors (1.119 secs)
+[2019.09.05-14.37.12:727][563]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.05-14.37.12:785][570]LogTemp: Repeating last play command: 선택된 뷰포트
+[2019.09.05-14.37.12:806][570]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.09.05-14.37.12:806][570]BlueprintLog: New page: 플레이 전 자동 컴파일
+[2019.09.05-14.37.12:806][570]LogPlayLevel: [PlayLevel] Compiling WaterBomb before play...
+[2019.09.05-14.37.12:982][570]LogUObjectHash: Compacting FUObjectHashTables data took   2.95ms
+[2019.09.05-14.37.12:982][570]LogPlayLevel: PlayLevel: Blueprint regeneration took 176 ms (1 blueprints)
+[2019.09.05-14.37.12:982][570]PIE: New page: PIE 세션: ThirdPersonExampleMap (2019. 9. 6. 오전 8:37:12)
+[2019.09.05-14.37.12:982][570]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.09.05-14.37.12:989][570]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007243s)
+[2019.09.05-14.37.12:990][570]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.09.05-14.37.12:990][570]LogPlayLevel: PIE: World Init took: (0.000487s)
+[2019.09.05-14.37.12:990][570]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.007884s)
+[2019.09.05-14.37.13:019][570]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2019.09.05-14.37.13:285][570]LogInit: XAudio2 using '헤드폰(PXC 550 Stereo)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2019.09.05-14.37.13:412][570]LogInit: FAudioDevice initialized.
+[2019.09.05-14.37.13:443][570]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.09.05-14.37.13:445][570]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2019.09.05-23.37.13
+[2019.09.05-14.37.13:446][570]LogWorld: Bringing up level for play took: 0.001729
+[2019.09.05-14.37.13:459][570]PIE: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 에 대한 에디터에서 플레이 시작 시간: 0.262
+[2019.09.05-14.37.13:459][570]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.09.05-14.37.15:168][769]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.09.05-14.37.15:169][769]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.05-14.37.15:197][769]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.09.05-14.37.15:197][769]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.09.05-14.37.15:231][769]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.05-14.37.15:235][769]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2019.09.05-14.37.15:278][771]LogPlayLevel: Display: Destroying online subsystem :Context_35
+[2019.09.05-14.37.15:835][835]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.09.05-14.37.15:953][835]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2019.09.05-14.37.15:956][835]LogBlueprint: Warning: [Compiler PersistentLevel.ThirdPersonExampleMap] OnActorBeginOverlap (없음)  : 더이상 존재하지 않는 액터를 가리키고 있습니다. 붙어있는 로직이 절대 실행되지 않을 것입니다.
+[2019.09.05-14.37.15:957][835]LogBlueprint: Warning: [Compiler PersistentLevel.ThirdPersonExampleMap] OnActorHit (없음)  : 더이상 존재하지 않는 액터를 가리키고 있습니다. 붙어있는 로직이 절대 실행되지 않을 것입니다.
+[2019.09.05-14.37.15:957][835]LogBlueprint: Warning: [Compiler PersistentLevel.ThirdPersonExampleMap] Unknown  노드가 유효한 레벨 액터를 참조하고 있지 않습니다.
+[2019.09.05-14.37.15:958][835]LogBlueprint: Error: [Compiler PersistentLevel.ThirdPersonExampleMap] 바인딩된  OnActorBeginOverlap (없음)  이벤트 노드에 대한 오브젝트를 찾을 수 없습니다.
+[2019.09.05-14.37.15:958][835]LogBlueprint: Error: [Compiler PersistentLevel.ThirdPersonExampleMap] 바인딩된  OnActorHit (없음)  이벤트 노드에 대한 오브젝트를 찾을 수 없습니다.
+[2019.09.05-14.37.15:959][835]LogBlueprint: Warning: [Compiler PersistentLevel.ThirdPersonExampleMap] [6549.55] PersistentLevel.ThirdPersonExampleMap 컴파일에 실패했습니다. 치명적 오류 2 회, 경고 3 회, [소요시간 3 ms] (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap)
+[2019.09.05-14.37.16:169][835]LogSavePackage: Moving '../../../../Workspace/git/project/ANT/Saved/ThirdPersonExampleMap4C69E082491353D488C22C9DF213E9A6.tmp' to '../../../../Workspace/git/project/ANT/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2019.09.05-14.37.23:031][631]BlueprintLog: New page: WaterBomb 컴파일
+[2019.09.05-14.37.23:195][631]LogUObjectHash: Compacting FUObjectHashTables data took   2.81ms
+[2019.09.05-14.37.24:471][776]LogTemp: Repeating last play command: 선택된 뷰포트
+[2019.09.05-14.37.24:487][776]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.09.05-14.37.24:487][776]BlueprintLog: New page: 플레이 전 자동 컴파일
+[2019.09.05-14.37.24:487][776]LogPlayLevel: [PlayLevel] Compiling ThirdPersonExampleMap before play...
+[2019.09.05-14.37.24:488][776]LogBlueprint: Warning: [Compiler PersistentLevel.ThirdPersonExampleMap] OnActorBeginOverlap (없음)  : 더이상 존재하지 않는 액터를 가리키고 있습니다. 붙어있는 로직이 절대 실행되지 않을 것입니다.
+[2019.09.05-14.37.24:488][776]LogBlueprint: Warning: [Compiler PersistentLevel.ThirdPersonExampleMap] OnActorHit (없음)  : 더이상 존재하지 않는 액터를 가리키고 있습니다. 붙어있는 로직이 절대 실행되지 않을 것입니다.
+[2019.09.05-14.37.24:489][776]LogBlueprint: Warning: [Compiler PersistentLevel.ThirdPersonExampleMap] Unknown  노드가 유효한 레벨 액터를 참조하고 있지 않습니다.
+[2019.09.05-14.37.24:489][776]LogBlueprint: Error: [Compiler PersistentLevel.ThirdPersonExampleMap] 바인딩된  OnActorBeginOverlap (없음)  이벤트 노드에 대한 오브젝트를 찾을 수 없습니다.
+[2019.09.05-14.37.24:489][776]LogBlueprint: Error: [Compiler PersistentLevel.ThirdPersonExampleMap] 바인딩된  OnActorHit (없음)  이벤트 노드에 대한 오브젝트를 찾을 수 없습니다.
+[2019.09.05-14.37.24:490][776]LogBlueprint: Warning: [Compiler PersistentLevel.ThirdPersonExampleMap] [6558.08] PersistentLevel.ThirdPersonExampleMap 컴파일에 실패했습니다. 치명적 오류 2 회, 경고 3 회, [소요시간 3 ms] (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap)
+[2019.09.05-14.37.24:653][776]LogUObjectHash: Compacting FUObjectHashTables data took   3.10ms
+[2019.09.05-14.37.24:653][776]LogPlayLevel: PlayLevel: Blueprint regeneration took 166 ms (1 blueprints)
+[2019.09.05-14.37.24:653][776]BlueprintLog: ThirdPersonExampleMap 블루프린트 컴파일에 실패했습니다.
+[2019.09.05-14.37.25:772][776]LogSlate: Window '메시지' being destroyed
+[2019.09.05-14.37.25:776][776]PIE: New page: PIE 세션: ThirdPersonExampleMap (2019. 9. 6. 오전 8:37:25)
+[2019.09.05-14.37.25:776][776]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.09.05-14.37.25:784][776]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007345s)
+[2019.09.05-14.37.25:784][776]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.09.05-14.37.25:784][776]LogPlayLevel: PIE: World Init took: (0.000464s)
+[2019.09.05-14.37.25:784][776]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.007971s)
+[2019.09.05-14.37.25:815][776]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2019.09.05-14.37.26:010][776]LogInit: XAudio2 using '헤드폰(PXC 550 Stereo)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2019.09.05-14.37.26:097][776]LogInit: FAudioDevice initialized.
+[2019.09.05-14.37.26:124][776]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.09.05-14.37.26:126][776]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2019.09.05-23.37.26
+[2019.09.05-14.37.26:127][776]LogWorld: Bringing up level for play took: 0.002042
+[2019.09.05-14.37.26:140][776]PIE: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 에 대한 에디터에서 플레이 시작 시간: 0.943
+[2019.09.05-14.37.26:140][776]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.09.05-14.37.28:306][ 31]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.09.05-14.37.28:306][ 31]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.05-14.37.28:339][ 31]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.09.05-14.37.28:339][ 31]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.09.05-14.37.28:372][ 31]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.05-14.37.28:376][ 31]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2019.09.05-14.37.28:419][ 33]LogPlayLevel: Display: Destroying online subsystem :Context_36
+[2019.09.05-14.37.28:982][ 93]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.05-14.37.36:949][996]LogTemp: Repeating last play command: 선택된 뷰포트
+[2019.09.05-14.37.36:962][996]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.09.05-14.37.36:962][996]BlueprintLog: New page: 플레이 전 자동 컴파일
+[2019.09.05-14.37.36:963][996]LogPlayLevel: [PlayLevel] Compiling WaterBomb before play...
+[2019.09.05-14.37.37:104][996]LogPlayLevel: [PlayLevel] Compiling ThirdPersonExampleMap before play...
+[2019.09.05-14.37.37:105][996]LogBlueprint: Warning: [Compiler PersistentLevel.ThirdPersonExampleMap] OnActorBeginOverlap (없음)  : 더이상 존재하지 않는 액터를 가리키고 있습니다. 붙어있는 로직이 절대 실행되지 않을 것입니다.
+[2019.09.05-14.37.37:105][996]LogBlueprint: Warning: [Compiler PersistentLevel.ThirdPersonExampleMap] OnActorHit (없음)  : 더이상 존재하지 않는 액터를 가리키고 있습니다. 붙어있는 로직이 절대 실행되지 않을 것입니다.
+[2019.09.05-14.37.37:106][996]LogBlueprint: Warning: [Compiler PersistentLevel.ThirdPersonExampleMap] Unknown  노드가 유효한 레벨 액터를 참조하고 있지 않습니다.
+[2019.09.05-14.37.37:106][996]LogBlueprint: Error: [Compiler PersistentLevel.ThirdPersonExampleMap] 바인딩된  OnActorBeginOverlap (없음)  이벤트 노드에 대한 오브젝트를 찾을 수 없습니다.
+[2019.09.05-14.37.37:106][996]LogBlueprint: Error: [Compiler PersistentLevel.ThirdPersonExampleMap] 바인딩된  OnActorHit (없음)  이벤트 노드에 대한 오브젝트를 찾을 수 없습니다.
+[2019.09.05-14.37.37:107][996]LogBlueprint: Warning: [Compiler PersistentLevel.ThirdPersonExampleMap] [6570.69] PersistentLevel.ThirdPersonExampleMap 컴파일에 실패했습니다. 치명적 오류 2 회, 경고 3 회, [소요시간 2 ms] (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap)
+[2019.09.05-14.37.37:295][996]LogUObjectHash: Compacting FUObjectHashTables data took   3.72ms
+[2019.09.05-14.37.37:295][996]LogPlayLevel: PlayLevel: Blueprint regeneration took 332 ms (2 blueprints)
+[2019.09.05-14.37.37:295][996]BlueprintLog: ThirdPersonExampleMap 블루프린트 컴파일에 실패했습니다.
+[2019.09.05-14.37.38:080][996]LogSlate: Window '메시지' being destroyed
+[2019.09.05-14.37.38:084][996]PIE: New page: PIE 세션: ThirdPersonExampleMap (2019. 9. 6. 오전 8:37:38)
+[2019.09.05-14.37.38:084][996]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.09.05-14.37.38:092][996]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007555s)
+[2019.09.05-14.37.38:092][996]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.09.05-14.37.38:093][996]LogPlayLevel: PIE: World Init took: (0.000515s)
+[2019.09.05-14.37.38:093][996]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.008244s)
+[2019.09.05-14.37.38:122][996]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2019.09.05-14.37.38:326][996]LogInit: XAudio2 using '헤드폰(PXC 550 Stereo)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2019.09.05-14.37.38:405][996]LogInit: FAudioDevice initialized.
+[2019.09.05-14.37.38:435][996]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.09.05-14.37.38:438][996]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2019.09.05-23.37.38
+[2019.09.05-14.37.38:438][996]LogWorld: Bringing up level for play took: 0.002379
+[2019.09.05-14.37.38:451][996]PIE: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 에 대한 에디터에서 플레이 시작 시간: 1.254
+[2019.09.05-14.37.38:451][996]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.09.05-14.37.40:565][244]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.09.05-14.37.40:566][244]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.05-14.37.40:595][244]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.09.05-14.37.40:596][244]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.09.05-14.37.40:632][244]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.05-14.37.40:637][244]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
+[2019.09.05-14.37.40:690][246]LogPlayLevel: Display: Destroying online subsystem :Context_37
+[2019.09.05-14.37.41:098][283]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.05-14.38.24:687][380]LogAssetEditorManager: Opening Asset editor for LevelScriptBlueprint /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap
+[2019.09.05-14.38.31:980][206]LogUObjectHash: Compacting FUObjectHashTables data took   3.08ms
+[2019.09.05-14.38.31:983][206]LogBlueprint: Warning: [Compiler PersistentLevel.ThirdPersonExampleMap] Unknown  노드가 유효한 레벨 액터를 참조하고 있지 않습니다.
+[2019.09.05-14.38.31:983][206]LogBlueprint: Warning: [Compiler PersistentLevel.ThirdPersonExampleMap] [6625.57] PersistentLevel.ThirdPersonExampleMap 컴파일에 성공했습니다만, 경고가 1 회 있습니다. [소요시간 1 ms] (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap)
+[2019.09.05-14.38.32:186][206]LogSavePackage: Moving '../../../../Workspace/git/project/ANT/Saved/ThirdPersonExampleMapB5A0982E4786A84F560D209A246F3958.tmp' to '../../../../Workspace/git/project/ANT/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2019.09.05-14.38.32:225][206]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.282
+[2019.09.05-14.38.52:105][535]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/WaterBomb" FILE="../../../../Workspace/git/project/ANT/Content/Blueprint/WaterBomb.uasset" SILENT=true
+[2019.09.05-14.38.52:136][535]LogSavePackage: Moving '../../../../Workspace/git/project/ANT/Saved/WaterBomb5B5454834A0674E4C9CE5FA43A0B5B36.tmp' to '../../../../Workspace/git/project/ANT/Content/Blueprint/WaterBomb.uasset'
+[2019.09.05-14.38.55:877][964]LogAssetEditorManager: Opening Asset editor for LevelScriptBlueprint /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap
+[2019.09.05-14.39.01:110][542]LogUObjectHash: Compacting FUObjectHashTables data took   3.51ms
+[2019.09.05-14.39.01:313][542]LogSavePackage: Moving '../../../../Workspace/git/project/ANT/Saved/ThirdPersonExampleMap5D839B6F49E275B64ABF1591BF249370.tmp' to '../../../../Workspace/git/project/ANT/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2019.09.05-14.39.01:354][542]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.284
+[2019.09.05-14.39.32:585][220]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/WaterBomb" FILE="../../../../Workspace/git/project/ANT/Content/Blueprint/WaterBomb.uasset" SILENT=true
+[2019.09.05-14.39.32:609][220]LogSavePackage: Moving '../../../../Workspace/git/project/ANT/Saved/WaterBomb092C77AC4787EA95417F7B98D24FA7E1.tmp' to '../../../../Workspace/git/project/ANT/Content/Blueprint/WaterBomb.uasset'
+[2019.09.05-14.39.34:787][469]LogTemp: Repeating last play command: 선택된 뷰포트
+[2019.09.05-14.39.34:811][469]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.09.05-14.39.34:811][469]BlueprintLog: New page: 플레이 전 자동 컴파일
+[2019.09.05-14.39.34:812][469]LogPlayLevel: [PlayLevel] Compiling WaterBomb before play...
+[2019.09.05-14.39.34:992][469]LogUObjectHash: Compacting FUObjectHashTables data took   3.09ms
+[2019.09.05-14.39.34:993][469]LogPlayLevel: PlayLevel: Blueprint regeneration took 181 ms (1 blueprints)
+[2019.09.05-14.39.34:993][469]PIE: New page: PIE 세션: ThirdPersonExampleMap (2019. 9. 6. 오전 8:39:34)
+[2019.09.05-14.39.34:993][469]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.09.05-14.39.35:000][469]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006925s)
+[2019.09.05-14.39.35:000][469]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.09.05-14.39.35:000][469]LogPlayLevel: PIE: World Init took: (0.000511s)
+[2019.09.05-14.39.35:000][469]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.007607s)
+[2019.09.05-14.39.35:033][469]LogUObjectHash: Compacting FUObjectHashTables data took   2.87ms
+[2019.09.05-14.39.35:308][469]LogInit: XAudio2 using '헤드폰(PXC 550 Stereo)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2019.09.05-14.39.35:400][469]LogInit: FAudioDevice initialized.
+[2019.09.05-14.39.35:430][469]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.09.05-14.39.35:431][469]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2019.09.05-23.39.35
+[2019.09.05-14.39.35:432][469]LogWorld: Bringing up level for play took: 0.001546
+[2019.09.05-14.39.35:445][469]PIE: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 에 대한 에디터에서 플레이 시작 시간: 0.248
+[2019.09.05-14.39.35:445][469]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.09.05-14.39.35:936][521]LogParticles: Warning: GameplayStatics::SpawnEmitterAtLocation spawned potentially immortal particle system! /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.WorldInfo_0.ParticleSystemComponent_0 (/Game/WaterParticle/WaterExplosive.WaterExplosive) may stay in world despite never spawning particles after burst spawning is over.
+[2019.09.05-14.39.37:800][744]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.09.05-14.39.37:801][744]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.05-14.39.37:827][744]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.09.05-14.39.37:828][744]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.09.05-14.39.37:862][744]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.05-14.39.37:866][744]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2019.09.05-14.39.37:923][747]LogPlayLevel: Display: Destroying online subsystem :Context_41
+[2019.09.05-14.39.42:803][299]LogTemp: Repeating last play command: 선택된 뷰포트
+[2019.09.05-14.39.42:824][299]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.09.05-14.39.42:824][299]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.09.05-14.39.42:824][299]PIE: New page: PIE 세션: ThirdPersonExampleMap (2019. 9. 6. 오전 8:39:42)
+[2019.09.05-14.39.42:824][299]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.09.05-14.39.42:832][299]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007431s)
+[2019.09.05-14.39.42:832][299]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.09.05-14.39.42:833][299]LogPlayLevel: PIE: World Init took: (0.000535s)
+[2019.09.05-14.39.42:833][299]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.008170s)
+[2019.09.05-14.39.42:861][299]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2019.09.05-14.39.43:082][299]LogInit: XAudio2 using '헤드폰(PXC 550 Stereo)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2019.09.05-14.39.43:175][299]LogInit: FAudioDevice initialized.
+[2019.09.05-14.39.43:203][299]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.09.05-14.39.43:206][299]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2019.09.05-23.39.43
+[2019.09.05-14.39.43:206][299]LogWorld: Bringing up level for play took: 0.002009
+[2019.09.05-14.39.43:219][299]PIE: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 에 대한 에디터에서 플레이 시작 시간: 0.023
+[2019.09.05-14.39.43:219][299]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.09.05-14.39.43:695][348]LogParticles: Warning: GameplayStatics::SpawnEmitterAtLocation spawned potentially immortal particle system! /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.WorldInfo_0.ParticleSystemComponent_0 (/Game/WaterParticle/WaterExplosive.WaterExplosive) may stay in world despite never spawning particles after burst spawning is over.
+[2019.09.05-14.39.45:332][539]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.09.05-14.39.45:333][539]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.05-14.39.45:364][539]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.09.05-14.39.45:364][539]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.09.05-14.39.45:397][539]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.05-14.39.45:401][539]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2019.09.05-14.39.45:452][542]LogPlayLevel: Display: Destroying online subsystem :Context_42
+[2019.09.05-14.39.47:172][717]LogEditorViewport: Clicking on Actor (LMB): WaterBomb_C (WaterBomb)
+[2019.09.05-14.39.49:074][938]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.05-14.39.49:157][948]LogTemp: Repeating last play command: 선택된 뷰포트
+[2019.09.05-14.39.49:173][948]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.09.05-14.39.49:173][948]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.09.05-14.39.49:173][948]PIE: New page: PIE 세션: ThirdPersonExampleMap (2019. 9. 6. 오전 8:39:49)
+[2019.09.05-14.39.49:173][948]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.09.05-14.39.49:180][948]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006541s)
+[2019.09.05-14.39.49:180][948]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.09.05-14.39.49:180][948]LogPlayLevel: PIE: World Init took: (0.000501s)
+[2019.09.05-14.39.49:180][948]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.007205s)
+[2019.09.05-14.39.49:214][948]LogUObjectHash: Compacting FUObjectHashTables data took   2.10ms
+[2019.09.05-14.39.49:414][948]LogInit: XAudio2 using '헤드폰(PXC 550 Stereo)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2019.09.05-14.39.49:513][948]LogInit: FAudioDevice initialized.
+[2019.09.05-14.39.49:543][948]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.09.05-14.39.49:545][948]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2019.09.05-23.39.49
+[2019.09.05-14.39.49:545][948]LogWorld: Bringing up level for play took: 0.001725
+[2019.09.05-14.39.49:558][948]PIE: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 에 대한 에디터에서 플레이 시작 시간: 0.36
+[2019.09.05-14.39.49:558][948]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.09.05-14.39.50:494][ 56]LogParticles: Warning: GameplayStatics::SpawnEmitterAtLocation spawned potentially immortal particle system! /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.WorldInfo_0.ParticleSystemComponent_0 (/Game/WaterParticle/WaterExplosive.WaterExplosive) may stay in world despite never spawning particles after burst spawning is over.
+[2019.09.05-14.39.51:936][229]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.09.05-14.39.51:936][229]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.05-14.39.51:967][229]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.09.05-14.39.51:967][229]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.09.05-14.39.52:000][229]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.05-14.39.52:004][229]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2019.09.05-14.39.52:052][231]LogPlayLevel: Display: Destroying online subsystem :Context_43
+[2019.09.05-14.39.52:550][276]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.05-14.40.02:915][469]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/WaterBomb" FILE="../../../../Workspace/git/project/ANT/Content/Blueprint/WaterBomb.uasset" SILENT=true
+[2019.09.05-14.40.02:941][469]LogSavePackage: Moving '../../../../Workspace/git/project/ANT/Saved/WaterBomb037C1297417F1504D142538111602E04.tmp' to '../../../../Workspace/git/project/ANT/Content/Blueprint/WaterBomb.uasset'
+[2019.09.05-14.40.04:496][646]LogTemp: Repeating last play command: 선택된 뷰포트
+[2019.09.05-14.40.04:516][646]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.09.05-14.40.04:516][646]BlueprintLog: New page: 플레이 전 자동 컴파일
+[2019.09.05-14.40.04:516][646]LogPlayLevel: [PlayLevel] Compiling WaterBomb before play...
+[2019.09.05-14.40.04:690][646]LogUObjectHash: Compacting FUObjectHashTables data took   2.87ms
+[2019.09.05-14.40.04:690][646]LogPlayLevel: PlayLevel: Blueprint regeneration took 174 ms (1 blueprints)
+[2019.09.05-14.40.04:690][646]PIE: New page: PIE 세션: ThirdPersonExampleMap (2019. 9. 6. 오전 8:40:04)
+[2019.09.05-14.40.04:690][646]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.09.05-14.40.04:698][646]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007534s)
+[2019.09.05-14.40.04:698][646]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.09.05-14.40.04:698][646]LogPlayLevel: PIE: World Init took: (0.000478s)
+[2019.09.05-14.40.04:698][646]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.008173s)
+[2019.09.05-14.40.04:728][646]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2019.09.05-14.40.04:922][646]LogInit: XAudio2 using '헤드폰(PXC 550 Stereo)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2019.09.05-14.40.04:991][646]LogInit: FAudioDevice initialized.
+[2019.09.05-14.40.05:022][646]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.09.05-14.40.05:023][646]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2019.09.05-23.40.05
+[2019.09.05-14.40.05:024][646]LogWorld: Bringing up level for play took: 0.001495
+[2019.09.05-14.40.05:037][646]PIE: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 에 대한 에디터에서 플레이 시작 시간: -0.16
+[2019.09.05-14.40.05:037][646]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.09.05-14.40.05:978][754]LogParticles: Warning: GameplayStatics::SpawnEmitterAtLocation spawned potentially immortal particle system! /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.WorldInfo_0.ParticleSystemComponent_0 (/Game/WaterParticle/WaterExplosive.WaterExplosive) may stay in world despite never spawning particles after burst spawning is over.
+[2019.09.05-14.40.07:837][977]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.09.05-14.40.07:837][977]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.05-14.40.07:868][977]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.09.05-14.40.07:869][977]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.09.05-14.40.07:897][977]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.05-14.40.07:901][977]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2019.09.05-14.40.07:973][979]LogPlayLevel: Display: Destroying online subsystem :Context_44
+[2019.09.05-14.40.08:557][ 48]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.09.05-14.40.08:615][ 48]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.09.05-14.40.08:658][ 48]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2019.09.05-14.40.08:869][ 48]LogSavePackage: Moving '../../../../Workspace/git/project/ANT/Saved/ThirdPersonExampleMap5F252F20498B2B96DFCF1B881271E25A.tmp' to '../../../../Workspace/git/project/ANT/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2019.09.05-14.40.10:898][104]LogSlate: FSceneViewport::OnFocusLost() reason 0
