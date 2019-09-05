@@ -13,5 +13,16 @@ UCLASS()
 class ANT_API AMyGoalZone : public ATriggerBox
 {
 	GENERATED_BODY()
-	
+protected:
+
+	virtual void BeginPlay() override;
+
+public:
+	AMyGoalZone();
+
+	UFUNCTION()
+		void OnOverlapBegin(class AActor* OverlapedActor, class AActor* OtherActor);
+
+	UFUNCTION()
+		void OnOverlapEnd(class AActor* OverlapedActor, class AActor* OtherActor);
 };

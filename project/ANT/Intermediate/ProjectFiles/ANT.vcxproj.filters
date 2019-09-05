@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\ANT.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{2CCDF062-10E0-4059-93E4-38B12F38539A}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\ANT.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\ANTEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{DFF79ED0-AD63-46EE-87A2-91B470728BA5}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\ANT">
+      <UniqueIdentifier>{1145365A-82D1-4605-A8A0-F53FDD78DC1D}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\ANT\ANT.Build.cs">
+      <Filter>Source\ANT</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\ANT\ANT.cpp">
+      <Filter>Source\ANT</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ANT\ANT.h">
+      <Filter>Source\ANT</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\ANT\PlayerAnt.cpp">
+      <Filter>Source\ANT</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ANT\PlayerAnt.h">
+      <Filter>Source\ANT</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\..\Source\ANT\MyCollectionZone.h">
+      <Filter>Source\ANT</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\ANT\MyGoalZone.h">
+      <Filter>Source\ANT</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\..\Source\ANT\MyCollectionZone.cpp">
+      <Filter>Source\ANT</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\ANT\MyGoalZone.cpp">
+      <Filter>Source\ANT</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
