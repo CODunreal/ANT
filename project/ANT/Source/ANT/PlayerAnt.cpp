@@ -14,6 +14,9 @@ APlayerAnt::APlayerAnt()
 	PrimaryActorTick.bCanEverTick = true;
 
 	this->AutoPossessPlayer = EAutoReceiveInput::Player0;
+	this->bUseControllerRotationYaw = false;
+	this->bUseControllerRotationRoll = false;
+	this->bUseControllerRotationPitch = false;
 
 	this->OurSpringArm = CreateDefaultSubobject<USpringArmComponent>(TEXT("FollowArm"));
 	{
@@ -35,6 +38,9 @@ APlayerAnt::APlayerAnt()
 		this->OurCollectionMesh->SetupAttachment(RootComponent);
 		this->OurCollectionMesh->bVisible = false;
 	}
+	//this->Tags.AddDefaulted(1);
+	this->Tags.AddUnique("Player");
+
 }
 
 // Called when the game starts or when spawned
