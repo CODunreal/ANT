@@ -1,3 +1,0 @@
-E:\Unreal\Workspace\git\project\ANT\Source\ANT\ANT.Build.cs
-E:\Unreal\Workspace\git\project\ANT\Source\ANT.Target.cs
-E:\Unreal\Workspace\git\project\ANT\Source\ANTEditor.Target.cs
