@@ -15,13 +15,13 @@ public:
 	APlayerAnt();
 
 	UPROPERTY(EditAnywhere)
-	float MoveSpeed = 1.0f;
+	float MoveSpeed = 10.0f;
 
 	UPROPERTY(EditAnywhere)
-	float CameraPitchSpeed = 1.0f;
+	float CameraPitchSpeed = 3.0f;
 
 	UPROPERTY(EditAnywhere)
-	float CameraYawSpeed = 1.0f;
+	float CameraYawSpeed = 3.0f;
 
 	UPROPERTY(EditAnywhere)
 	class UStaticMeshComponent* OurStaticMesh = nullptr;
