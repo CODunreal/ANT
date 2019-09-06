@@ -24,9 +24,6 @@ public:
 	float CameraYawSpeed = 3.0f;
 
 	UPROPERTY(EditAnywhere)
-	class UStaticMeshComponent* OurStaticMesh = nullptr;
-
-	UPROPERTY(EditAnywhere)
 	class USpringArmComponent* OurSpringArm = nullptr;
 
 	UPROPERTY(EditAnywhere)

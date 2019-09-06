@@ -6,6 +6,8 @@
 #include "Engine/Classes/GameFramework/SpringArmComponent.h"
 #include "Runtime/Engine/Classes/Components/InputComponent.h"
 #include "Runtime/Engine/Classes/Components/StaticMeshComponent.h"
+#include "Runtime/Engine/Classes/Components/CapsuleComponent.h"
+#include "Runtime/Engine/Classes/Components/SkeletalMeshComponent.h"
 
 // Sets default values
 APlayerAnt::APlayerAnt()
@@ -18,20 +20,22 @@ APlayerAnt::APlayerAnt()
 	this->bUseControllerRotationRoll = false;
 	this->bUseControllerRotationPitch = false;
 
+	this->GetCapsuleComponent()->SetCapsuleHalfHeight(34);
+	this->GetCapsuleComponent()->SetCapsuleRadius(34);
+
+	this->GetMesh()->SetRelativeLocation(FVector(0, 0, -55));
+	this->GetMesh()->SetRelativeScale3D(FVector(0.25f, 0.25f, 0.25f));
+
 	this->OurSpringArm = CreateDefaultSubobject<USpringArmComponent>(TEXT("FollowArm"));
 	{
 		this->OurSpringArm->SetupAttachment(RootComponent);
-		this->OurSpringArm->SetRelativeLocationAndRotation(FVector(0.0f, 0.0f, 50.0f), FRotator(-60.0f, 0.0f, 0.0f));
-		this->OurSpringArm->TargetArmLength = 400.f;
+		this->OurSpringArm->SetRelativeLocationAndRotation(FVector(0.0f, 0.0f, 0.0f), FRotator(338.0f, 0.0f, 0.0f));
+		this->OurSpringArm->TargetArmLength = 170.f;
 		this->OurSpringArm->bEnableCameraLag = true;
 	}
 	this->OurCamera = CreateDefaultSubobject<UCameraComponent>(TEXT("FollowCamera"));
 	{
 		this->OurCamera->SetupAttachment(OurSpringArm, USpringArmComponent::SocketName);
-	}
-	this->OurStaticMesh = CreateDefaultSubobject<UStaticMeshComponent>(TEXT("StaticMesh"));
-	{
-		this->OurStaticMesh->SetupAttachment(RootComponent);
 	}
 	this->OurCollectionMesh = CreateDefaultSubobject<UStaticMeshComponent>(TEXT("CollectionMesh"));
 	{
