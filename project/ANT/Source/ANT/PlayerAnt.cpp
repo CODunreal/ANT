@@ -75,11 +75,13 @@ void APlayerAnt::Tick(float DeltaTime)
 			NewRotation.Yaw += cameraInput.X;
 			if (this->OurCamera != nullptr)
 			{
+				auto t = this->OurCamera->GetRelativeTransform().GetRotation().Rotator();
+				this->OurCamera->SetRelativeRotation(FRotator(FMath::Clamp(t.Pitch + cameraInput.Y, CameraPitchMin, CameraPitchMax), 0, 0));
+				//UE_LOG(LogClass, Display, TEXT("Rotation %f"), t + cameraInput.Y);
 				this->OurCamera->AddLocalRotation(FRotator(cameraInput.Y, 0, 0));
 			}
 			//UE_LOG(LogClass, Display, TEXT("CameraInput : %d , %d"), cameraInput.X, cameraInput.Y);
 			SetActorRotation(NewRotation);
-
 
 		}
 	}
