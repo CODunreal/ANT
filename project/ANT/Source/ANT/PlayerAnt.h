@@ -24,6 +24,12 @@ public:
 	float CameraYawSpeed = 3.0f;
 
 	UPROPERTY(EditAnywhere)
+	float CameraPitchMax= 60.0f;
+
+	UPROPERTY(EditAnywhere)
+	float CameraPitchMin = -30.0f;
+
+	UPROPERTY(EditAnywhere)
 	class USpringArmComponent* OurSpringArm = nullptr;
 
 	UPROPERTY(EditAnywhere)

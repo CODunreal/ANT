@@ -19,10 +19,14 @@ protected:
 
 public:
 	AMyGoalZone();
+	UPROPERTY(VisibleAnywhere)
+		bool GameClear = false;
 
 	UFUNCTION()
 		void OnOverlapBegin(class AActor* OverlapedActor, class AActor* OtherActor);
 
 	UFUNCTION()
 		void OnOverlapEnd(class AActor* OverlapedActor, class AActor* OtherActor);
+	UFUNCTION()
+		bool isGameClear() const;
 };
