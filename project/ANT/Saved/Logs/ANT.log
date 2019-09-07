@@ -1420,3 +1420,21 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.09.04-16.25.10:332][813]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/pause" FILE="../../../../../../Users/nemon/Desktop/NEMONOM/P/COD ANT/ANT/project/ANT/Content/pause.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
 [2019.09.04-16.25.10:387][813]LogUObjectHash: Compacting FUObjectHashTables data took   6.51ms
 [2019.09.04-16.25.10:581][813]LogSavePackage: Moving '../../../../../../Users/nemon/Desktop/NEMONOM/P/COD ANT/ANT/project/ANT/Saved/pauseD245646F42B64FA680079687D7DF09E1.tmp' to '../../../../../../Users/nemon/Desktop/NEMONOM/P/COD ANT/ANT/project/ANT/Content/pause.umap'
+[2019.09.04-16.59.59:123][629]LogUObjectHash: Compacting FUObjectHashTables data took   3.40ms
+[2019.09.04-16.59.59:378][629]LogSlate: Window 'ANT - Unreal Editor' being destroyed
+[2019.09.04-17.00.00:101][630]Cmd: QUIT_EDITOR
+[2019.09.04-17.00.01:251][630]LogWindowsTextInputMethodSystem: Display: IME system now activated using TSF (Microsoft 입력기).
+[2019.09.04-17.00.01:476][630]LogExit: Preparing to exit.
+[2019.09.04-17.00.04:300][630]LogExit: Editor shut down
+[2019.09.04-17.00.04:301][630]LogExit: Transaction tracking system shut down
+[2019.09.04-17.00.07:627][630]LogExit: Object subsystem successfully closed.
+[2019.09.04-17.00.08:825][630]LogShaderCompilers: Display: Shaders left to compile 0
+[2019.09.04-17.00.08:949][630]LogD3D11RHI: Shutdown
+[2019.09.04-17.00.08:949][630]LogD3D11RHI: CleanupD3DDevice
+[2019.09.04-17.00.09:177][630]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2019.09.04-17.00.09:177][630]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2019.09.04-17.00.09:243][630]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2019.09.04-17.00.09:243][630]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2019.09.04-17.00.09:243][630]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2019.09.04-17.00.09:243][630]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2019.09.04-17.00.09:474][630]LogD3D11RHI: ~FD3D11DynamicRHI
