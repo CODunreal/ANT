@@ -15,6 +15,7 @@ AMyGoalZone::AMyGoalZone()
 void AMyGoalZone::BeginPlay()
 {
 	Super::BeginPlay();
+	this->GameClear = false;
 }
 void AMyGoalZone::OnOverlapBegin(AActor* OverlapedActor, AActor* OtherActor)
 {
@@ -23,7 +24,9 @@ void AMyGoalZone::OnOverlapBegin(AActor* OverlapedActor, AActor* OtherActor)
 		if (dynamic_cast<APlayerAnt*>(OtherActor)->hasCollection)
 		{
 			//GEngine->AddOnScreenDebugMessage(-1, 1.5, FColor::Red, "게임 종료 트리거");
+			this->GameClear = true;
 			UE_LOG(LogClass, Display, TEXT("Game End!"));
+
 		}
 		else
 		{
@@ -40,4 +43,9 @@ void AMyGoalZone::OnOverlapBegin(AActor* OverlapedActor, AActor* OtherActor)
 
 void AMyGoalZone::OnOverlapEnd(AActor* OverlapedActor, AActor* OtherActor)
 {
+}
+
+bool AMyGoalZone::isGameClear() const
+{
+	return	this->GameClear;
 }
