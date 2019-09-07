@@ -19,7 +19,7 @@ protected:
 
 public:
 	AMyGoalZone();
-	UPROPERTY(VisibleAnywhere)
+	UPROPERTY(BlueprintReadOnly,VisibleAnywhere)
 		bool GameClear = false;
 
 	UFUNCTION()
