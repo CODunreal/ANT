@@ -38,7 +38,7 @@ public:
 	UPROPERTY(EditAnywhere)
 	class UStaticMeshComponent* OurCollectionMesh = nullptr;
 
-	UPROPERTY(VisibleAnywhere)
+	UPROPERTY(BlueprintReadOnly, VisibleAnywhere)
 	bool hasCollection = false;
 
 	FVector currentVelocity;
