@@ -20,7 +20,7 @@ protected:
 public:
 	AMyCollectionZone();
 
-	UPROPERTY(VisibleAnywhere)
+	UPROPERTY(BlueprintReadOnly, VisibleAnywhere)
 		bool hasCollection = false;
 
 	UFUNCTION()

@@ -22,6 +22,7 @@ public:
 	UPROPERTY(BlueprintReadOnly,VisibleAnywhere)
 		bool GameClear = false;
 
+
 	UFUNCTION()
 		void OnOverlapBegin(class AActor* OverlapedActor, class AActor* OtherActor);
 
